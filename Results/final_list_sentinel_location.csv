@@ -1,0 +1,200 @@
+,idm_ioibge,NomeDSEI,StatusDSEI,NumDSEI,muni_name,uf_muni,City coverage(%),Number of paths covered,MoH sentinel
+5027,1500859,Altamira,Integral,1,Anapu,Pará,0.00133,117.0,0.0
+5507,1303809,Alto Rio Negro,Parcial,1,São Gabriel da Cachoeira,Amazonas,0.00673,591.0,1.0
+5465,1300607,Vale do Javari,Integral,1,Benjamin Constant,Amazonas,0.01017,893.0,0.0
+2846,1400209,Yanomami,Parcial,1,Caracaraí,Roraima,0.01042,915.0,0.0
+5511,1304062,Alto Rio Solimões,Integral,1,Tabatinga,Amazonas,0.01298,1140.0,1.0
+5512,1304104,Médio Rio Purus,Parcial,1,Tapauá,Amazonas,0.01444,1268.0,0.0
+2884,1600279,Amapá e Norte do Pará,Parcial,1,Laranjal do Jari,Amapá,0.01891,1660.0,1.0
+5501,1303403,Parintins,Integral,1,Parintins,Amazonas,0.02238,1965.0,1.0
+2864,1503606,Rio Tapajós,Integral,1,Itaituba,Pará,0.04793,4208.0,0.0
+3009,1506138,Kayapó - PA,Integral,1,Redenção,Pará,0.06386,5607.0,0.0
+2886,5100250,Kayapó - MT,Integral,1,Alta Floresta,Mato Grosso,0.07651,6718.0,0.0
+5513,1304203,Médio Rio Solimões e Afluentes,Integral,1,Tefé,Amazonas,0.08614,7563.0,1.0
+5539,1100304,Vilhena,Integral,1,Vilhena,Rondônia,0.09147,8031.0,1.0
+2608,4313409,Litoral Sul,Integral,1,Novo Hamburgo,Rio Grande do Sul,0.09526,8364.0,0.0
+71,4209003,,,0,Joaçaba,Santa Catarina,0.09776,8583.0,1.0
+4895,3502101,,,0,Andradina,São Paulo,0.09784,8590.0,0.0
+4357,2613909,,,0,Serra Talhada,Pernambuco,0.09793,8598.0,1.0
+5135,4108809,Interior Sul,Integral,1,Guaíra,Paraná,0.09852,8650.0,0.0
+2941,1500800,,,0,Ananindeua,Pará,0.09913,8704.0,0.0
+2338,3554102,,,0,Taubaté,São Paulo,0.09974,8757.0,1.0
+3543,2207009,,,0,Oeiras,Piauí,0.10189,8946.0,0.0
+1594,3171303,,,0,Viçosa,Minas Gerais,0.10433,9160.0,0.0
+3450,2202307,,,0,Canto do Buriti,Piauí,0.10444,9170.0,0.0
+4910,4203006,Interior Sul,Integral,1,Caçador,Santa Catarina,0.10639,9341.0,0.0
+2015,3522307,,,0,Itapetininga,São Paulo,0.10733,9424.0,0.0
+474,4320800,,,0,Soledade,Rio Grande do Sul,0.10883,9555.0,0.0
+1162,3136207,,,0,João Monlevade,Minas Gerais,0.10885,9557.0,0.0
+655,5108402,Cuiabá,Integral,1,Várzea Grande,Mato Grosso,0.10965,9627.0,0.0
+1187,3138203,,,0,Lavras,Minas Gerais,0.10966,9628.0,0.0
+3205,2101251,Maranhão,Integral,1,Bacabeira,Maranhão,0.11003,9661.0,0.0
+2824,1200203,Alto Rio Juruá,Parcial,1,Cruzeiro do Sul,Acre,0.11003,9661.0,1.0
+1364,3152501,,,0,Pouso Alegre,Minas Gerais,0.11194,9828.0,1.0
+4649,2909802,Bahia,Integral,1,Cruz das Almas,Bahia,0.11195,9829.0,0.0
+4988,2911709,,,0,Guanambi,Bahia,0.11236,9865.0,0.0
+867,3110707,,,0,Cambuquira,Minas Gerais,0.11237,9866.0,0.0
+2460,4209102,Litoral Sul,Integral,1,Joinville,Santa Catarina,0.1128,9904.0,1.0
+4887,5218003,,,0,Porangatu,Goiás,0.11325,9943.0,1.0
+122,4219507,Interior Sul,Integral,1,Xanxerê,Santa Catarina,0.11362,9976.0,0.0
+3466,2202901,,,0,Corrente,Piauí,0.11396,10006.0,0.0
+681,2905602,Bahia,Integral,1,Camacan,Bahia,0.11436,10041.0,0.0
+3607,2210607,,,0,São Raimundo Nonato,Piauí,0.11484,10083.0,0.0
+3351,2110203,Maranhão,Integral,1,Santa Rita,Maranhão,0.11533,10126.0,0.0
+418,4317202,,,0,Santa Rosa,Rio Grande do Sul,0.11711,10282.0,0.0
+953,3118304,,,0,Conselheiro Lafaiete,Minas Gerais,0.11805,10365.0,0.0
+2040,3524808,,,0,Jales,São Paulo,0.11924,10469.0,0.0
+795,3104007,,,0,Araxá,Minas Gerais,0.122,10712.0,0.0
+769,3101706,,,0,Almenara,Minas Gerais,0.12304,10803.0,0.0
+2317,3552205,,,0,Sorocaba,São Paulo,0.12395,10883.0,1.0
+5529,1100122,Porto Velho,Integral,1,Ji-Paraná,Rondônia,0.1242,10905.0,0.0
+4738,2921302,,,0,Milagres,Bahia,0.12448,10929.0,0.0
+5072,4102604,,,0,Barracão,Paraná,0.12481,10958.0,0.0
+3448,2202208,,,0,Campo Maior,Piauí,0.12566,11033.0,0.0
+2733,5211503,,,0,Itumbiara,Goiás,0.12707,11157.0,1.0
+1412,3157005,,,0,Salinas,Minas Gerais,0.12737,11183.0,0.0
+1948,3516200,,,0,Franca,São Paulo,0.12754,11198.0,0.0
+964,3119401,,,0,Coronel Fabriciano,Minas Gerais,0.12774,11216.0,1.0
+5532,1100155,Porto Velho,Integral,1,Ouro Preto do Oeste,Rondônia,0.12806,11244.0,0.0
+550,5003702,Mato Grosso do Sul,Integral,1,Dourados,Mato Grosso do Sul,0.1283,11265.0,1.0
+1689,3300407,,,0,Barra Mansa,Rio de Janeiro,0.12968,11386.0,0.0
+2142,3534708,,,0,Ourinhos,São Paulo,0.12987,11403.0,0.0
+177,4303509,Litoral Sul,Integral,1,Camaquã,Rio Grande do Sul,0.13001,11415.0,0.0
+1205,3139409,,,0,Manhuaçu,Minas Gerais,0.1304,11449.0,1.0
+368,4314407,Litoral Sul,Integral,1,Pelotas,Rio Grande do Sul,0.13122,11521.0,1.0
+5226,4118501,Interior Sul,Integral,1,Pato Branco,Paraná,0.13167,11561.0,1.0
+3811,2400208,Potiguara,Integral,1,Açu,Rio Grande do Norte,0.13284,11663.0,0.0
+5294,4127700,,,0,Toledo,Paraná,0.1337,11739.0,1.0
+1806,3503208,,,0,Araraquara,São Paulo,0.13386,11753.0,0.0
+251,4307807,Litoral Sul,Integral,1,Estrela,Rio Grande do Sul,0.13478,11834.0,0.0
+2181,3538709,,,0,Piracicaba,São Paulo,0.13484,11839.0,0.0
+2833,1200401,Alto Rio Purus,Integral,1,Rio Branco,Acre,0.13509,11861.0,1.0
+354,4313706,,,0,Palmeira das Missões,Rio Grande do Sul,0.13571,11915.0,0.0
+5445,4109401,Interior Sul,Integral,1,Guarapuava,Paraná,0.13612,11951.0,1.0
+3083,1705508,Tocantins,Integral,1,Colinas do Tocantins,Tocantins,0.1363,11967.0,0.0
+2683,5205109,,,0,Catalão,Goiás,0.13885,12191.0,0.0
+607,5102504,,,0,Cáceres,Mato Grosso,0.13973,12268.0,0.0
+3676,2304202,,,0,Crato,Ceará,0.14069,12353.0,0.0
+897,3113404,,,0,Caratinga,Minas Gerais,0.14294,12550.0,0.0
+1257,3143906,,,0,Muriaé,Minas Gerais,0.14353,12602.0,1.0
+5519,1100023,Porto Velho,Integral,1,Ariquemes,Rondônia,0.1436,12608.0,1.0
+3404,2200202,,,0,Água Branca,Piauí,0.14528,12756.0,0.0
+44,4204301,,,0,Concórdia,Santa Catarina,0.1469,12898.0,1.0
+2843,1400100,Leste de Roraima,Integral,1,Boa Vista,Roraima,0.14766,12965.0,1.0
+703,2914802,,,0,Itabuna,Bahia,0.15099,13257.0,0.0
+4689,2914604,,,0,Irecê,Bahia,0.15356,13483.0,0.0
+2425,4204608,,,0,Criciúma,Santa Catarina,0.15361,13487.0,1.0
+4725,2919553,,,0,Luís Eduardo Magalhães,Bahia,0.15369,13494.0,0.0
+896,3113305,,,0,Carangola,Minas Gerais,0.15624,13718.0,0.0
+243,4307005,Interior Sul,Integral,1,Erechim,Rio Grande do Sul,0.15675,13763.0,0.0
+2293,3549904,,,0,São José dos Campos,São Paulo,0.15682,13769.0,0.0
+4213,2601201,Pernambuco,Integral,1,Arcoverde,Pernambuco,0.15902,13962.0,1.0
+998,3122306,Minas Gerais e Espírito Santo,Integral,1,Divinópolis,Minas Gerais,0.16086,14124.0,1.0
+2986,1504208,Guamá-Tocantins,Integral,1,Marabá,Pará,0.1615,14180.0,0.0
+692,2910727,,,0,Eunápolis,Bahia,0.16206,14229.0,0.0
+3832,2402006,,,0,Caicó,Rio Grande do Norte,0.16249,14267.0,0.0
+2513,4214805,,,0,Rio do Sul,Santa Catarina,0.16379,14381.0,0.0
+3208,2101400,,,0,Balsas,Maranhão,0.16485,14474.0,0.0
+3724,2307304,,,0,Juazeiro do Norte,Ceará,0.16489,14477.0,1.0
+2961,1502202,,,0,Capanema,Pará,0.16528,14512.0,0.0
+4624,2906873,,,0,Capim Grosso,Bahia,0.16617,14590.0,0.0
+2388,4201406,Litoral Sul,Integral,1,Araranguá,Santa Catarina,0.16717,14678.0,0.0
+2704,5208004,,,0,Formosa,Goiás,0.16861,14804.0,0.0
+4911,4203600,,,0,Campos Novos,Santa Catarina,0.16998,14924.0,0.0
+5090,4104303,,,0,Campo Mourão,Paraná,0.17154,15061.0,1.0
+3326,2108454,,,0,Peritoró,Maranhão,0.17156,15063.0,0.0
+1108,3131307,,,0,Ipatinga,Minas Gerais,0.17165,15071.0,1.0
+606,5101803,Xavante,Integral,1,Barra do Garças,Mato Grosso,0.172,15102.0,0.0
+1119,3132404,,,0,Itajubá,Minas Gerais,0.17253,15148.0,0.0
+4996,2918001,,,0,Jequié,Bahia,0.17362,15244.0,0.0
+5100,4105508,,,0,Cianorte,Paraná,0.17491,15357.0,1.0
+648,5107602,Cuiabá,Integral,1,Rondonópolis,Mato Grosso,0.17957,15766.0,0.0
+2395,4202008,Litoral Sul,Integral,1,Balneário Camboriú,Santa Catarina,0.18182,15964.0,1.0
+4569,2900702,,,0,Alagoinhas,Bahia,0.18244,16018.0,1.0
+5432,4101408,Interior Sul,Integral,1,Apucarana,Paraná,0.18495,16239.0,1.0
+1358,3152105,,,0,Ponte Nova,Minas Gerais,0.18643,16369.0,0.0
+2926,5107909,Parque Indígena do Xingú,Integral,1,Sinop,Mato Grosso,0.18655,16379.0,0.0
+309,4311403,Litoral Sul,Integral,1,Lajeado,Rio Grande do Sul,0.18764,16475.0,0.0
+4325,2611101,,,0,Petrolina,Pernambuco,0.18809,16514.0,1.0
+263,4308508,Interior Sul,Integral,1,Frederico Westphalen,Rio Grande do Sul,0.19147,16811.0,0.0
+5299,4128104,,,0,Umuarama,Paraná,0.1918,16840.0,1.0
+4924,4302105,Litoral Sul,Integral,1,Bento Gonçalves,Rio Grande do Sul,0.19339,16980.0,0.0
+2877,1506807,Guamá-Tocantins,Integral,1,Santarém,Pará,0.19885,17459.0,0.0
+2083,3529005,,,0,Marília,São Paulo,0.20106,17653.0,0.0
+2963,1502400,,,0,Castanhal,Pará,0.20165,17705.0,0.0
+2462,4209300,,,0,Lages,Santa Catarina,0.20324,17845.0,1.0
+5039,1600303,,,0,Macapá,Amapá,0.20457,17961.0,1.0
+3136,1716109,Tocantins,Integral,1,Paraíso do Tocantins,Tocantins,0.20486,17987.0,0.0
+1837,3506003,Interior Sul,Integral,1,Bauru,São Paulo,0.20881,18334.0,1.0
+3792,2312908,,,0,Sobral,Ceará,0.20943,18388.0,1.0
+3912,2409407,,,0,Pau dos Ferros,Rio Grande do Norte,0.21114,18538.0,0.0
+767,3101607,Minas Gerais e Espírito Santo,Integral,1,Alfenas,Minas Gerais,0.22003,19319.0,1.0
+2402,4202404,,,0,Blumenau,Santa Catarina,0.2234,19615.0,0.0
+223,4306106,,,0,Cruz Alta,Rio Grande do Sul,0.22502,19757.0,0.0
+4266,2606002,,,0,Garanhuns,Pernambuco,0.22713,19942.0,1.0
+362,4314100,Interior Sul,Integral,1,Passo Fundo,Rio Grande do Sul,0.23065,20251.0,1.0
+1555,3168606,Minas Gerais e Espírito Santo,Integral,1,Teófilo Otoni,Minas Gerais,0.23564,20689.0,1.0
+5130,4108403,,,0,Francisco Beltrão,Paraná,0.2499,21941.0,1.0
+285,4310207,,,0,Ijuí,Rio Grande do Sul,0.25132,22066.0,0.0
+1816,3504008,,,0,Assis,São Paulo,0.25652,22523.0,0.0
+1801,3502804,,,0,Araçatuba,São Paulo,0.25749,22608.0,0.0
+3845,2403251,Potiguara,Integral,1,Parnamirim,Rio Grande do Norte,0.25785,22639.0,0.0
+5384,4119905,,,0,Ponta Grossa,Paraná,0.25827,22676.0,1.0
+3236,2103000,,,0,Caxias,Maranhão,0.25936,22772.0,0.0
+2578,4305108,Litoral Sul,Integral,1,Caxias do Sul,Rio Grande do Sul,0.25975,22806.0,1.0
+3204,2101202,,,0,Bacabal,Maranhão,0.26167,22975.0,0.0
+1250,3143302,Minas Gerais e Espírito Santo,Integral,1,Montes Claros,Minas Gerais,0.2636,23144.0,1.0
+3484,2203909,,,0,Floriano,Piauí,0.26853,23577.0,0.0
+4024,2503704,,,0,Cajazeiras,Paraíba,0.27924,24517.0,0.0
+1573,3170107,,,0,Uberaba,Minas Gerais,0.29224,25659.0,1.0
+2624,4318705,Litoral Sul,Integral,1,São Leopoldo,Rio Grande do Sul,0.29606,25994.0,0.0
+812,3105608,,,0,Barbacena,Minas Gerais,0.29967,26311.0,0.0
+2430,4205407,Litoral Sul,Integral,1,Florianópolis,Santa Catarina,0.3147,27631.0,1.0
+751,2933307,,,0,Vitória da Conquista,Bahia,0.33377,29305.0,0.0
+3274,2105302,,,0,Imperatriz,Maranhão,0.34231,30055.0,0.0
+414,4316907,Interior Sul,Integral,1,Santa Maria,Rio Grande do Sul,0.36905,32403.0,1.0
+3057,1702109,Tocantins,Integral,1,Araguaína,Tocantins,0.38603,33894.0,0.0
+3103,1709500,Tocantins,Integral,1,Gurupi,Tocantins,0.38729,34004.0,0.0
+1574,3170206,,,0,Uberlândia,Minas Gerais,0.42119,36981.0,1.0
+2654,5201108,,,0,Anápolis,Goiás,0.42244,37090.0,1.0
+5365,4113700,Interior Sul,Integral,1,Londrina,Paraná,0.43685,38356.0,1.0
+2229,3543402,,,0,Ribeirão Preto,São Paulo,0.43737,38401.0,1.0
+43,4204202,Interior Sul,Integral,1,Chapecó,Santa Catarina,0.44033,38661.0,1.0
+1681,3205309,,,0,Vitória,Espírito Santo,0.46196,40560.0,1.0
+5493,1302603,Manaus,Integral,1,Manaus,Amazonas,0.46594,40910.0,1.0
+3897,2408003,,,0,Mossoró,Rio Grande do Norte,0.47401,41618.0,0.0
+1171,3136702,,,0,Juiz de Fora,Minas Gerais,0.47782,41953.0,0.0
+4112,2510808,,,0,Patos,Paraíba,0.49348,43328.0,0.0
+5187,4115200,,,0,Maringá,Paraná,0.50815,44616.0,1.0
+1066,3127701,Minas Gerais e Espírito Santo,Integral,1,Governador Valadares,Minas Gerais,0.53967,47383.0,1.0
+4593,2903201,,,0,Barreiras,Bahia,0.55126,48401.0,1.0
+3178,1721000,Tocantins,Integral,1,Palmas,Tocantins,0.5527,48527.0,1.0
+4244,2604106,Pernambuco,Integral,1,Caruaru,Pernambuco,0.55652,48863.0,1.0
+4906,3541406,,,0,Presidente Prudente,São Paulo,0.56271,49406.0,0.0
+4387,2700300,Alagoas e Sergipe,Integral,1,Arapiraca,Alagoas,0.56295,49427.0,1.0
+538,5002704,Mato Grosso do Sul,Integral,1,Campo Grande,Mato Grosso do Sul,0.60313,52955.0,1.0
+3561,2208007,,,0,Picos,Piauí,0.61333,53851.0,0.0
+4072,2507507,Potiguara,Integral,1,João Pessoa,Paraíba,0.61675,54151.0,1.0
+2292,3549805,,,0,São José do Rio Preto,São Paulo,0.65084,57144.0,1.0
+611,5103403,Cuiabá,Integral,1,Cuiabá,Mato Grosso,0.66178,58105.0,1.0
+4431,2704302,Alagoas e Sergipe,Integral,1,Maceió,Alagoas,0.66917,58753.0,1.0
+191,4304705,Interior Sul,Integral,1,Carazinho,Rio Grande do Sul,0.75592,66370.0,0.0
+5095,4104808,,,0,Cascavel,Paraná,0.84726,74390.0,1.0
+4331,2611606,Pernambuco,Integral,1,Recife,Pernambuco,0.96174,84441.0,1.0
+3370,2111300,Maranhão,Integral,1,São Luís,Maranhão,1.01364,88998.0,1.0
+3898,2408102,,,0,Natal,Rio Grande do Norte,1.04207,91494.0,1.0
+4659,2910800,Bahia,Integral,1,Feira de Santana,Bahia,1.10152,96714.0,1.0
+4489,2800308,,,0,Aracaju,Sergipe,1.17717,103356.0,1.0
+4028,2504009,,,0,Campina Grande,Paraíba,1.21621,106784.0,1.0
+1749,3304557,Litoral Sul,Integral,1,Rio de Janeiro,Rio de Janeiro,1.27305,111774.0,1.0
+3617,2211001,,,0,Teresina,Piauí,1.27465,111915.0,1.0
+1877,3509502,,,0,Campinas,São Paulo,1.3121,115203.0,1.0
+4800,2927408,Bahia,Integral,1,Salvador,Bahia,1.33486,117201.0,1.0
+5337,4106902,Litoral Sul,Integral,1,Curitiba,Paraná,1.35167,118677.0,1.0
+2818,5300108,,,0,Brasília,Distrito Federal,1.41899,124588.0,1.0
+2948,1501402,Guamá-Tocantins,Integral,1,Belém,Pará,1.44152,126566.0,1.0
+2615,4314902,Litoral Sul,Integral,1,Porto Alegre,Rio Grande do Sul,1.87804,164893.0,1.0
+3684,2304400,Ceará,Integral,1,Fortaleza,Ceará,1.88299,165327.0,1.0
+2709,5208707,Araguaia,Integral,1,Goiânia,Goiás,2.32565,204193.0,1.0
+817,3106200,,,0,Belo Horizonte,Minas Gerais,3.36193,295179.0,1.0
+2298,3550308,Litoral Sul,Integral,1,São Paulo,São Paulo,5.4004,474158.0,1.0

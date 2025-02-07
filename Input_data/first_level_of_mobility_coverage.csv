@@ -1,0 +1,3858 @@
+,muni_name,cod_ibge_muni,uf_muni,Number of paths covered,City coverage(%),MoH sentinel
+0,Alta Floresta D'Oeste,1100015,Rondônia,97,0.0011,0
+1,Ariquemes,1100023,Rondônia,12608,0.1436,1
+2,Cacoal,1100049,Rondônia,7774,0.08854,0
+3,Cerejeiras,1100056,Rondônia,3441,0.03919,0
+4,Colorado do Oeste,1100064,Rondônia,1787,0.02035,0
+5,Costa Marques,1100080,Rondônia,189,0.00215,0
+6,Espigão D'Oeste,1100098,Rondônia,1,1e-05,0
+7,Guajará-Mirim,1100106,Rondônia,620,0.00706,0
+8,Jaru,1100114,Rondônia,4469,0.0509,0
+9,Ji-Paraná,1100122,Rondônia,10905,0.1242,0
+10,Machadinho D'Oeste,1100130,Rondônia,1374,0.01565,0
+11,Nova Brasilândia D'Oeste,1100148,Rondônia,415,0.00473,0
+12,Ouro Preto do Oeste,1100155,Rondônia,11244,0.12806,0
+13,Pimenta Bueno,1100189,Rondônia,6120,0.0697,0
+14,Porto Velho,1100205,Rondônia,6430,0.07323,1
+15,Presidente Médici,1100254,Rondônia,2414,0.02749,0
+16,Rolim de Moura,1100288,Rondônia,6395,0.07284,0
+17,Santa Luzia D'Oeste,1100296,Rondônia,682,0.00777,0
+18,Vilhena,1100304,Rondônia,8031,0.09147,1
+19,São Miguel do Guaporé,1100320,Rondônia,1335,0.0152,0
+20,Nova Mamoré,1100338,Rondônia,522,0.00595,0
+21,Alvorada D'Oeste,1100346,Rondônia,392,0.00446,0
+22,Alto Alegre dos Parecis,1100379,Rondônia,3,3e-05,0
+23,Alto Paraíso,1100403,Rondônia,1123,0.01279,0
+24,Buritis,1100452,Rondônia,1276,0.01453,0
+25,Novo Horizonte do Oeste,1100502,Rondônia,401,0.00457,0
+26,Campo Novo de Rondônia,1100700,Rondônia,12,0.00014,0
+27,Candeias do Jamari,1100809,Rondônia,14,0.00016,0
+28,Itapuã do Oeste,1101104,Rondônia,4,5e-05,0
+29,Mirante da Serra,1101302,Rondônia,485,0.00552,0
+30,Monte Negro,1101401,Rondônia,1560,0.01777,0
+31,Nova União,1101435,Rondônia,432,0.00492,0
+32,São Francisco do Guaporé,1101492,Rondônia,355,0.00404,0
+33,Seringueiras,1101500,Rondônia,307,0.0035,0
+34,Teixeirópolis,1101559,Rondônia,425,0.00484,0
+35,Theobroma,1101609,Rondônia,685,0.0078,0
+36,Urupá,1101708,Rondônia,393,0.00448,0
+37,Vale do Anari,1101757,Rondônia,784,0.00893,0
+38,Acrelândia,1200013,Acre,219,0.00249,0
+39,Assis Brasil,1200054,Acre,381,0.00434,0
+40,Brasiléia,1200104,Acre,1516,0.01727,1
+41,Bujari,1200138,Acre,1511,0.01721,0
+42,Capixaba,1200179,Acre,1470,0.01674,0
+43,Cruzeiro do Sul,1200203,Acre,9661,0.11003,1
+44,Feijó,1200302,Acre,1165,0.01327,0
+45,Plácido de Castro,1200385,Acre,447,0.00509,0
+46,Rio Branco,1200401,Acre,11861,0.13509,1
+47,Senador Guiomard,1200450,Acre,1986,0.02262,0
+48,Sena Madureira,1200500,Acre,1015,0.01156,0
+49,Tarauacá,1200609,Acre,732,0.00834,0
+50,Xapuri,1200708,Acre,560,0.00638,0
+51,Alvarães,1300029,Amazonas,51,0.00058,0
+52,Amaturá,1300060,Amazonas,917,0.01044,0
+53,Anamã,1300086,Amazonas,711,0.0081,0
+54,Anori,1300102,Amazonas,438,0.00499,0
+55,Apuí,1300144,Amazonas,797,0.00908,0
+56,Barcelos,1300409,Amazonas,1077,0.01227,0
+57,Barreirinha,1300508,Amazonas,490,0.00558,0
+58,Benjamin Constant,1300607,Amazonas,893,0.01017,0
+59,Beruri,1300631,Amazonas,1070,0.01219,0
+60,Boa Vista do Ramos,1300680,Amazonas,168,0.00191,0
+61,Borba,1300805,Amazonas,1244,0.01417,1
+62,Caapiranga,1300839,Amazonas,3,3e-05,0
+63,Careiro,1301100,Amazonas,2,2e-05,1
+64,Coari,1301209,Amazonas,1755,0.01999,1
+65,Codajás,1301308,Amazonas,702,0.008,0
+66,Fonte Boa,1301605,Amazonas,1218,0.01387,0
+67,Humaitá,1301704,Amazonas,2349,0.02675,0
+68,Itacoatiara,1301902,Amazonas,3744,0.04264,1
+69,Itapiranga,1302009,Amazonas,2473,0.02817,0
+70,Japurá,1302108,Amazonas,24,0.00027,0
+71,Jutaí,1302306,Amazonas,1682,0.01916,0
+72,Lábrea,1302405,Amazonas,1,1e-05,1
+73,Manacapuru,1302504,Amazonas,3945,0.04493,1
+74,Manaquiri,1302553,Amazonas,1204,0.01371,0
+75,Manaus,1302603,Amazonas,40910,0.46594,1
+76,Manicoré,1302702,Amazonas,318,0.00362,1
+77,Maraã,1302801,Amazonas,140,0.00159,0
+78,Maués,1302900,Amazonas,3,3e-05,1
+79,Nova Olinda do Norte,1303106,Amazonas,668,0.00761,0
+80,Novo Airão,1303205,Amazonas,8,9e-05,0
+81,Novo Aripuanã,1303304,Amazonas,385,0.00438,0
+82,Parintins,1303403,Amazonas,1965,0.02238,1
+83,Presidente Figueiredo,1303536,Amazonas,213,0.00243,1
+84,Rio Preto da Eva,1303569,Amazonas,1131,0.01288,1
+85,Santa Isabel do Rio Negro,1303601,Amazonas,712,0.00811,0
+86,Santo Antônio do Içá,1303700,Amazonas,798,0.00909,0
+87,São Gabriel da Cachoeira,1303809,Amazonas,591,0.00673,1
+88,São Paulo de Olivença,1303908,Amazonas,581,0.00662,0
+89,Silves,1304005,Amazonas,219,0.00249,0
+90,Tabatinga,1304062,Amazonas,1140,0.01298,1
+91,Tapauá,1304104,Amazonas,1268,0.01444,0
+92,Tefé,1304203,Amazonas,7563,0.08614,1
+93,Tonantins,1304237,Amazonas,591,0.00673,0
+94,Uarini,1304260,Amazonas,3,3e-05,0
+95,Urucará,1304302,Amazonas,693,0.00789,0
+96,Boa Vista,1400100,Roraima,12965,0.14766,1
+97,Bonfim,1400159,Roraima,103,0.00117,1
+98,Caracaraí,1400209,Roraima,915,0.01042,0
+99,Caroebe,1400233,Roraima,475,0.00541,0
+100,Iracema,1400282,Roraima,271,0.00309,0
+101,Mucajaí,1400308,Roraima,576,0.00656,0
+102,Normandia,1400407,Roraima,1,1e-05,0
+103,Rorainópolis,1400472,Roraima,271,0.00309,1
+104,São João da Baliza,1400506,Roraima,384,0.00437,0
+105,São Luiz,1400605,Roraima,735,0.00837,0
+106,Abaetetuba,1500107,Pará,334,0.0038,0
+107,Abel Figueiredo,1500131,Pará,303,0.00345,0
+108,Afuá,1500305,Pará,1129,0.01286,0
+109,Água Azul do Norte,1500347,Pará,1155,0.01315,0
+110,Alenquer,1500404,Pará,569,0.00648,0
+111,Almeirim,1500503,Pará,1344,0.01531,0
+112,Altamira,1500602,Pará,7782,0.08863,0
+113,Anajás,1500701,Pará,545,0.00621,0
+114,Ananindeua,1500800,Pará,8704,0.09913,0
+115,Anapu,1500859,Pará,117,0.00133,0
+116,Augusto Corrêa,1500909,Pará,405,0.00461,0
+117,Aurora do Pará,1500958,Pará,262,0.00298,0
+118,Bagre,1501105,Pará,5,6e-05,0
+119,Barcarena,1501303,Pará,302,0.00344,0
+120,Belém,1501402,Pará,126566,1.44152,1
+121,Benevides,1501501,Pará,1464,0.01667,0
+122,Bom Jesus do Tocantins,1501576,Pará,588,0.0067,0
+123,Bragança,1501709,Pará,468,0.00533,0
+124,Brasil Novo,1501725,Pará,6,7e-05,0
+125,Brejo Grande do Araguaia,1501758,Pará,6,7e-05,0
+126,Breu Branco,1501782,Pará,31,0.00035,0
+127,Breves,1501808,Pará,332,0.00378,0
+128,Bujaru,1501907,Pará,2,2e-05,0
+129,Cachoeira do Piriá,1501956,Pará,588,0.0067,0
+130,Cachoeira do Arari,1502004,Pará,575,0.00655,0
+131,Cametá,1502103,Pará,178,0.00203,0
+132,Canaã dos Carajás,1502152,Pará,6185,0.07044,0
+133,Capanema,1502202,Pará,14512,0.16528,0
+134,Capitão Poço,1502301,Pará,322,0.00367,0
+135,Castanhal,1502400,Pará,17705,0.20165,0
+136,Conceição do Araguaia,1502707,Pará,6219,0.07083,0
+137,Concórdia do Pará,1502756,Pará,28,0.00032,0
+138,Curionópolis,1502772,Pará,716,0.00815,0
+139,Curuá,1502855,Pará,4,5e-05,0
+140,Dom Eliseu,1502939,Pará,212,0.00241,0
+141,Eldorado do Carajás,1502954,Pará,2294,0.02613,0
+142,Floresta do Araguaia,1503044,Pará,276,0.00314,0
+143,Goianésia do Pará,1503093,Pará,290,0.0033,0
+144,Gurupá,1503101,Pará,157,0.00179,0
+145,Igarapé-Açu,1503200,Pará,117,0.00133,0
+146,Ipixuna do Pará,1503457,Pará,33,0.00038,0
+147,Itaituba,1503606,Pará,4208,0.04793,0
+148,Itupiranga,1503705,Pará,194,0.00221,0
+149,Jacundá,1503804,Pará,5,6e-05,0
+150,Juruti,1503903,Pará,268,0.00305,0
+151,Mãe do Rio,1504059,Pará,33,0.00038,0
+152,Marabá,1504208,Pará,14180,0.1615,0
+153,Marituba,1504422,Pará,19,0.00022,0
+154,Moju,1504703,Pará,10,0.00011,0
+155,Monte Alegre,1504802,Pará,46,0.00052,0
+156,Nova Ipixuna,1504976,Pará,72,0.00082,0
+157,Nova Timboteua,1505007,Pará,9,0.0001,0
+158,Novo Progresso,1505031,Pará,807,0.00919,0
+159,Novo Repartimento,1505064,Pará,12,0.00014,0
+160,Óbidos,1505106,Pará,157,0.00179,0
+161,Ourém,1505403,Pará,278,0.00317,0
+162,Ourilândia do Norte,1505437,Pará,170,0.00194,0
+163,Pacajá,1505486,Pará,1,1e-05,0
+164,Paragominas,1505502,Pará,240,0.00273,0
+165,Parauapebas,1505536,Pará,2801,0.0319,0
+166,Pau D'Arco,1505551,Pará,4,5e-05,0
+167,Placas,1505650,Pará,26,0.0003,0
+168,Portel,1505809,Pará,2,2e-05,0
+169,Porto de Moz,1505908,Pará,127,0.00145,0
+170,Prainha,1506005,Pará,204,0.00232,0
+171,Quatipuru,1506112,Pará,9,0.0001,0
+172,Redenção,1506138,Pará,5607,0.06386,0
+173,Rio Maria,1506161,Pará,722,0.00822,0
+174,Rondon do Pará,1506187,Pará,9,0.0001,0
+175,Rurópolis,1506195,Pará,3413,0.03887,0
+176,Salinópolis,1506203,Pará,74,0.00084,0
+177,Salvaterra,1506302,Pará,817,0.00931,0
+178,Santa Izabel do Pará,1506500,Pará,111,0.00126,0
+179,Santa Luzia do Pará,1506559,Pará,9,0.0001,0
+180,Santa Maria do Pará,1506609,Pará,1883,0.02145,0
+181,Santana do Araguaia,1506708,Pará,425,0.00484,0
+182,Santarém,1506807,Pará,17459,0.19885,0
+183,São Domingos do Araguaia,1507151,Pará,120,0.00137,0
+184,São Félix do Xingu,1507300,Pará,616,0.00702,0
+185,São Francisco do Pará,1507409,Pará,27,0.00031,0
+186,São Geraldo do Araguaia,1507458,Pará,1125,0.01281,0
+187,São João do Araguaia,1507508,Pará,2,2e-05,0
+188,São Miguel do Guamá,1507607,Pará,87,0.00099,0
+189,Sapucaia,1507755,Pará,1,1e-05,0
+190,Senador José Porfírio,1507805,Pará,98,0.00112,0
+191,Tailândia,1507953,Pará,22,0.00025,0
+192,Terra Alta,1507961,Pará,103,0.00117,0
+193,Terra Santa,1507979,Pará,150,0.00171,0
+194,Tomé-Açu,1508001,Pará,2,2e-05,0
+195,Trairão,1508050,Pará,67,0.00076,0
+196,Tucumã,1508084,Pará,331,0.00377,0
+197,Tucuruí,1508100,Pará,37,0.00042,0
+198,Uruará,1508159,Pará,16,0.00018,0
+199,Vitória do Xingu,1508357,Pará,12,0.00014,0
+200,Xinguara,1508407,Pará,1507,0.01716,0
+201,Serra do Navio,1600055,Amapá,486,0.00554,0
+202,Amapá,1600105,Amapá,210,0.00239,0
+203,Pedra Branca do Amapari,1600154,Amapá,373,0.00425,0
+204,Calçoene,1600204,Amapá,696,0.00793,0
+205,Laranjal do Jari,1600279,Amapá,1660,0.01891,1
+206,Macapá,1600303,Amapá,17961,0.20457,1
+207,Oiapoque,1600501,Amapá,135,0.00154,1
+208,Porto Grande,1600535,Amapá,784,0.00893,0
+209,Santana,1600600,Amapá,58,0.00066,0
+210,Tartarugalzinho,1600709,Amapá,1135,0.01293,0
+211,Abreulândia,1700251,Tocantins,408,0.00465,0
+212,Aguiarnópolis,1700301,Tocantins,36,0.00041,0
+213,Aliança do Tocantins,1700350,Tocantins,3646,0.04153,0
+214,Almas,1700400,Tocantins,957,0.0109,0
+215,Alvorada,1700707,Tocantins,1585,0.01805,0
+216,Ananás,1701002,Tocantins,288,0.00328,0
+217,Angico,1701051,Tocantins,358,0.00408,0
+218,Aparecida do Rio Negro,1701101,Tocantins,1249,0.01423,0
+219,Aragominas,1701309,Tocantins,149,0.0017,0
+220,Araguacema,1701903,Tocantins,236,0.00269,0
+221,Araguaçu,1702000,Tocantins,484,0.00551,0
+222,Araguaína,1702109,Tocantins,33894,0.38603,0
+223,Araguatins,1702208,Tocantins,8078,0.092,0
+224,Arapoema,1702307,Tocantins,48,0.00055,0
+225,Arraias,1702406,Tocantins,1093,0.01245,0
+226,Augustinópolis,1702554,Tocantins,2413,0.02748,0
+227,Aurora do Tocantins,1702703,Tocantins,1295,0.01475,0
+228,Axixá do Tocantins,1702901,Tocantins,270,0.00308,0
+229,Bandeirantes do Tocantins,1703057,Tocantins,18,0.00021,0
+230,Barra do Ouro,1703073,Tocantins,9,0.0001,0
+231,Barrolândia,1703107,Tocantins,694,0.0079,0
+232,Bernardo Sayão,1703206,Tocantins,9,0.0001,0
+233,Brasilândia do Tocantins,1703602,Tocantins,173,0.00197,0
+234,Brejinho de Nazaré,1703701,Tocantins,2,2e-05,0
+235,Buriti do Tocantins,1703800,Tocantins,62,0.00071,0
+236,Campos Lindos,1703842,Tocantins,99,0.00113,0
+237,Cariri do Tocantins,1703867,Tocantins,109,0.00124,0
+238,Carmolândia,1703883,Tocantins,1,1e-05,0
+239,Caseara,1703909,Tocantins,18,0.00021,0
+240,Centenário,1704105,Tocantins,26,0.0003,0
+241,Chapada da Natividade,1705102,Tocantins,13,0.00015,0
+242,Colinas do Tocantins,1705508,Tocantins,11967,0.1363,0
+243,Combinado,1705557,Tocantins,9,0.0001,0
+244,Couto Magalhães,1706001,Tocantins,22,0.00025,0
+245,Cristalândia,1706100,Tocantins,282,0.00321,0
+246,Darcinópolis,1706506,Tocantins,17,0.00019,0
+247,Dianópolis,1707009,Tocantins,3186,0.03629,0
+248,Divinópolis do Tocantins,1707108,Tocantins,40,0.00046,0
+249,Dois Irmãos do Tocantins,1707207,Tocantins,4,5e-05,0
+250,Dueré,1707306,Tocantins,31,0.00035,0
+251,Fátima,1707553,Tocantins,110,0.00125,0
+252,Figueirópolis,1707652,Tocantins,200,0.00228,0
+253,Formoso do Araguaia,1708205,Tocantins,32,0.00036,0
+254,Fortaleza do Tabocão,1708254,Tocantins,101,0.00115,0
+255,Goianorte,1708304,Tocantins,4,5e-05,0
+256,Goiatins,1709005,Tocantins,15,0.00017,0
+257,Guaraí,1709302,Tocantins,5965,0.06794,0
+258,Gurupi,1709500,Tocantins,34004,0.38729,0
+259,Itacajá,1710508,Tocantins,104,0.00118,0
+260,Itaguatins,1710706,Tocantins,538,0.00613,0
+261,Itapiratins,1710904,Tocantins,1,1e-05,0
+262,Jaú do Tocantins,1711506,Tocantins,14,0.00016,0
+263,Lagoa da Confusão,1711902,Tocantins,11,0.00013,0
+264,Lagoa do Tocantins,1711951,Tocantins,127,0.00145,0
+265,Lajeado,1712009,Tocantins,180,0.00205,0
+266,Luzinópolis,1712454,Tocantins,39,0.00044,0
+267,Marianópolis do Tocantins,1712504,Tocantins,11,0.00013,0
+268,Maurilândia do Tocantins,1712801,Tocantins,7,8e-05,0
+269,Miracema do Tocantins,1713205,Tocantins,202,0.0023,0
+270,Miranorte,1713304,Tocantins,720,0.0082,0
+271,Monte do Carmo,1713601,Tocantins,1485,0.01691,0
+272,Monte Santo do Tocantins,1713700,Tocantins,2,2e-05,0
+273,Natividade,1714203,Tocantins,1397,0.01591,0
+274,Nazaré,1714302,Tocantins,26,0.0003,0
+275,Nova Olinda,1714880,Tocantins,498,0.00567,0
+276,Nova Rosalândia,1715002,Tocantins,16,0.00018,0
+277,Novo Acordo,1715101,Tocantins,20,0.00023,0
+278,Novo Jardim,1715259,Tocantins,5,6e-05,0
+279,Oliveira de Fátima,1715507,Tocantins,3,3e-05,0
+280,Palmeirópolis,1715754,Tocantins,393,0.00448,0
+281,Paraíso do Tocantins,1716109,Tocantins,17987,0.20486,0
+282,Paranã,1716208,Tocantins,21,0.00024,0
+283,Pau D'Arco,1716307,Tocantins,2,2e-05,0
+284,Pedro Afonso,1716505,Tocantins,752,0.00856,0
+285,Peixe,1716604,Tocantins,248,0.00282,0
+286,Pequizeiro,1716653,Tocantins,40,0.00046,0
+287,Colméia,1716703,Tocantins,594,0.00677,0
+288,Pindorama do Tocantins,1717008,Tocantins,9,0.0001,0
+289,Pium,1717503,Tocantins,3,3e-05,0
+290,Ponte Alta do Bom Jesus,1717800,Tocantins,19,0.00022,0
+291,Ponte Alta do Tocantins,1717909,Tocantins,26,0.0003,0
+292,Porto Nacional,1718204,Tocantins,6753,0.07691,0
+293,Presidente Kennedy,1718402,Tocantins,4,5e-05,0
+294,Pugmil,1718451,Tocantins,4,5e-05,0
+295,Rio dos Bois,1718709,Tocantins,26,0.0003,0
+296,Santa Maria do Tocantins,1718881,Tocantins,132,0.0015,0
+297,Santa Rosa do Tocantins,1718907,Tocantins,112,0.00128,0
+298,Santa Tereza do Tocantins,1719004,Tocantins,142,0.00162,0
+299,São Bento do Tocantins,1720101,Tocantins,4,5e-05,0
+300,São Miguel do Tocantins,1720200,Tocantins,31,0.00035,0
+301,São Salvador do Tocantins,1720259,Tocantins,20,0.00023,0
+302,São Valério,1720499,Tocantins,8,9e-05,0
+303,Silvanópolis,1720655,Tocantins,164,0.00187,0
+304,Sítio Novo do Tocantins,1720804,Tocantins,208,0.00237,0
+305,Taguatinga,1720903,Tocantins,94,0.00107,0
+306,Palmas,1721000,Tocantins,48527,0.5527,1
+307,Tocantinópolis,1721208,Tocantins,286,0.00326,0
+308,Wanderlândia,1722081,Tocantins,1148,0.01308,0
+309,Xambioá,1722107,Tocantins,122,0.00139,0
+310,Açailândia,2100055,Maranhão,6608,0.07526,0
+311,Água Doce do Maranhão,2100154,Maranhão,1372,0.01563,0
+312,Alcântara,2100204,Maranhão,59,0.00067,0
+313,Altamira do Maranhão,2100402,Maranhão,1542,0.01756,0
+314,Alto Alegre do Maranhão,2100436,Maranhão,4112,0.04683,0
+315,Amapá do Maranhão,2100550,Maranhão,9,0.0001,0
+316,Amarante do Maranhão,2100600,Maranhão,98,0.00112,0
+317,Anajatuba,2100709,Maranhão,7,8e-05,0
+318,Anapurus,2100808,Maranhão,3280,0.03736,0
+319,Apicum-Açu,2100832,Maranhão,491,0.00559,0
+320,Araguanã,2100873,Maranhão,151,0.00172,0
+321,Araioses,2100907,Maranhão,67,0.00076,0
+322,Arame,2100956,Maranhão,2,2e-05,0
+323,Arari,2101004,Maranhão,6688,0.07617,0
+324,Axixá,2101103,Maranhão,197,0.00224,0
+325,Bacabal,2101202,Maranhão,22975,0.26167,0
+326,Bacabeira,2101251,Maranhão,9661,0.11003,0
+327,Balsas,2101400,Maranhão,14474,0.16485,0
+328,Barão de Grajaú,2101509,Maranhão,1917,0.02183,0
+329,Barra do Corda,2101608,Maranhão,5225,0.05951,0
+330,Barreirinhas,2101707,Maranhão,73,0.00083,0
+331,Bela Vista do Maranhão,2101772,Maranhão,25,0.00028,0
+332,Bequimão,2101905,Maranhão,24,0.00027,0
+333,Bernardo do Mearim,2101939,Maranhão,1462,0.01665,0
+334,Boa Vista do Gurupi,2101970,Maranhão,2,2e-05,0
+335,Brejo,2102101,Maranhão,216,0.00246,0
+336,Buriti,2102200,Maranhão,76,0.00087,0
+337,Buriti Bravo,2102309,Maranhão,215,0.00245,0
+338,Buriticupu,2102325,Maranhão,3,3e-05,0
+339,Buritirana,2102358,Maranhão,313,0.00356,0
+340,Campestre do Maranhão,2102556,Maranhão,586,0.00667,0
+341,Cândido Mendes,2102606,Maranhão,330,0.00376,0
+342,Cantanhede,2102705,Maranhão,31,0.00035,0
+343,Capinzal do Norte,2102754,Maranhão,44,0.0005,0
+344,Carolina,2102804,Maranhão,113,0.00129,0
+345,Carutapera,2102903,Maranhão,389,0.00443,0
+346,Caxias,2103000,Maranhão,22772,0.25936,0
+347,Central do Maranhão,2103125,Maranhão,181,0.00206,0
+348,Centro Novo do Maranhão,2103174,Maranhão,62,0.00071,0
+349,Chapadinha,2103208,Maranhão,599,0.00682,0
+350,Cidelândia,2103257,Maranhão,12,0.00014,0
+351,Codó,2103307,Maranhão,803,0.00915,0
+352,Coelho Neto,2103406,Maranhão,1819,0.02072,0
+353,Colinas,2103505,Maranhão,1319,0.01502,0
+354,Coroatá,2103604,Maranhão,27,0.00031,0
+355,Dom Pedro,2103802,Maranhão,1124,0.0128,0
+356,Esperantinópolis,2104008,Maranhão,3073,0.035,0
+357,Estreito,2104057,Maranhão,5705,0.06498,0
+358,Formosa da Serra Negra,2104099,Maranhão,17,0.00019,0
+359,Fortaleza dos Nogueiras,2104107,Maranhão,96,0.00109,0
+360,Fortuna,2104206,Maranhão,43,0.00049,0
+361,Godofredo Viana,2104305,Maranhão,64,0.00073,0
+362,Governador Edison Lobão,2104552,Maranhão,2,2e-05,0
+363,Governador Nunes Freire,2104677,Maranhão,330,0.00376,0
+364,Grajaú,2104800,Maranhão,2150,0.02449,0
+365,Humberto de Campos,2105005,Maranhão,1934,0.02203,0
+366,Igarapé Grande,2105203,Maranhão,108,0.00123,0
+367,Imperatriz,2105302,Maranhão,30055,0.34231,0
+368,Itapecuru Mirim,2105401,Maranhão,3742,0.04262,0
+369,João Lisboa,2105500,Maranhão,5,6e-05,0
+370,Lago da Pedra,2105708,Maranhão,1618,0.01843,0
+371,Lago do Junco,2105807,Maranhão,6,7e-05,0
+372,Lago Verde,2105906,Maranhão,13,0.00015,0
+373,Lagoa do Mato,2105922,Maranhão,19,0.00022,0
+374,Lago dos Rodrigues,2105948,Maranhão,42,0.00048,0
+375,Lajeado Novo,2105989,Maranhão,1,1e-05,0
+376,Lima Campos,2106003,Maranhão,40,0.00046,0
+377,Luís Domingues,2106201,Maranhão,56,0.00064,0
+378,Maracaçumé,2106326,Maranhão,1091,0.01243,0
+379,Maranhãozinho,2106375,Maranhão,193,0.0022,0
+380,Matinha,2106508,Maranhão,90,0.00103,0
+381,Matões do Norte,2106631,Maranhão,231,0.00263,0
+382,Mirador,2106706,Maranhão,15,0.00017,0
+383,Miranda do Norte,2106755,Maranhão,7094,0.0808,0
+384,Mirinzal,2106805,Maranhão,25,0.00028,0
+385,Montes Altos,2107001,Maranhão,2,2e-05,0
+386,Morros,2107100,Maranhão,249,0.00284,0
+387,Nova Olinda do Maranhão,2107357,Maranhão,178,0.00203,0
+388,Olho d'Água das Cunhãs,2107407,Maranhão,78,0.00089,0
+389,Olinda Nova do Maranhão,2107456,Maranhão,16,0.00018,0
+390,Paraibano,2107704,Maranhão,50,0.00057,0
+391,Parnarama,2107803,Maranhão,301,0.00343,0
+392,Passagem Franca,2107902,Maranhão,37,0.00042,0
+393,Pastos Bons,2108009,Maranhão,1709,0.01946,0
+394,Paulo Ramos,2108108,Maranhão,1407,0.01602,0
+395,Pedreiras,2108207,Maranhão,824,0.00938,0
+396,Peritoró,2108454,Maranhão,15063,0.17156,0
+397,Pinheiro,2108603,Maranhão,404,0.0046,0
+398,Pio XII,2108702,Maranhão,8,9e-05,0
+399,Pirapemas,2108801,Maranhão,77,0.00088,0
+400,Poção de Pedras,2108900,Maranhão,4,5e-05,0
+401,Porto Franco,2109007,Maranhão,2510,0.02859,0
+402,Presidente Dutra,2109106,Maranhão,5354,0.06098,0
+403,Riachão,2109502,Maranhão,5,6e-05,0
+404,Rosário,2109601,Maranhão,197,0.00224,0
+405,Santa Helena,2109809,Maranhão,48,0.00055,0
+406,Santa Inês,2109908,Maranhão,3436,0.03913,0
+407,Santa Luzia,2110005,Maranhão,10,0.00011,0
+408,Santa Luzia do Paruá,2110039,Maranhão,416,0.00474,0
+409,Santa Quitéria do Maranhão,2110104,Maranhão,66,0.00075,0
+410,Santa Rita,2110203,Maranhão,10126,0.11533,0
+411,Santo Amaro do Maranhão,2110278,Maranhão,1,1e-05,0
+412,Santo Antônio dos Lopes,2110302,Maranhão,4,5e-05,0
+413,São Benedito do Rio Preto,2110401,Maranhão,4,5e-05,0
+414,São Bernardo,2110609,Maranhão,58,0.00066,0
+415,São Domingos do Azeitão,2110658,Maranhão,392,0.00446,0
+416,São Domingos do Maranhão,2110708,Maranhão,51,0.00058,0
+417,São João dos Patos,2111102,Maranhão,1235,0.01407,0
+418,São José de Ribamar,2111201,Maranhão,60,0.00068,0
+419,São José dos Basílios,2111250,Maranhão,5,6e-05,0
+420,São Luís,2111300,Maranhão,88998,1.01364,1
+421,São Mateus do Maranhão,2111508,Maranhão,52,0.00059,0
+422,São Raimundo das Mangabeiras,2111607,Maranhão,36,0.00041,0
+423,São Vicente Ferrer,2111706,Maranhão,11,0.00013,0
+424,Senador Alexandre Costa,2111748,Maranhão,1,1e-05,0
+425,Senador La Rocque,2111763,Maranhão,3,3e-05,0
+426,Sítio Novo,2111805,Maranhão,18,0.00021,0
+427,Sucupira do Norte,2111904,Maranhão,10,0.00011,0
+428,Timon,2112209,Maranhão,4169,0.04748,0
+429,Tutóia,2112506,Maranhão,158,0.0018,0
+430,Urbano Santos,2112605,Maranhão,4,5e-05,0
+431,Vargem Grande,2112704,Maranhão,25,0.00028,0
+432,Viana,2112803,Maranhão,49,0.00056,0
+433,Vitória do Mearim,2112902,Maranhão,1772,0.02018,0
+434,Vitorino Freire,2113009,Maranhão,180,0.00205,0
+435,Zé Doca,2114007,Maranhão,84,0.00096,0
+436,Acauã,2200053,Piauí,1311,0.01493,0
+437,Água Branca,2200202,Piauí,12756,0.14528,0
+438,Alegrete do Piauí,2200277,Piauí,1961,0.02233,0
+439,Alto Longá,2200301,Piauí,733,0.00835,0
+440,Altos,2200400,Piauí,5127,0.05839,0
+441,Alvorada do Gurguéia,2200459,Piauí,509,0.0058,0
+442,Amarante,2200509,Piauí,755,0.0086,0
+443,Angical do Piauí,2200608,Piauí,73,0.00083,0
+444,Anísio de Abreu,2200707,Piauí,219,0.00249,0
+445,Antônio Almeida,2200806,Piauí,23,0.00026,0
+446,Arraial,2201002,Piauí,7,8e-05,0
+447,Avelino Lopes,2201101,Piauí,39,0.00044,0
+448,Baixa Grande do Ribeiro,2201150,Piauí,242,0.00276,0
+449,Barra D'Alcântara,2201176,Piauí,45,0.00051,0
+450,Barras,2201200,Piauí,3147,0.03584,0
+451,Barro Duro,2201408,Piauí,6401,0.0729,0
+452,Batalha,2201507,Piauí,617,0.00703,0
+453,Beneditinos,2201606,Piauí,3,3e-05,0
+454,Bertolínia,2201705,Piauí,304,0.00346,0
+455,Boa Hora,2201770,Piauí,62,0.00071,0
+456,Bocaina,2201804,Piauí,204,0.00232,0
+457,Bom Jesus,2201903,Piauí,3250,0.03702,0
+458,Bonfim do Piauí,2201929,Piauí,108,0.00123,0
+459,Boqueirão do Piauí,2201945,Piauí,1,1e-05,0
+460,Brasileira,2201960,Piauí,351,0.004,0
+461,Buriti dos Lopes,2202000,Piauí,3681,0.04192,0
+462,Buriti dos Montes,2202026,Piauí,312,0.00355,0
+463,Cabeceiras do Piauí,2202059,Piauí,45,0.00051,0
+464,Campinas do Piauí,2202109,Piauí,1,1e-05,0
+465,Campo Alegre do Fidalgo,2202117,Piauí,908,0.01034,0
+466,Campo Grande do Piauí,2202133,Piauí,1346,0.01533,0
+467,Campo Largo do Piauí,2202174,Piauí,14,0.00016,0
+468,Campo Maior,2202208,Piauí,11033,0.12566,0
+469,Canto do Buriti,2202307,Piauí,9170,0.10444,0
+470,Capitão de Campos,2202406,Piauí,50,0.00057,0
+471,Capitão Gervásio Oliveira,2202455,Piauí,75,0.00085,0
+472,Caracol,2202505,Piauí,26,0.0003,0
+473,Caraúbas do Piauí,2202539,Piauí,249,0.00284,0
+474,Castelo do Piauí,2202604,Piauí,155,0.00177,0
+475,Caxingó,2202653,Piauí,49,0.00056,0
+476,Cocal,2202703,Piauí,1214,0.01383,0
+477,Colônia do Gurguéia,2202752,Piauí,271,0.00309,0
+478,Colônia do Piauí,2202778,Piauí,2575,0.02933,0
+479,Coronel José Dias,2202851,Piauí,472,0.00538,0
+480,Corrente,2202901,Piauí,10006,0.11396,0
+481,Cristino Castro,2203107,Piauí,1105,0.01259,0
+482,Curimatá,2203206,Piauí,2157,0.02457,0
+483,Demerval Lobão,2203305,Piauí,2328,0.02651,0
+484,Dirceu Arcoverde,2203354,Piauí,135,0.00154,0
+485,Dom Expedito Lopes,2203404,Piauí,585,0.00666,0
+486,Elesbão Veloso,2203503,Piauí,792,0.00902,0
+487,Eliseu Martins,2203602,Piauí,141,0.00161,0
+488,Esperantina,2203701,Piauí,494,0.00563,0
+489,Flores do Piauí,2203800,Piauí,12,0.00014,0
+490,Floriano,2203909,Piauí,23577,0.26853,0
+491,Francinópolis,2204006,Piauí,124,0.00141,0
+492,Francisco Macedo,2204154,Piauí,78,0.00089,0
+493,Fronteiras,2204303,Piauí,215,0.00245,0
+494,Geminiano,2204352,Piauí,2035,0.02318,0
+495,Gilbués,2204402,Piauí,296,0.00337,0
+496,Inhuma,2204709,Piauí,513,0.00584,0
+497,Ipiranga do Piauí,2204808,Piauí,26,0.0003,0
+498,Isaías Coelho,2204907,Piauí,106,0.00121,0
+499,Itainópolis,2205003,Piauí,217,0.00247,0
+500,Itaueira,2205102,Piauí,926,0.01055,0
+501,Jacobina do Piauí,2205151,Piauí,760,0.00866,0
+502,Jaicós,2205201,Piauí,651,0.00741,0
+503,Jardim do Mulato,2205250,Piauí,8,9e-05,0
+504,Jerumenha,2205300,Piauí,275,0.00313,0
+505,José de Freitas,2205508,Piauí,537,0.00612,0
+506,Lagoa do Barro do Piauí,2205565,Piauí,20,0.00023,0
+507,Lagoa do Piauí,2205581,Piauí,322,0.00367,0
+508,Luís Correia,2205706,Piauí,35,0.0004,0
+509,Luzilândia,2205805,Piauí,364,0.00415,0
+510,Madeiro,2205854,Piauí,106,0.00121,0
+511,Marcolândia,2205953,Piauí,2114,0.02408,0
+512,Matias Olímpio,2206100,Piauí,33,0.00038,0
+513,Miguel Alves,2206209,Piauí,288,0.00328,0
+514,Monsenhor Gil,2206407,Piauí,277,0.00315,0
+515,Monsenhor Hipólito,2206506,Piauí,28,0.00032,0
+516,Monte Alegre do Piauí,2206605,Piauí,57,0.00065,0
+517,Morro do Chapéu do Piauí,2206670,Piauí,155,0.00177,0
+518,Nazaré do Piauí,2206704,Piauí,42,0.00048,0
+519,Nazária,2206720,Piauí,93,0.00106,0
+520,Nossa Senhora dos Remédios,2206803,Piauí,38,0.00043,0
+521,Oeiras,2207009,Piauí,8946,0.10189,0
+522,Paes Landim,2207306,Piauí,1480,0.01686,0
+523,Palmeirais,2207504,Piauí,32,0.00036,0
+524,Parnaguá,2207603,Piauí,2,2e-05,0
+525,Parnaíba,2207702,Piauí,8149,0.09281,0
+526,Passagem Franca do Piauí,2207751,Piauí,137,0.00156,0
+527,Patos do Piauí,2207777,Piauí,100,0.00114,0
+528,Paulistana,2207801,Piauí,1450,0.01651,0
+529,Pedro II,2207900,Piauí,1458,0.01661,0
+530,Pedro Laurentino,2207934,Piauí,8,9e-05,0
+531,Picos,2208007,Piauí,53851,0.61333,0
+532,Piracuruca,2208304,Piauí,1584,0.01804,0
+533,Piripiri,2208403,Piauí,3239,0.03689,0
+534,Porto,2208502,Piauí,34,0.00039,0
+535,Queimada Nova,2208650,Piauí,79,0.0009,0
+536,Redenção do Gurguéia,2208700,Piauí,95,0.00108,0
+537,Regeneração,2208809,Piauí,31,0.00035,0
+538,Ribeiro Gonçalves,2208908,Piauí,2,2e-05,0
+539,Santa Cruz dos Milagres,2209153,Piauí,2,2e-05,0
+540,Santa Rosa do Piauí,2209377,Piauí,274,0.00312,0
+541,Santo Antônio de Lisboa,2209401,Piauí,5,6e-05,0
+542,Santo Antônio dos Milagres,2209450,Piauí,72,0.00082,0
+543,Santo Inácio do Piauí,2209500,Piauí,210,0.00239,0
+544,São Braz do Piauí,2209559,Piauí,30,0.00034,0
+545,São Félix do Piauí,2209609,Piauí,2,2e-05,0
+546,São Francisco de Assis do Piauí,2209658,Piauí,1,1e-05,0
+547,São Francisco do Piauí,2209708,Piauí,150,0.00171,0
+548,São Gonçalo do Gurguéia,2209757,Piauí,2,2e-05,0
+549,São Gonçalo do Piauí,2209807,Piauí,71,0.00081,0
+550,São João da Canabrava,2209856,Piauí,24,0.00027,0
+551,São João do Piauí,2210003,Piauí,3886,0.04426,0
+552,São Lourenço do Piauí,2210359,Piauí,488,0.00556,0
+553,São Miguel do Tapuio,2210409,Piauí,2,2e-05,0
+554,São Pedro do Piauí,2210508,Piauí,321,0.00366,0
+555,São Raimundo Nonato,2210607,Piauí,10083,0.11484,0
+556,Sebastião Leal,2210631,Piauí,1,1e-05,0
+557,Simões,2210706,Piauí,460,0.00524,0
+558,Simplício Mendes,2210805,Piauí,3618,0.04121,0
+559,Sussuapara,2210938,Piauí,48,0.00055,0
+560,Tanque do Piauí,2210979,Piauí,23,0.00026,0
+561,Teresina,2211001,Piauí,111915,1.27465,1
+562,União,2211100,Piauí,13,0.00015,0
+563,Uruçuí,2211209,Piauí,63,0.00072,0
+564,Valença do Piauí,2211308,Piauí,2981,0.03395,0
+565,Várzea Branca,2211357,Piauí,26,0.0003,0
+566,Várzea Grande,2211407,Piauí,5,6e-05,0
+567,Vera Mendes,2211506,Piauí,19,0.00022,0
+568,Vila Nova do Piauí,2211605,Piauí,151,0.00172,0
+569,Acarape,2300150,Ceará,1304,0.01485,0
+570,Acaraú,2300200,Ceará,1161,0.01322,0
+571,Acopiara,2300309,Ceará,3535,0.04026,0
+572,Aiuaba,2300408,Ceará,160,0.00182,0
+573,Altaneira,2300606,Ceará,1,1e-05,0
+574,Alto Santo,2300705,Ceará,1763,0.02008,0
+575,Amontada,2300754,Ceará,240,0.00273,0
+576,Antonina do Norte,2300804,Ceará,635,0.00723,0
+577,Apuiarés,2300903,Ceará,1548,0.01763,0
+578,Aquiraz,2301000,Ceará,65,0.00074,0
+579,Aracati,2301109,Ceará,5619,0.064,0
+580,Aracoiaba,2301208,Ceará,20,0.00023,0
+581,Ararendá,2301257,Ceará,17,0.00019,0
+582,Araripe,2301307,Ceará,997,0.01136,0
+583,Aratuba,2301406,Ceará,836,0.00952,0
+584,Arneiroz,2301505,Ceará,11,0.00013,0
+585,Assaré,2301604,Ceará,334,0.0038,0
+586,Aurora,2301703,Ceará,95,0.00108,0
+587,Baixio,2301802,Ceará,44,0.0005,0
+588,Banabuiú,2301851,Ceará,528,0.00601,0
+589,Barbalha,2301901,Ceará,2820,0.03212,0
+590,Barreira,2301950,Ceará,157,0.00179,0
+591,Barro,2302008,Ceará,7341,0.08361,0
+592,Barroquinha,2302057,Ceará,89,0.00101,0
+593,Baturité,2302107,Ceará,17,0.00019,0
+594,Beberibe,2302206,Ceará,283,0.00322,0
+595,Boa Viagem,2302404,Ceará,706,0.00804,0
+596,Brejo Santo,2302503,Ceará,6444,0.07339,0
+597,Camocim,2302602,Ceará,287,0.00327,0
+598,Campos Sales,2302701,Ceará,1150,0.0131,0
+599,Canindé,2302800,Ceará,3903,0.04445,0
+600,Capistrano,2302909,Ceará,2,2e-05,0
+601,Caridade,2303006,Ceará,47,0.00054,0
+602,Cariré,2303105,Ceará,507,0.00577,0
+603,Caririaçu,2303204,Ceará,5,6e-05,0
+604,Cariús,2303303,Ceará,15,0.00017,0
+605,Carnaubal,2303402,Ceará,461,0.00525,0
+606,Cascavel,2303501,Ceará,1445,0.01646,0
+607,Catunda,2303659,Ceará,39,0.00044,0
+608,Caucaia,2303709,Ceará,101,0.00115,1
+609,Cedro,2303808,Ceará,228,0.0026,0
+610,Chaval,2303907,Ceará,27,0.00031,0
+611,Chorozinho,2303956,Ceará,812,0.00925,0
+612,Coreaú,2304004,Ceará,23,0.00026,0
+613,Crateús,2304103,Ceará,6620,0.0754,0
+614,Crato,2304202,Ceará,12353,0.14069,0
+615,Croatá,2304236,Ceará,27,0.00031,0
+616,Cruz,2304251,Ceará,3962,0.04513,0
+617,Ererê,2304277,Ceará,91,0.00104,0
+618,Farias Brito,2304301,Ceará,6,7e-05,0
+619,Forquilha,2304350,Ceará,1375,0.01566,0
+620,Fortaleza,2304400,Ceará,165327,1.88299,1
+621,Fortim,2304459,Ceará,79,0.0009,0
+622,Frecheirinha,2304509,Ceará,57,0.00065,0
+623,General Sampaio,2304608,Ceará,69,0.00079,0
+624,Graça,2304657,Ceará,31,0.00035,0
+625,Granja,2304707,Ceará,55,0.00063,0
+626,Guaiúba,2304954,Ceará,1421,0.01618,0
+627,Guaraciaba do Norte,2305001,Ceará,182,0.00207,0
+628,Guaramiranga,2305100,Ceará,17,0.00019,0
+629,Horizonte,2305233,Ceará,758,0.00863,0
+630,Ibaretama,2305266,Ceará,480,0.00547,0
+631,Ibiapina,2305308,Ceará,180,0.00205,0
+632,Icapuí,2305357,Ceará,325,0.0037,0
+633,Icó,2305407,Ceará,3510,0.03998,0
+634,Iguatu,2305506,Ceará,6284,0.07157,0
+635,Ipaporanga,2305654,Ceará,7,8e-05,0
+636,Ipaumirim,2305704,Ceará,30,0.00034,0
+637,Ipu,2305803,Ceará,1064,0.01212,0
+638,Ipueiras,2305902,Ceará,56,0.00064,0
+639,Iracema,2306009,Ceará,60,0.00068,0
+640,Irauçuba,2306108,Ceará,33,0.00038,0
+641,Itaiçaba,2306207,Ceará,59,0.00067,0
+642,Itapajé,2306306,Ceará,1092,0.01244,0
+643,Itapipoca,2306405,Ceará,111,0.00126,0
+644,Jaguaribara,2306801,Ceará,23,0.00026,0
+645,Jaguaribe,2306900,Ceará,965,0.01099,0
+646,Jaguaruana,2307007,Ceará,6,7e-05,0
+647,Jardim,2307106,Ceará,15,0.00017,0
+648,Jati,2307205,Ceará,25,0.00028,0
+649,Juazeiro do Norte,2307304,Ceará,14477,0.16489,1
+650,Jucás,2307403,Ceará,8,9e-05,0
+651,Lavras da Mangabeira,2307502,Ceará,5,6e-05,0
+652,Limoeiro do Norte,2307601,Ceará,766,0.00872,1
+653,Madalena,2307635,Ceará,3,3e-05,0
+654,Maranguape,2307700,Ceará,6,7e-05,0
+655,Marco,2307809,Ceará,1,1e-05,0
+656,Massapê,2308005,Ceará,353,0.00402,0
+657,Milagres,2308302,Ceará,2045,0.02329,0
+658,Milhã,2308351,Ceará,72,0.00082,0
+659,Missão Velha,2308401,Ceará,600,0.00683,0
+660,Mombaça,2308500,Ceará,228,0.0026,0
+661,Morada Nova,2308708,Ceará,82,0.00093,0
+662,Morrinhos,2308906,Ceará,5,6e-05,0
+663,Mucambo,2309003,Ceará,18,0.00021,0
+664,Nova Olinda,2309201,Ceará,123,0.0014,0
+665,Nova Russas,2309300,Ceará,548,0.00624,0
+666,Novo Oriente,2309409,Ceará,18,0.00021,0
+667,Pacajus,2309607,Ceará,2255,0.02568,0
+668,Pacoti,2309805,Ceará,9,0.0001,0
+669,Pacujá,2309904,Ceará,9,0.0001,0
+670,Palmácia,2310100,Ceará,5,6e-05,0
+671,Paracuru,2310209,Ceará,29,0.00033,0
+672,Parambu,2310308,Ceará,2,2e-05,0
+673,Pedra Branca,2310506,Ceará,31,0.00035,0
+674,Pentecoste,2310704,Ceará,10,0.00011,0
+675,Pereiro,2310803,Ceará,229,0.00261,0
+676,Poranga,2311009,Ceará,2,2e-05,0
+677,Potengi,2311207,Ceará,3,3e-05,0
+678,Quiterianópolis,2311264,Ceará,6,7e-05,0
+679,Quixadá,2311306,Ceará,1547,0.01762,0
+680,Quixeramobim,2311405,Ceará,120,0.00137,1
+681,Quixeré,2311504,Ceará,71,0.00081,0
+682,Redenção,2311603,Ceará,2,2e-05,0
+683,Reriutaba,2311702,Ceará,2,2e-05,0
+684,Russas,2311801,Ceará,775,0.00883,0
+685,Santana do Acaraú,2312007,Ceará,12,0.00014,0
+686,Santa Quitéria,2312205,Ceará,63,0.00072,0
+687,São Benedito,2312304,Ceará,401,0.00457,0
+688,São Gonçalo do Amarante,2312403,Ceará,41,0.00047,0
+689,São Luís do Curu,2312601,Ceará,85,0.00097,0
+690,Senador Pompeu,2312700,Ceará,79,0.0009,0
+691,Sobral,2312908,Ceará,18388,0.20943,1
+692,Solonópole,2313005,Ceará,14,0.00016,0
+693,Tabuleiro do Norte,2313104,Ceará,211,0.0024,0
+694,Tamboril,2313203,Ceará,247,0.00281,0
+695,Tauá,2313302,Ceará,703,0.00801,0
+696,Tianguá,2313401,Ceará,794,0.00904,0
+697,Tururu,2313559,Ceará,8,9e-05,0
+698,Ubajara,2313609,Ceará,104,0.00118,0
+699,Umari,2313708,Ceará,241,0.00274,0
+700,Umirim,2313757,Ceará,38,0.00043,0
+701,Várzea Alegre,2314003,Ceará,166,0.00189,0
+702,Acari,2400109,Rio Grande do Norte,1227,0.01397,0
+703,Açu,2400208,Rio Grande do Norte,11663,0.13284,0
+704,Alexandria,2400505,Rio Grande do Norte,1346,0.01533,0
+705,Almino Afonso,2400604,Rio Grande do Norte,5,6e-05,0
+706,Alto do Rodrigues,2400703,Rio Grande do Norte,297,0.00338,0
+707,Angicos,2400802,Rio Grande do Norte,335,0.00382,0
+708,Apodi,2401008,Rio Grande do Norte,959,0.01092,0
+709,Areia Branca,2401107,Rio Grande do Norte,159,0.00181,0
+710,Arês,2401206,Rio Grande do Norte,90,0.00103,0
+711,Augusto Severo,2401305,Rio Grande do Norte,4,5e-05,0
+712,Baía Formosa,2401404,Rio Grande do Norte,1,1e-05,0
+713,Baraúna,2401453,Rio Grande do Norte,1,1e-05,0
+714,Bento Fernandes,2401602,Rio Grande do Norte,69,0.00079,0
+715,Bom Jesus,2401701,Rio Grande do Norte,34,0.00039,0
+716,Brejinho,2401800,Rio Grande do Norte,598,0.00681,0
+717,Caiçara do Norte,2401859,Rio Grande do Norte,318,0.00362,0
+718,Caiçara do Rio do Vento,2401909,Rio Grande do Norte,2631,0.02997,0
+719,Caicó,2402006,Rio Grande do Norte,14267,0.16249,0
+720,Canguaretama,2402204,Rio Grande do Norte,2363,0.02691,0
+721,Caraúbas,2402303,Rio Grande do Norte,159,0.00181,0
+722,Ceará-Mirim,2402600,Rio Grande do Norte,3185,0.03628,0
+723,Coronel Ezequiel,2402808,Rio Grande do Norte,8,9e-05,0
+724,Cruzeta,2403004,Rio Grande do Norte,26,0.0003,0
+725,Currais Novos,2403103,Rio Grande do Norte,2556,0.02911,0
+726,Parnamirim,2403251,Rio Grande do Norte,22639,0.25785,0
+727,Equador,2403400,Rio Grande do Norte,3,3e-05,0
+728,Espírito Santo,2403509,Rio Grande do Norte,111,0.00126,0
+729,Florânia,2403806,Rio Grande do Norte,79,0.0009,0
+730,Galinhos,2404101,Rio Grande do Norte,23,0.00026,0
+731,Goianinha,2404200,Rio Grande do Norte,1427,0.01625,0
+732,Grossos,2404408,Rio Grande do Norte,4,5e-05,0
+733,Guamaré,2404507,Rio Grande do Norte,20,0.00023,0
+734,Ipanguaçu,2404705,Rio Grande do Norte,16,0.00018,0
+735,Itaú,2404903,Rio Grande do Norte,70,0.0008,0
+736,Jaçanã,2405009,Rio Grande do Norte,15,0.00017,0
+737,Jandaíra,2405108,Rio Grande do Norte,44,0.0005,0
+738,Jardim de Piranhas,2405603,Rio Grande do Norte,20,0.00023,0
+739,Jardim do Seridó,2405702,Rio Grande do Norte,10,0.00011,0
+740,João Câmara,2405801,Rio Grande do Norte,1326,0.0151,0
+741,Jucurutu,2406106,Rio Grande do Norte,285,0.00325,0
+742,Jundiá,2406155,Rio Grande do Norte,1,1e-05,0
+743,Lagoa de Pedras,2406304,Rio Grande do Norte,183,0.00208,0
+744,Lagoa Salgada,2406601,Rio Grande do Norte,2,2e-05,0
+745,Lajes,2406700,Rio Grande do Norte,1486,0.01692,0
+746,Luís Gomes,2407005,Rio Grande do Norte,4,5e-05,0
+747,Macaíba,2407104,Rio Grande do Norte,2160,0.0246,0
+748,Macau,2407203,Rio Grande do Norte,572,0.00651,0
+749,Major Sales,2407252,Rio Grande do Norte,4,5e-05,0
+750,Monte Alegre,2407807,Rio Grande do Norte,31,0.00035,0
+751,Mossoró,2408003,Rio Grande do Norte,41618,0.47401,0
+752,Natal,2408102,Rio Grande do Norte,91494,1.04207,1
+753,Nova Cruz,2408300,Rio Grande do Norte,2416,0.02752,0
+754,Parelhas,2408904,Rio Grande do Norte,17,0.00019,0
+755,Pau dos Ferros,2409407,Rio Grande do Norte,18538,0.21114,0
+756,Pedro Velho,2409803,Rio Grande do Norte,1,1e-05,0
+757,Pendências,2409902,Rio Grande do Norte,10,0.00011,0
+758,Santa Cruz,2411205,Rio Grande do Norte,123,0.0014,0
+759,Santo Antônio,2411502,Rio Grande do Norte,24,0.00027,0
+760,São Francisco do Oeste,2411908,Rio Grande do Norte,22,0.00025,0
+761,São Gonçalo do Amarante,2412005,Rio Grande do Norte,339,0.00386,0
+762,São José de Mipibu,2412203,Rio Grande do Norte,55,0.00063,0
+763,São Miguel,2412500,Rio Grande do Norte,1877,0.02138,0
+764,São Vicente,2413003,Rio Grande do Norte,7,8e-05,0
+765,Taboleiro Grande,2413805,Rio Grande do Norte,4,5e-05,0
+766,Taipu,2413904,Rio Grande do Norte,17,0.00019,0
+767,Tangará,2414001,Rio Grande do Norte,249,0.00284,0
+768,Touros,2414407,Rio Grande do Norte,434,0.00494,0
+769,Vera Cruz,2414803,Rio Grande do Norte,11,0.00013,0
+770,Água Branca,2500106,Paraíba,2246,0.02558,0
+771,Alagoa Grande,2500304,Paraíba,3555,0.04049,0
+772,Alagoa Nova,2500403,Paraíba,3,3e-05,0
+773,Alagoinha,2500502,Paraíba,605,0.00689,0
+774,Alcantil,2500536,Paraíba,547,0.00623,0
+775,Alhandra,2500601,Paraíba,687,0.00782,0
+776,São João do Rio do Peixe,2500700,Paraíba,2506,0.02854,0
+777,Aparecida,2500775,Paraíba,538,0.00613,0
+778,Araçagi,2500809,Paraíba,136,0.00155,0
+779,Arara,2500908,Paraíba,1076,0.01226,0
+780,Araruna,2501005,Paraíba,112,0.00128,0
+781,Areia,2501104,Paraíba,204,0.00232,0
+782,Areia de Baraúnas,2501153,Paraíba,63,0.00072,0
+783,Aroeiras,2501302,Paraíba,4,5e-05,0
+784,Assunção,2501351,Paraíba,864,0.00984,0
+785,Baía da Traição,2501401,Paraíba,38,0.00043,0
+786,Bananeiras,2501500,Paraíba,2129,0.02425,0
+787,Barra de Santana,2501575,Paraíba,607,0.00691,0
+788,Barra de Santa Rosa,2501609,Paraíba,17,0.00019,0
+789,Barra de São Miguel,2501708,Paraíba,5,6e-05,0
+790,Belém,2501906,Paraíba,1720,0.01959,0
+791,Belém do Brejo do Cruz,2502003,Paraíba,10,0.00011,0
+792,Boa Ventura,2502102,Paraíba,2728,0.03107,0
+793,Boa Vista,2502151,Paraíba,2907,0.03311,0
+794,Bom Sucesso,2502300,Paraíba,11,0.00013,0
+795,Bonito de Santa Fé,2502409,Paraíba,424,0.00483,0
+796,Boqueirão,2502508,Paraíba,113,0.00129,0
+797,Borborema,2502706,Paraíba,29,0.00033,0
+798,Brejo do Cruz,2502805,Paraíba,220,0.00251,0
+799,Brejo dos Santos,2502904,Paraíba,19,0.00022,0
+800,Caaporã,2503001,Paraíba,89,0.00101,0
+801,Cabaceiras,2503100,Paraíba,116,0.00132,0
+802,Cacimba de Areia,2503407,Paraíba,10,0.00011,0
+803,Cacimba de Dentro,2503506,Paraíba,15,0.00017,0
+804,Cajazeiras,2503704,Paraíba,24517,0.27924,0
+805,Cajazeirinhas,2503753,Paraíba,1,1e-05,0
+806,Caldas Brandão,2503803,Paraíba,982,0.01118,0
+807,Campina Grande,2504009,Paraíba,106784,1.21621,1
+808,Caraúbas,2504074,Paraíba,1251,0.01425,0
+809,Catingueira,2504207,Paraíba,563,0.00641,0
+810,Catolé do Rocha,2504306,Paraíba,4879,0.05557,0
+811,Conceição,2504405,Paraíba,2039,0.02322,0
+812,Condado,2504504,Paraíba,112,0.00128,0
+813,Congo,2504702,Paraíba,6,7e-05,0
+814,Coremas,2504801,Paraíba,227,0.00259,0
+815,Cruz do Espírito Santo,2504900,Paraíba,1712,0.0195,0
+816,Cubati,2505006,Paraíba,1708,0.01945,0
+817,Cuité,2505105,Paraíba,20,0.00023,0
+818,Desterro,2505402,Paraíba,428,0.00487,0
+819,Diamante,2505600,Paraíba,193,0.0022,0
+820,Duas Estradas,2505808,Paraíba,13,0.00015,0
+821,Esperança,2506004,Paraíba,1485,0.01691,0
+822,Guarabira,2506301,Paraíba,8285,0.09436,0
+823,Ibiara,2506608,Paraíba,90,0.00103,0
+824,Imaculada,2506707,Paraíba,363,0.00413,0
+825,Ingá,2506806,Paraíba,1181,0.01345,0
+826,Itabaiana,2506905,Paraíba,3251,0.03703,0
+827,Itaporanga,2507002,Paraíba,4337,0.0494,0
+828,Itapororoca,2507101,Paraíba,32,0.00036,0
+829,Jacaraú,2507309,Paraíba,1,1e-05,0
+830,Jericó,2507408,Paraíba,176,0.002,0
+831,João Pessoa,2507507,Paraíba,54151,0.61675,1
+832,Juazeirinho,2507705,Paraíba,509,0.0058,0
+833,Junco do Seridó,2507804,Paraíba,9,0.0001,0
+834,Juripiranga,2507903,Paraíba,34,0.00039,0
+835,Juru,2508000,Paraíba,99,0.00113,0
+836,Lagoa de Dentro,2508208,Paraíba,3,3e-05,0
+837,Lagoa Seca,2508307,Paraíba,127,0.00145,0
+838,Malta,2508802,Paraíba,87,0.00099,0
+839,Mamanguape,2508901,Paraíba,2402,0.02736,0
+840,Manaíra,2509008,Paraíba,657,0.00748,0
+841,Mari,2509107,Paraíba,934,0.01064,0
+842,Marizópolis,2509156,Paraíba,11,0.00013,0
+843,Massaranduba,2509206,Paraíba,6,7e-05,0
+844,Maturéia,2509396,Paraíba,47,0.00054,0
+845,Montadas,2509503,Paraíba,11,0.00013,0
+846,Monte Horebe,2509602,Paraíba,13,0.00015,0
+847,Monteiro,2509701,Paraíba,5877,0.06694,0
+848,Mulungu,2509800,Paraíba,24,0.00027,0
+849,Natuba,2509909,Paraíba,3,3e-05,0
+850,Nova Floresta,2510105,Paraíba,4,5e-05,0
+851,Nova Olinda,2510204,Paraíba,11,0.00013,0
+852,Nova Palmeira,2510303,Paraíba,3,3e-05,0
+853,Olho d'Água,2510402,Paraíba,3,3e-05,0
+854,Ouro Velho,2510600,Paraíba,304,0.00346,0
+855,Patos,2510808,Paraíba,43328,0.49348,0
+856,Pedra Lavrada,2511103,Paraíba,160,0.00182,0
+857,Piancó,2511301,Paraíba,185,0.00211,0
+858,Picuí,2511400,Paraíba,786,0.00895,0
+859,Pilar,2511509,Paraíba,72,0.00082,0
+860,Pirpirituba,2511806,Paraíba,15,0.00017,0
+861,Pitimbu,2511905,Paraíba,37,0.00042,0
+862,Pocinhos,2512002,Paraíba,2,2e-05,0
+863,Pombal,2512101,Paraíba,5973,0.06803,0
+864,Prata,2512200,Paraíba,107,0.00122,0
+865,Princesa Isabel,2512309,Paraíba,2811,0.03202,0
+866,Queimadas,2512507,Paraíba,211,0.0024,0
+867,Quixaba,2512606,Paraíba,9,0.0001,0
+868,Remígio,2512705,Paraíba,163,0.00186,0
+869,Riacho de Santo Antônio,2512788,Paraíba,3,3e-05,0
+870,Rio Tinto,2512903,Paraíba,100,0.00114,0
+871,Salgadinho,2513000,Paraíba,5,6e-05,0
+872,Santa Cecília,2513158,Paraíba,946,0.01077,0
+873,Santa Cruz,2513208,Paraíba,30,0.00034,0
+874,Santa Luzia,2513406,Paraíba,24,0.00027,0
+875,Santana dos Garrotes,2513604,Paraíba,5,6e-05,0
+876,Santa Teresinha,2513802,Paraíba,13,0.00015,0
+877,São Bento,2513901,Paraíba,107,0.00122,0
+878,São Bentinho,2513927,Paraíba,9,0.0001,0
+879,São Francisco,2513984,Paraíba,30,0.00034,0
+880,São João do Cariri,2514008,Paraíba,7,8e-05,0
+881,São João do Tigre,2514107,Paraíba,1,1e-05,0
+882,São José de Caiana,2514305,Paraíba,48,0.00055,0
+883,São José de Piranhas,2514503,Paraíba,1434,0.01633,0
+884,São José de Princesa,2514552,Paraíba,3,3e-05,0
+885,São José do Bonfim,2514602,Paraíba,56,0.00064,0
+886,São Miguel de Taipu,2515005,Paraíba,19,0.00022,0
+887,São Sebastião do Umbuzeiro,2515203,Paraíba,111,0.00126,0
+888,Sapé,2515302,Paraíba,339,0.00386,0
+889,São Vicente do Seridó,2515401,Paraíba,1,1e-05,0
+890,Serra Branca,2515500,Paraíba,1650,0.01879,0
+891,Serra Grande,2515708,Paraíba,3,3e-05,0
+892,Serra Redonda,2515807,Paraíba,8,9e-05,0
+893,Serraria,2515906,Paraíba,10,0.00011,0
+894,Solânea,2516003,Paraíba,88,0.001,0
+895,Soledade,2516102,Paraíba,2105,0.02397,0
+896,Sousa,2516201,Paraíba,7802,0.08886,0
+897,Sumé,2516300,Paraíba,2341,0.02666,0
+898,Taperoá,2516508,Paraíba,65,0.00074,0
+899,Tavares,2516607,Paraíba,9,0.0001,0
+900,Teixeira,2516706,Paraíba,161,0.00183,0
+901,Triunfo,2516805,Paraíba,2,2e-05,0
+902,Uiraúna,2516904,Paraíba,4013,0.04571,0
+903,Umbuzeiro,2517001,Paraíba,3054,0.03478,0
+904,Zabelê,2517407,Paraíba,33,0.00038,0
+905,Afogados da Ingazeira,2600104,Pernambuco,3325,0.03787,1
+906,Afrânio,2600203,Pernambuco,57,0.00065,0
+907,Agrestina,2600302,Pernambuco,1684,0.01918,0
+908,Água Preta,2600401,Pernambuco,1541,0.01755,0
+909,Águas Belas,2600500,Pernambuco,1597,0.01819,0
+910,Alagoinha,2600609,Pernambuco,283,0.00322,0
+911,Aliança,2600708,Pernambuco,1383,0.01575,0
+912,Altinho,2600807,Pernambuco,1,1e-05,0
+913,Amaraji,2600906,Pernambuco,200,0.00228,0
+914,Angelim,2601003,Pernambuco,101,0.00115,0
+915,Araripina,2601102,Pernambuco,2094,0.02385,0
+916,Arcoverde,2601201,Pernambuco,13962,0.15902,1
+917,Barra de Guabiraba,2601300,Pernambuco,122,0.00139,0
+918,Barreiros,2601409,Pernambuco,1696,0.01932,0
+919,Belém de Maria,2601508,Pernambuco,534,0.00608,0
+920,Belém do São Francisco,2601607,Pernambuco,292,0.00333,0
+921,Belo Jardim,2601706,Pernambuco,2823,0.03215,0
+922,Bezerros,2601904,Pernambuco,2372,0.02702,0
+923,Bodocó,2602001,Pernambuco,67,0.00076,0
+924,Bom Conselho,2602100,Pernambuco,1548,0.01763,0
+925,Bom Jardim,2602209,Pernambuco,10,0.00011,0
+926,Bonito,2602308,Pernambuco,38,0.00043,0
+927,Brejão,2602407,Pernambuco,12,0.00014,0
+928,Brejo da Madre de Deus,2602605,Pernambuco,19,0.00022,0
+929,Buenos Aires,2602704,Pernambuco,68,0.00077,0
+930,Buíque,2602803,Pernambuco,141,0.00161,0
+931,Cabo de Santo Agostinho,2602902,Pernambuco,2151,0.0245,0
+932,Cabrobó,2603009,Pernambuco,2226,0.02535,0
+933,Caetés,2603207,Pernambuco,3,3e-05,0
+934,Calumbi,2603405,Pernambuco,7,8e-05,0
+935,Camaragibe,2603454,Pernambuco,338,0.00385,0
+936,Camocim de São Félix,2603504,Pernambuco,39,0.00044,0
+937,Camutanga,2603603,Pernambuco,21,0.00024,0
+938,Canhotinho,2603702,Pernambuco,3327,0.03789,0
+939,Carnaíba,2603900,Pernambuco,18,0.00021,0
+940,Carnaubeira da Penha,2603926,Pernambuco,6,7e-05,0
+941,Carpina,2604007,Pernambuco,8005,0.09117,0
+942,Caruaru,2604106,Pernambuco,48863,0.55652,1
+943,Casinhas,2604155,Pernambuco,1,1e-05,0
+944,Catende,2604205,Pernambuco,596,0.00679,0
+945,Cedro,2604304,Pernambuco,9,0.0001,0
+946,Chã de Alegria,2604403,Pernambuco,617,0.00703,0
+947,Chã Grande,2604502,Pernambuco,57,0.00065,0
+948,Condado,2604601,Pernambuco,500,0.00569,0
+949,Cumaru,2604908,Pernambuco,150,0.00171,0
+950,Cupira,2605004,Pernambuco,51,0.00058,0
+951,Custódia,2605103,Pernambuco,498,0.00567,0
+952,Escada,2605202,Pernambuco,332,0.00378,0
+953,Exu,2605301,Pernambuco,432,0.00492,0
+954,Feira Nova,2605400,Pernambuco,73,0.00083,0
+955,Ferreiros,2605509,Pernambuco,20,0.00023,0
+956,Flores,2605608,Pernambuco,538,0.00613,0
+957,Floresta,2605707,Pernambuco,606,0.0069,0
+958,Frei Miguelinho,2605806,Pernambuco,2,2e-05,0
+959,Gameleira,2605905,Pernambuco,22,0.00025,0
+960,Garanhuns,2606002,Pernambuco,19942,0.22713,1
+961,Glória do Goitá,2606101,Pernambuco,187,0.00213,0
+962,Goiana,2606200,Pernambuco,6418,0.0731,1
+963,Gravatá,2606408,Pernambuco,559,0.00637,0
+964,Ibimirim,2606606,Pernambuco,19,0.00022,0
+965,Igarassu,2606804,Pernambuco,81,0.00092,0
+966,Iguaracy,2606903,Pernambuco,2,2e-05,0
+967,Inajá,2607000,Pernambuco,54,0.00062,0
+968,Itambé,2607653,Pernambuco,1345,0.01532,0
+969,Itapetim,2607703,Pernambuco,2,2e-05,0
+970,Jaboatão dos Guararapes,2607901,Pernambuco,1,1e-05,1
+971,Jaqueira,2607950,Pernambuco,6,7e-05,0
+972,Jataúba,2608008,Pernambuco,4,5e-05,0
+973,Jatobá,2608057,Pernambuco,1174,0.01337,0
+974,João Alfredo,2608107,Pernambuco,11,0.00013,0
+975,Jupi,2608305,Pernambuco,52,0.00059,0
+976,Jurema,2608404,Pernambuco,7,8e-05,0
+977,Lagoa do Carro,2608453,Pernambuco,36,0.00041,0
+978,Lagoa de Itaenga,2608503,Pernambuco,2,2e-05,0
+979,Lagoa Grande,2608750,Pernambuco,888,0.01011,0
+980,Lajedo,2608800,Pernambuco,258,0.00294,0
+981,Limoeiro,2608909,Pernambuco,595,0.00678,1
+982,Maraial,2609204,Pernambuco,4,5e-05,0
+983,Mirandiba,2609303,Pernambuco,33,0.00038,0
+984,Moreno,2609402,Pernambuco,39,0.00044,0
+985,Nazaré da Mata,2609501,Pernambuco,120,0.00137,0
+986,Orobó,2609709,Pernambuco,26,0.0003,0
+987,Orocó,2609808,Pernambuco,23,0.00026,0
+988,Ouricuri,2609907,Pernambuco,797,0.00908,1
+989,Palmares,2610004,Pernambuco,4211,0.04796,1
+990,Palmeirina,2610103,Pernambuco,1,1e-05,0
+991,Panelas,2610202,Pernambuco,156,0.00178,0
+992,Paranatama,2610301,Pernambuco,4,5e-05,0
+993,Parnamirim,2610400,Pernambuco,96,0.00109,0
+994,Passira,2610509,Pernambuco,55,0.00063,0
+995,Paudalho,2610608,Pernambuco,137,0.00156,0
+996,Pedra,2610806,Pernambuco,4,5e-05,0
+997,Pesqueira,2610905,Pernambuco,567,0.00646,0
+998,Petrolândia,2611002,Pernambuco,402,0.00458,0
+999,Petrolina,2611101,Pernambuco,16514,0.18809,1
+1000,Pombos,2611309,Pernambuco,2,2e-05,0
+1001,Primavera,2611408,Pernambuco,1,1e-05,0
+1002,Quipapá,2611507,Pernambuco,1180,0.01344,0
+1003,Recife,2611606,Pernambuco,84441,0.96174,1
+1004,Ribeirão,2611804,Pernambuco,55,0.00063,0
+1005,Rio Formoso,2611903,Pernambuco,82,0.00093,0
+1006,Sairé,2612000,Pernambuco,1,1e-05,0
+1007,Salgadinho,2612109,Pernambuco,1,1e-05,0
+1008,Salgueiro,2612208,Pernambuco,7289,0.08302,1
+1009,Saloá,2612307,Pernambuco,4,5e-05,0
+1010,Sanharó,2612406,Pernambuco,30,0.00034,0
+1011,Santa Cruz,2612455,Pernambuco,67,0.00076,0
+1012,Santa Cruz da Baixa Verde,2612471,Pernambuco,3,3e-05,0
+1013,Santa Cruz do Capibaribe,2612505,Pernambuco,2702,0.03077,0
+1014,Santa Maria da Boa Vista,2612604,Pernambuco,60,0.00068,0
+1015,São Benedito do Sul,2612901,Pernambuco,3,3e-05,0
+1016,São Bento do Una,2613008,Pernambuco,7,8e-05,0
+1017,São João,2613206,Pernambuco,3,3e-05,0
+1018,São José da Coroa Grande,2613404,Pernambuco,25,0.00028,0
+1019,São José do Belmonte,2613503,Pernambuco,23,0.00026,0
+1020,São José do Egito,2613602,Pernambuco,825,0.0094,0
+1021,São Lourenço da Mata,2613701,Pernambuco,23,0.00026,0
+1022,São Vicente Férrer,2613800,Pernambuco,31,0.00035,0
+1023,Serra Talhada,2613909,Pernambuco,8598,0.09793,1
+1024,Sertânia,2614105,Pernambuco,1130,0.01287,0
+1025,Sirinhaém,2614204,Pernambuco,40,0.00046,0
+1026,Surubim,2614501,Pernambuco,2427,0.02764,0
+1027,Tabira,2614600,Pernambuco,249,0.00284,0
+1028,Timbaúba,2615300,Pernambuco,1979,0.02254,0
+1029,Toritama,2615409,Pernambuco,156,0.00178,0
+1030,Tracunhaém,2615508,Pernambuco,39,0.00044,0
+1031,Trindade,2615607,Pernambuco,84,0.00096,0
+1032,Triunfo,2615706,Pernambuco,1,1e-05,0
+1033,Tupanatinga,2615805,Pernambuco,13,0.00015,0
+1034,Tuparetama,2615904,Pernambuco,11,0.00013,0
+1035,Venturosa,2616001,Pernambuco,13,0.00015,0
+1036,Vertente do Lério,2616183,Pernambuco,14,0.00016,0
+1037,Vertentes,2616209,Pernambuco,186,0.00212,0
+1038,Vitória de Santo Antão,2616407,Pernambuco,906,0.01032,0
+1039,Xexéu,2616506,Pernambuco,554,0.00631,0
+1040,Anadia,2700201,Alagoas,607,0.00691,0
+1041,Arapiraca,2700300,Alagoas,49427,0.56295,1
+1042,Atalaia,2700409,Alagoas,2636,0.03002,0
+1043,Barra de Santo Antônio,2700508,Alagoas,1224,0.01394,0
+1044,Barra de São Miguel,2700607,Alagoas,189,0.00215,0
+1045,Batalha,2700706,Alagoas,210,0.00239,0
+1046,Belém,2700805,Alagoas,2,2e-05,0
+1047,Belo Monte,2700904,Alagoas,1,1e-05,0
+1048,Boca da Mata,2701001,Alagoas,13,0.00015,0
+1049,Cacimbinhas,2701209,Alagoas,23,0.00026,0
+1050,Cajueiro,2701308,Alagoas,162,0.00185,0
+1051,Campo Alegre,2701407,Alagoas,4,5e-05,0
+1052,Campo Grande,2701506,Alagoas,59,0.00067,0
+1053,Capela,2701704,Alagoas,50,0.00057,0
+1054,Carneiros,2701803,Alagoas,2,2e-05,0
+1055,Colônia Leopoldina,2702108,Alagoas,39,0.00044,0
+1056,Coruripe,2702306,Alagoas,582,0.00663,1
+1057,Delmiro Gouveia,2702405,Alagoas,5010,0.05706,1
+1058,Feliz Deserto,2702702,Alagoas,7,8e-05,0
+1059,Girau do Ponciano,2702900,Alagoas,1,1e-05,0
+1060,Igreja Nova,2703205,Alagoas,143,0.00163,0
+1061,Inhapi,2703304,Alagoas,50,0.00057,0
+1062,Jaramataia,2703700,Alagoas,39,0.00044,0
+1063,Junqueiro,2704005,Alagoas,20,0.00023,0
+1064,Limoeiro de Anadia,2704203,Alagoas,1,1e-05,0
+1065,Maceió,2704302,Alagoas,58753,0.66917,1
+1066,Maragogi,2704500,Alagoas,31,0.00035,1
+1067,Maravilha,2704609,Alagoas,1331,0.01516,0
+1068,Maribondo,2704807,Alagoas,150,0.00171,0
+1069,Mata Grande,2705002,Alagoas,12,0.00014,0
+1070,Matriz de Camaragibe,2705101,Alagoas,26,0.0003,0
+1071,Messias,2705200,Alagoas,37,0.00042,0
+1072,Novo Lino,2705606,Alagoas,105,0.0012,0
+1073,Olho d'Água das Flores,2705705,Alagoas,1370,0.0156,0
+1074,Ouro Branco,2706109,Alagoas,51,0.00058,0
+1075,Palmeira dos Índios,2706307,Alagoas,4381,0.0499,1
+1076,Pão de Açúcar,2706406,Alagoas,112,0.00128,0
+1077,Paripueira,2706448,Alagoas,14,0.00016,0
+1078,Passo de Camaragibe,2706505,Alagoas,7,8e-05,0
+1079,Paulo Jacinto,2706604,Alagoas,10,0.00011,0
+1080,Penedo,2706703,Alagoas,908,0.01034,1
+1081,Piaçabuçu,2706802,Alagoas,176,0.002,0
+1082,Pilar,2706901,Alagoas,177,0.00202,0
+1083,Piranhas,2707107,Alagoas,71,0.00081,0
+1084,Porto Calvo,2707305,Alagoas,2919,0.03325,0
+1085,Porto de Pedras,2707404,Alagoas,7,8e-05,0
+1086,Porto Real do Colégio,2707503,Alagoas,1342,0.01528,0
+1087,Rio Largo,2707701,Alagoas,468,0.00533,0
+1088,Santana do Ipanema,2708006,Alagoas,4786,0.05451,1
+1089,São Brás,2708204,Alagoas,2,2e-05,0
+1090,São José da Laje,2708303,Alagoas,759,0.00864,0
+1091,São Luís do Quitunde,2708501,Alagoas,124,0.00141,0
+1092,São Miguel dos Campos,2708600,Alagoas,4286,0.04882,1
+1093,São Miguel dos Milagres,2708709,Alagoas,1,1e-05,0
+1094,São Sebastião,2708808,Alagoas,30,0.00034,0
+1095,Satuba,2708907,Alagoas,46,0.00052,0
+1096,Teotônio Vilela,2709152,Alagoas,6,7e-05,0
+1097,Traipu,2709202,Alagoas,4,5e-05,0
+1098,União dos Palmares,2709301,Alagoas,2457,0.02798,0
+1099,Viçosa,2709400,Alagoas,107,0.00122,1
+1100,Amparo de São Francisco,2800100,Sergipe,417,0.00475,0
+1101,Aquidabã,2800209,Sergipe,37,0.00042,0
+1102,Aracaju,2800308,Sergipe,103356,1.17717,1
+1103,Arauá,2800407,Sergipe,97,0.0011,0
+1104,Areia Branca,2800506,Sergipe,455,0.00518,0
+1105,Boquim,2800670,Sergipe,104,0.00118,0
+1106,Brejo Grande,2800704,Sergipe,120,0.00137,0
+1107,Campo do Brito,2801009,Sergipe,11,0.00013,0
+1108,Canhoba,2801108,Sergipe,37,0.00042,0
+1109,Canindé de São Francisco,2801207,Sergipe,141,0.00161,0
+1110,Capela,2801306,Sergipe,5,6e-05,0
+1111,Carira,2801405,Sergipe,606,0.0069,0
+1112,Carmópolis,2801504,Sergipe,162,0.00185,0
+1113,Cedro de São João,2801603,Sergipe,7,8e-05,0
+1114,Cristinápolis,2801702,Sergipe,807,0.00919,0
+1115,Divina Pastora,2802007,Sergipe,5,6e-05,0
+1116,Estância,2802106,Sergipe,1935,0.02204,0
+1117,Feira Nova,2802205,Sergipe,5,6e-05,0
+1118,Frei Paulo,2802304,Sergipe,43,0.00049,0
+1119,Gracho Cardoso,2802601,Sergipe,3,3e-05,0
+1120,Ilha das Flores,2802700,Sergipe,7,8e-05,0
+1121,Indiaroba,2802809,Sergipe,8,9e-05,0
+1122,Itabaiana,2802908,Sergipe,3996,0.04551,0
+1123,Itabaianinha,2803005,Sergipe,2,2e-05,0
+1124,Itaporanga d'Ajuda,2803203,Sergipe,45,0.00051,0
+1125,Japaratuba,2803302,Sergipe,119,0.00136,0
+1126,Japoatã,2803401,Sergipe,10,0.00011,0
+1127,Lagarto,2803500,Sergipe,2450,0.0279,0
+1128,Laranjeiras,2803609,Sergipe,75,0.00085,0
+1129,Malhada dos Bois,2803807,Sergipe,4,5e-05,0
+1130,Maruim,2804003,Sergipe,120,0.00137,0
+1131,Moita Bonita,2804102,Sergipe,121,0.00138,0
+1132,Monte Alegre de Sergipe,2804201,Sergipe,6,7e-05,0
+1133,Muribeca,2804300,Sergipe,15,0.00017,0
+1134,Nossa Senhora Aparecida,2804458,Sergipe,8,9e-05,0
+1135,Nossa Senhora da Glória,2804508,Sergipe,65,0.00074,0
+1136,Nossa Senhora das Dores,2804607,Sergipe,49,0.00056,0
+1137,Nossa Senhora de Lourdes,2804706,Sergipe,3,3e-05,0
+1138,Pacatuba,2804904,Sergipe,16,0.00018,0
+1139,Pedrinhas,2805109,Sergipe,5,6e-05,0
+1140,Poço Redondo,2805406,Sergipe,4,5e-05,0
+1141,Poço Verde,2805505,Sergipe,106,0.00121,0
+1142,Propriá,2805703,Sergipe,4803,0.0547,0
+1143,Riachão do Dantas,2805802,Sergipe,5,6e-05,0
+1144,Riachuelo,2805901,Sergipe,249,0.00284,0
+1145,Ribeirópolis,2806008,Sergipe,16,0.00018,0
+1146,Rosário do Catete,2806107,Sergipe,46,0.00052,0
+1147,Salgado,2806206,Sergipe,193,0.0022,0
+1148,Santana do São Francisco,2806404,Sergipe,7,8e-05,0
+1149,São Francisco,2806909,Sergipe,2,2e-05,0
+1150,Simão Dias,2807105,Sergipe,96,0.00109,0
+1151,Siriri,2807204,Sergipe,3,3e-05,0
+1152,Tobias Barreto,2807402,Sergipe,281,0.0032,0
+1153,Umbaúba,2807600,Sergipe,173,0.00197,0
+1154,Abaíra,2900108,Bahia,2229,0.02539,0
+1155,Abaré,2900207,Bahia,266,0.00303,0
+1156,Acajutiba,2900306,Bahia,182,0.00207,0
+1157,Adustina,2900355,Bahia,20,0.00023,0
+1158,Água Fria,2900405,Bahia,251,0.00286,0
+1159,Érico Cardoso,2900504,Bahia,16,0.00018,0
+1160,Aiquara,2900603,Bahia,15,0.00017,0
+1161,Alagoinhas,2900702,Bahia,16018,0.18244,1
+1162,Alcobaça,2900801,Bahia,1689,0.01924,0
+1163,Almadina,2900900,Bahia,94,0.00107,0
+1164,Amargosa,2901007,Bahia,439,0.005,0
+1165,Amélia Rodrigues,2901106,Bahia,2425,0.02762,0
+1166,América Dourada,2901155,Bahia,2380,0.02711,0
+1167,Anagé,2901205,Bahia,7409,0.08438,0
+1168,Andaraí,2901304,Bahia,688,0.00784,0
+1169,Anguera,2901502,Bahia,874,0.00995,0
+1170,Antas,2901601,Bahia,876,0.00998,0
+1171,Antônio Gonçalves,2901809,Bahia,1745,0.01987,0
+1172,Aporá,2901908,Bahia,33,0.00038,0
+1173,Aracatu,2902005,Bahia,1041,0.01186,0
+1174,Araçás,2902054,Bahia,92,0.00105,0
+1175,Araci,2902104,Bahia,2153,0.02452,0
+1176,Aramari,2902203,Bahia,4,5e-05,0
+1177,Arataca,2902252,Bahia,130,0.00148,0
+1178,Aratuípe,2902302,Bahia,15,0.00017,0
+1179,Baianópolis,2902500,Bahia,80,0.00091,0
+1180,Baixa Grande,2902609,Bahia,1665,0.01896,0
+1181,Barra,2902708,Bahia,313,0.00356,0
+1182,Barra da Estiva,2902807,Bahia,2517,0.02867,0
+1183,Barra do Choça,2902906,Bahia,54,0.00062,0
+1184,Barra do Mendes,2903003,Bahia,382,0.00435,0
+1185,Barra do Rocha,2903102,Bahia,1415,0.01612,0
+1186,Barreiras,2903201,Bahia,48401,0.55126,1
+1187,Belmonte,2903409,Bahia,243,0.00277,0
+1188,Belo Campo,2903508,Bahia,2399,0.02732,0
+1189,Biritinga,2903607,Bahia,36,0.00041,0
+1190,Boa Nova,2903706,Bahia,2,2e-05,0
+1191,Bom Jesus da Lapa,2903904,Bahia,5972,0.06802,0
+1192,Bom Jesus da Serra,2903953,Bahia,190,0.00216,0
+1193,Boninal,2904001,Bahia,25,0.00028,0
+1194,Bonito,2904050,Bahia,383,0.00436,0
+1195,Boquira,2904100,Bahia,840,0.00957,0
+1196,Botuporã,2904209,Bahia,3,3e-05,0
+1197,Brejões,2904308,Bahia,7,8e-05,0
+1198,Brejolândia,2904407,Bahia,130,0.00148,0
+1199,Brotas de Macaúbas,2904506,Bahia,27,0.00031,0
+1200,Brumado,2904605,Bahia,7670,0.08736,0
+1201,Buerarema,2904704,Bahia,1262,0.01437,0
+1202,Buritirama,2904753,Bahia,178,0.00203,0
+1203,Caatiba,2904803,Bahia,18,0.00021,0
+1204,Cachoeira,2904902,Bahia,739,0.00842,0
+1205,Caculé,2905008,Bahia,640,0.00729,0
+1206,Caém,2905107,Bahia,168,0.00191,0
+1207,Caetanos,2905156,Bahia,1,1e-05,0
+1208,Caetité,2905206,Bahia,6467,0.07366,0
+1209,Cafarnaum,2905305,Bahia,60,0.00068,0
+1210,Cairu,2905404,Bahia,403,0.00459,0
+1211,Caldeirão Grande,2905503,Bahia,17,0.00019,0
+1212,Camacan,2905602,Bahia,10041,0.11436,0
+1213,Camaçari,2905701,Bahia,539,0.00614,0
+1214,Camamu,2905800,Bahia,1773,0.02019,0
+1215,Campo Alegre de Lourdes,2905909,Bahia,2,2e-05,0
+1216,Campo Formoso,2906006,Bahia,37,0.00042,0
+1217,Canarana,2906204,Bahia,258,0.00294,0
+1218,Canavieiras,2906303,Bahia,263,0.003,0
+1219,Candeal,2906402,Bahia,39,0.00044,0
+1220,Candeias,2906501,Bahia,32,0.00036,0
+1221,Candiba,2906600,Bahia,2,2e-05,0
+1222,Cândido Sales,2906709,Bahia,537,0.00612,0
+1223,Cansanção,2906808,Bahia,747,0.00851,0
+1224,Canudos,2906824,Bahia,112,0.00128,0
+1225,Capim Grosso,2906873,Bahia,14590,0.16617,0
+1226,Caravelas,2906907,Bahia,17,0.00019,0
+1227,Carinhanha,2907103,Bahia,1719,0.01958,0
+1228,Casa Nova,2907202,Bahia,85,0.00097,0
+1229,Castro Alves,2907301,Bahia,379,0.00432,0
+1230,Catu,2907509,Bahia,157,0.00179,0
+1231,Caturama,2907558,Bahia,2028,0.0231,0
+1232,Central,2907608,Bahia,8,9e-05,0
+1233,Chorrochó,2907707,Bahia,107,0.00122,0
+1234,Cícero Dantas,2907806,Bahia,1277,0.01454,0
+1235,Cipó,2907905,Bahia,588,0.0067,0
+1236,Coaraci,2908002,Bahia,673,0.00767,0
+1237,Cocos,2908101,Bahia,2066,0.02353,0
+1238,Conceição da Feira,2908200,Bahia,9,0.0001,0
+1239,Conceição do Almeida,2908309,Bahia,8,9e-05,0
+1240,Conceição do Coité,2908408,Bahia,1723,0.01962,0
+1241,Conceição do Jacuípe,2908507,Bahia,10,0.00011,0
+1242,Conde,2908606,Bahia,9,0.0001,0
+1243,Condeúba,2908705,Bahia,472,0.00538,0
+1244,Contendas do Sincorá,2908804,Bahia,1,1e-05,0
+1245,Coração de Maria,2908903,Bahia,10,0.00011,0
+1246,Cordeiros,2909000,Bahia,2,2e-05,0
+1247,Coribe,2909109,Bahia,39,0.00044,0
+1248,Coronel João Sá,2909208,Bahia,12,0.00014,0
+1249,Correntina,2909307,Bahia,217,0.00247,0
+1250,Cotegipe,2909406,Bahia,9,0.0001,0
+1251,Cristópolis,2909703,Bahia,987,0.01124,0
+1252,Cruz das Almas,2909802,Bahia,9829,0.11195,0
+1253,Dário Meira,2910008,Bahia,147,0.00167,0
+1254,Dias d'Ávila,2910057,Bahia,3,3e-05,0
+1255,Dom Basílio,2910107,Bahia,18,0.00021,0
+1256,Entre Rios,2910503,Bahia,358,0.00408,0
+1257,Esplanada,2910602,Bahia,1649,0.01878,0
+1258,Euclides da Cunha,2910701,Bahia,983,0.0112,0
+1259,Eunápolis,2910727,Bahia,14229,0.16206,0
+1260,Fátima,2910750,Bahia,12,0.00014,0
+1261,Feira de Santana,2910800,Bahia,96714,1.10152,1
+1262,Filadélfia,2910859,Bahia,109,0.00124,0
+1263,Firmino Alves,2910909,Bahia,115,0.00131,0
+1264,Floresta Azul,2911006,Bahia,529,0.00603,0
+1265,Formosa do Rio Preto,2911105,Bahia,171,0.00195,0
+1266,Gandu,2911204,Bahia,7307,0.08322,0
+1267,Gavião,2911253,Bahia,21,0.00024,0
+1268,Governador Mangabeira,2911600,Bahia,429,0.00489,0
+1269,Guajeru,2911659,Bahia,3,3e-05,0
+1270,Guanambi,2911709,Bahia,9865,0.11236,0
+1271,Guaratinga,2911808,Bahia,183,0.00208,0
+1272,Iaçu,2911907,Bahia,239,0.00272,0
+1273,Ibiassucê,2912004,Bahia,52,0.00059,0
+1274,Ibicaraí,2912103,Bahia,116,0.00132,0
+1275,Ibicuí,2912301,Bahia,12,0.00014,0
+1276,Ibipitanga,2912509,Bahia,336,0.00383,0
+1277,Ibirapitanga,2912707,Bahia,6,7e-05,0
+1278,Ibirataia,2912905,Bahia,285,0.00325,0
+1279,Ibitiara,2913002,Bahia,9,0.0001,0
+1280,Ibotirama,2913200,Bahia,5048,0.05749,0
+1281,Ichu,2913309,Bahia,34,0.00039,0
+1282,Igaporã,2913408,Bahia,11,0.00013,0
+1283,Igrapiúna,2913457,Bahia,2,2e-05,0
+1284,Iguaí,2913507,Bahia,10,0.00011,0
+1285,Ilhéus,2913606,Bahia,8141,0.09272,1
+1286,Inhambupe,2913705,Bahia,577,0.00657,0
+1287,Ipiaú,2913903,Bahia,3150,0.03588,0
+1288,Ipirá,2914000,Bahia,1505,0.01714,0
+1289,Ipupiara,2914109,Bahia,172,0.00196,0
+1290,Iraquara,2914406,Bahia,274,0.00312,0
+1291,Irará,2914505,Bahia,98,0.00112,0
+1292,Irecê,2914604,Bahia,13483,0.15356,0
+1293,Itabela,2914653,Bahia,1295,0.01475,0
+1294,Itaberaba,2914703,Bahia,6560,0.07471,0
+1295,Itabuna,2914802,Bahia,13257,0.15099,0
+1296,Itacaré,2914901,Bahia,42,0.00048,0
+1297,Itagimirim,2915304,Bahia,217,0.00247,0
+1298,Itaju do Colônia,2915403,Bahia,2,2e-05,0
+1299,Itajuípe,2915502,Bahia,35,0.0004,0
+1300,Itamaraju,2915601,Bahia,2569,0.02926,0
+1301,Itambé,2915809,Bahia,1718,0.01957,0
+1302,Itaparica,2916104,Bahia,3382,0.03852,0
+1303,Itapebi,2916302,Bahia,11,0.00013,0
+1304,Itapetinga,2916401,Bahia,3493,0.03978,0
+1305,Itapicuru,2916500,Bahia,12,0.00014,0
+1306,Itaquara,2916708,Bahia,131,0.00149,0
+1307,Itarantim,2916807,Bahia,69,0.00079,0
+1308,Itatim,2916856,Bahia,91,0.00104,0
+1309,Itiruçu,2916906,Bahia,19,0.00022,0
+1310,Itiúba,2917003,Bahia,15,0.00017,0
+1311,Itororó,2917102,Bahia,115,0.00131,0
+1312,Ituaçu,2917201,Bahia,950,0.01082,0
+1313,Ituberá,2917300,Bahia,327,0.00372,0
+1314,Jacaraci,2917409,Bahia,37,0.00042,0
+1315,Jacobina,2917508,Bahia,5190,0.05911,0
+1316,Jaguaquara,2917607,Bahia,1943,0.02213,0
+1317,Jaguarari,2917706,Bahia,54,0.00062,0
+1318,Jequié,2918001,Bahia,15244,0.17362,0
+1319,Jeremoabo,2918100,Bahia,561,0.00639,0
+1320,Jiquiriçá,2918209,Bahia,4,5e-05,0
+1321,Jitaúna,2918308,Bahia,128,0.00146,0
+1322,João Dourado,2918357,Bahia,5,6e-05,0
+1323,Juazeiro,2918407,Bahia,6319,0.07197,1
+1324,Jussara,2918506,Bahia,3,3e-05,0
+1325,Jussari,2918555,Bahia,9,0.0001,0
+1326,Laje,2918803,Bahia,69,0.00079,0
+1327,Lajedo do Tabocal,2919058,Bahia,8,9e-05,0
+1328,Lapão,2919157,Bahia,9,0.0001,0
+1329,Lençóis,2919306,Bahia,2,2e-05,0
+1330,Licínio de Almeida,2919405,Bahia,1,1e-05,0
+1331,Livramento de Nossa Senhora,2919504,Bahia,514,0.00585,0
+1332,Luís Eduardo Magalhães,2919553,Bahia,13494,0.15369,0
+1333,Macaúbas,2919801,Bahia,323,0.00368,0
+1334,Macururé,2919900,Bahia,4,5e-05,0
+1335,Maiquinique,2920007,Bahia,37,0.00042,0
+1336,Mairi,2920106,Bahia,44,0.0005,0
+1337,Malhada,2920205,Bahia,15,0.00017,0
+1338,Malhada de Pedras,2920304,Bahia,5,6e-05,0
+1339,Manoel Vitorino,2920403,Bahia,18,0.00021,0
+1340,Maracás,2920502,Bahia,149,0.0017,0
+1341,Marcionílio Souza,2920809,Bahia,103,0.00117,0
+1342,Mata de São João,2921005,Bahia,5,6e-05,0
+1343,Medeiros Neto,2921104,Bahia,752,0.00856,0
+1344,Miguel Calmon,2921203,Bahia,94,0.00107,0
+1345,Milagres,2921302,Bahia,10929,0.12448,0
+1346,Monte Santo,2921500,Bahia,6,7e-05,0
+1347,Morro do Chapéu,2921708,Bahia,2194,0.02499,0
+1348,Mortugaba,2921807,Bahia,33,0.00038,0
+1349,Mucugê,2921906,Bahia,101,0.00115,0
+1350,Mulungu do Morro,2922052,Bahia,32,0.00036,0
+1351,Mundo Novo,2922102,Bahia,29,0.00033,0
+1352,Muritiba,2922300,Bahia,5,6e-05,0
+1353,Mutuípe,2922409,Bahia,9,0.0001,0
+1354,Nazaré,2922508,Bahia,104,0.00118,0
+1355,Nilo Peçanha,2922607,Bahia,115,0.00131,0
+1356,Nova Canaã,2922706,Bahia,3,3e-05,0
+1357,Nova Fátima,2922730,Bahia,101,0.00115,0
+1358,Nova Itarana,2922805,Bahia,7,8e-05,0
+1359,Nova Soure,2922904,Bahia,247,0.00281,0
+1360,Nova Viçosa,2923001,Bahia,168,0.00191,0
+1361,Novo Horizonte,2923035,Bahia,17,0.00019,0
+1362,Olindina,2923100,Bahia,371,0.00423,0
+1363,Oliveira dos Brejinhos,2923209,Bahia,23,0.00026,0
+1364,Ourolândia,2923357,Bahia,1,1e-05,0
+1365,Palmas de Monte Alto,2923407,Bahia,84,0.00096,0
+1366,Palmeiras,2923506,Bahia,6,7e-05,0
+1367,Paramirim,2923605,Bahia,131,0.00149,0
+1368,Paratinga,2923704,Bahia,15,0.00017,0
+1369,Paripiranga,2923803,Bahia,82,0.00093,0
+1370,Paulo Afonso,2924009,Bahia,6897,0.07855,0
+1371,Piatã,2924306,Bahia,7,8e-05,0
+1372,Pilão Arcado,2924405,Bahia,50,0.00057,0
+1373,Pindaí,2924504,Bahia,286,0.00326,0
+1374,Piripá,2924702,Bahia,37,0.00042,0
+1375,Piritiba,2924801,Bahia,56,0.00064,0
+1376,Planaltino,2924900,Bahia,12,0.00014,0
+1377,Planalto,2925006,Bahia,1586,0.01806,0
+1378,Poções,2925105,Bahia,6903,0.07862,0
+1379,Pojuca,2925204,Bahia,6,7e-05,0
+1380,Ponto Novo,2925253,Bahia,3,3e-05,0
+1381,Porto Seguro,2925303,Bahia,3783,0.04309,1
+1382,Potiraguá,2925402,Bahia,27,0.00031,0
+1383,Prado,2925501,Bahia,6,7e-05,0
+1384,Presidente Dutra,2925600,Bahia,43,0.00049,0
+1385,Presidente Jânio Quadros,2925709,Bahia,2,2e-05,0
+1386,Presidente Tancredo Neves,2925758,Bahia,4,5e-05,0
+1387,Queimadas,2925808,Bahia,155,0.00177,0
+1388,Remanso,2926004,Bahia,1005,0.01145,0
+1389,Retirolândia,2926103,Bahia,25,0.00028,0
+1390,Riachão das Neves,2926202,Bahia,122,0.00139,0
+1391,Riachão do Jacuípe,2926301,Bahia,1288,0.01467,0
+1392,Riacho de Santana,2926400,Bahia,106,0.00121,0
+1393,Ribeira do Pombal,2926608,Bahia,1508,0.01718,0
+1394,Rio de Contas,2926707,Bahia,1,1e-05,0
+1395,Rio do Pires,2926905,Bahia,1,1e-05,0
+1396,Rio Real,2927002,Bahia,3,3e-05,0
+1397,Rodelas,2927101,Bahia,2,2e-05,0
+1398,Ruy Barbosa,2927200,Bahia,14,0.00016,0
+1399,Salvador,2927408,Bahia,117201,1.33486,1
+1400,Santa Bárbara,2927507,Bahia,316,0.0036,0
+1401,Santa Brígida,2927606,Bahia,4,5e-05,0
+1402,Santa Cruz Cabrália,2927705,Bahia,1,1e-05,0
+1403,Santa Cruz da Vitória,2927804,Bahia,23,0.00026,0
+1404,Santa Inês,2927903,Bahia,83,0.00095,0
+1405,Santaluz,2928000,Bahia,14,0.00016,0
+1406,Santa Maria da Vitória,2928109,Bahia,2832,0.03225,0
+1407,Santana,2928208,Bahia,1174,0.01337,0
+1408,Santanópolis,2928307,Bahia,2,2e-05,0
+1409,Santa Rita de Cássia,2928406,Bahia,65,0.00074,0
+1410,Santa Terezinha,2928505,Bahia,7,8e-05,0
+1411,Santo Amaro,2928604,Bahia,193,0.0022,0
+1412,Santo Antônio de Jesus,2928703,Bahia,2098,0.0239,1
+1413,Santo Estêvão,2928802,Bahia,477,0.00543,0
+1414,São Desidério,2928901,Bahia,514,0.00585,0
+1415,São Félix,2929008,Bahia,28,0.00032,0
+1416,São Gabriel,2929255,Bahia,1,1e-05,0
+1417,São José da Vitória,2929354,Bahia,4,5e-05,0
+1418,São José do Jacuípe,2929370,Bahia,88,0.001,0
+1419,São Sebastião do Passé,2929503,Bahia,132,0.0015,0
+1420,Sapeaçu,2929602,Bahia,62,0.00071,0
+1421,Saúde,2929800,Bahia,17,0.00019,0
+1422,Seabra,2929909,Bahia,7276,0.08287,0
+1423,Senhor do Bonfim,2930105,Bahia,5536,0.06305,0
+1424,Serra do Ramalho,2930154,Bahia,207,0.00236,0
+1425,Serra Dourada,2930303,Bahia,26,0.0003,0
+1426,Serrinha,2930501,Bahia,1722,0.01961,0
+1427,Simões Filho,2930709,Bahia,1,1e-05,0
+1428,Sítio do Quinto,2930766,Bahia,2,2e-05,0
+1429,Souto Soares,2930808,Bahia,26,0.0003,0
+1430,Tabocas do Brejo Velho,2930907,Bahia,19,0.00022,0
+1431,Tanhaçu,2931004,Bahia,969,0.01104,0
+1432,Tanque Novo,2931053,Bahia,3,3e-05,0
+1433,Tanquinho,2931103,Bahia,52,0.00059,0
+1434,Taperoá,2931202,Bahia,86,0.00098,0
+1435,Teixeira de Freitas,2931350,Bahia,7151,0.08145,0
+1436,Teodoro Sampaio,2931400,Bahia,19,0.00022,0
+1437,Teofilândia,2931509,Bahia,254,0.00289,0
+1438,Tremedal,2931806,Bahia,443,0.00505,0
+1439,Tucano,2931905,Bahia,40,0.00046,0
+1440,Uauá,2932002,Bahia,7,8e-05,0
+1441,Ubaitaba,2932200,Bahia,1255,0.01429,0
+1442,Ubatã,2932309,Bahia,456,0.00519,0
+1443,Uibaí,2932408,Bahia,53,0.0006,0
+1444,Umburanas,2932457,Bahia,16,0.00018,0
+1445,Urandi,2932606,Bahia,232,0.00264,0
+1446,Utinga,2932804,Bahia,446,0.00508,0
+1447,Valença,2932903,Bahia,1359,0.01548,0
+1448,Valente,2933000,Bahia,55,0.00063,0
+1449,Várzea da Roça,2933059,Bahia,3,3e-05,0
+1450,Várzea do Poço,2933109,Bahia,39,0.00044,0
+1451,Várzea Nova,2933158,Bahia,2,2e-05,0
+1452,Vitória da Conquista,2933307,Bahia,29305,0.33377,0
+1453,Wagner,2933406,Bahia,65,0.00074,0
+1454,Wanderley,2933455,Bahia,3,3e-05,0
+1455,Wenceslau Guimarães,2933505,Bahia,7,8e-05,0
+1456,Xique-Xique,2933604,Bahia,901,0.01026,0
+1457,Abadia dos Dourados,3100104,Minas Gerais,488,0.00556,0
+1458,Abaeté,3100203,Minas Gerais,4832,0.05503,0
+1459,Abre Campo,3100302,Minas Gerais,5171,0.05889,0
+1460,Açucena,3100500,Minas Gerais,278,0.00317,0
+1461,Água Boa,3100609,Minas Gerais,6179,0.07038,0
+1462,Aguanil,3100807,Minas Gerais,12,0.00014,0
+1463,Águas Formosas,3100906,Minas Gerais,4761,0.05423,0
+1464,Aimorés,3101102,Minas Gerais,1930,0.02198,0
+1465,Aiuruoca,3101201,Minas Gerais,3383,0.03853,0
+1466,Alagoa,3101300,Minas Gerais,11,0.00013,0
+1467,Além Paraíba,3101508,Minas Gerais,6098,0.06945,0
+1468,Alfenas,3101607,Minas Gerais,19319,0.22003,1
+1469,Alfredo Vasconcelos,3101631,Minas Gerais,527,0.006,0
+1470,Almenara,3101706,Minas Gerais,10803,0.12304,0
+1471,Alpercata,3101805,Minas Gerais,941,0.01072,0
+1472,Alpinópolis,3101904,Minas Gerais,572,0.00651,0
+1473,Alterosa,3102001,Minas Gerais,581,0.00662,0
+1474,Alto Caparaó,3102050,Minas Gerais,97,0.0011,0
+1475,Alto Rio Doce,3102100,Minas Gerais,618,0.00704,0
+1476,Alvinópolis,3102308,Minas Gerais,291,0.00331,0
+1477,Alvorada de Minas,3102407,Minas Gerais,767,0.00874,0
+1478,Andradas,3102605,Minas Gerais,2984,0.03399,0
+1479,Andrelândia,3102803,Minas Gerais,2501,0.02849,0
+1480,Antônio Carlos,3102902,Minas Gerais,193,0.0022,0
+1481,Antônio Dias,3103009,Minas Gerais,3,3e-05,0
+1482,Antônio Prado de Minas,3103108,Minas Gerais,71,0.00081,0
+1483,Araçaí,3103207,Minas Gerais,256,0.00292,0
+1484,Aracitaba,3103306,Minas Gerais,25,0.00028,0
+1485,Araçuaí,3103405,Minas Gerais,6755,0.07694,0
+1486,Araguari,3103504,Minas Gerais,5909,0.0673,0
+1487,Arantina,3103603,Minas Gerais,65,0.00074,0
+1488,Araponga,3103702,Minas Gerais,43,0.00049,0
+1489,Araporã,3103751,Minas Gerais,520,0.00592,0
+1490,Arapuá,3103801,Minas Gerais,69,0.00079,0
+1491,Araújos,3103900,Minas Gerais,585,0.00666,0
+1492,Araxá,3104007,Minas Gerais,10712,0.122,0
+1493,Arceburgo,3104106,Minas Gerais,515,0.00587,0
+1494,Arcos,3104205,Minas Gerais,3605,0.04106,0
+1495,Areado,3104304,Minas Gerais,281,0.0032,0
+1496,Argirita,3104403,Minas Gerais,111,0.00126,0
+1497,Arinos,3104502,Minas Gerais,1824,0.02077,0
+1498,Astolfo Dutra,3104601,Minas Gerais,2478,0.02822,0
+1499,Augusto de Lima,3104809,Minas Gerais,1006,0.01146,0
+1500,Baependi,3104908,Minas Gerais,1350,0.01538,0
+1501,Baldim,3105004,Minas Gerais,918,0.01046,0
+1502,Bambuí,3105103,Minas Gerais,1895,0.02158,0
+1503,Bandeira do Sul,3105301,Minas Gerais,2,2e-05,0
+1504,Barão de Cocais,3105400,Minas Gerais,1759,0.02003,0
+1505,Barbacena,3105608,Minas Gerais,26311,0.29967,0
+1506,Barroso,3105905,Minas Gerais,232,0.00264,0
+1507,Bela Vista de Minas,3106002,Minas Gerais,696,0.00793,0
+1508,Belo Horizonte,3106200,Minas Gerais,295179,3.36193,1
+1509,Belo Oriente,3106309,Minas Gerais,1139,0.01297,0
+1510,Berilo,3106507,Minas Gerais,320,0.00364,0
+1511,Bertópolis,3106606,Minas Gerais,17,0.00019,1
+1512,Betim,3106705,Minas Gerais,4546,0.05178,1
+1513,Bias Fortes,3106804,Minas Gerais,424,0.00483,0
+1514,Bicas,3106903,Minas Gerais,2513,0.02862,0
+1515,Biquinhas,3107000,Minas Gerais,15,0.00017,0
+1516,Boa Esperança,3107109,Minas Gerais,5213,0.05937,0
+1517,Bocaiúva,3107307,Minas Gerais,5344,0.06087,0
+1518,Bom Despacho,3107406,Minas Gerais,1561,0.01778,0
+1519,Bom Jardim de Minas,3107505,Minas Gerais,659,0.00751,0
+1520,Bom Jesus da Penha,3107604,Minas Gerais,343,0.00391,0
+1521,Bom Jesus do Amparo,3107703,Minas Gerais,418,0.00476,0
+1522,Bom Jesus do Galho,3107802,Minas Gerais,1700,0.01936,0
+1523,Bom Sucesso,3108008,Minas Gerais,1967,0.0224,0
+1524,Bonfim,3108107,Minas Gerais,4801,0.05468,0
+1525,Bonfinópolis de Minas,3108206,Minas Gerais,53,0.0006,0
+1526,Borda da Mata,3108305,Minas Gerais,2460,0.02802,0
+1527,Botelhos,3108404,Minas Gerais,26,0.0003,0
+1528,Brasilândia de Minas,3108552,Minas Gerais,332,0.00378,0
+1529,Brasília de Minas,3108602,Minas Gerais,145,0.00165,0
+1530,Brás Pires,3108701,Minas Gerais,485,0.00552,0
+1531,Braúnas,3108800,Minas Gerais,854,0.00973,0
+1532,Brazópolis,3108909,Minas Gerais,3556,0.0405,0
+1533,Brumadinho,3109006,Minas Gerais,415,0.00473,0
+1534,Buenópolis,3109204,Minas Gerais,505,0.00575,0
+1535,Buritis,3109303,Minas Gerais,196,0.00223,0
+1536,Cabo Verde,3109501,Minas Gerais,1,1e-05,0
+1537,Cachoeira da Prata,3109600,Minas Gerais,2799,0.03188,0
+1538,Cachoeira de Minas,3109709,Minas Gerais,517,0.00589,0
+1539,Cachoeira Dourada,3109808,Minas Gerais,185,0.00211,0
+1540,Caetanópolis,3109907,Minas Gerais,2,2e-05,0
+1541,Caeté,3110004,Minas Gerais,411,0.00468,0
+1542,Caldas,3110301,Minas Gerais,164,0.00187,0
+1543,Camanducaia,3110509,Minas Gerais,586,0.00667,0
+1544,Cambuí,3110608,Minas Gerais,4355,0.0496,0
+1545,Cambuquira,3110707,Minas Gerais,9866,0.11237,0
+1546,Campanário,3110806,Minas Gerais,620,0.00706,0
+1547,Campanha,3110905,Minas Gerais,1464,0.01667,0
+1548,Campestre,3111002,Minas Gerais,60,0.00068,0
+1549,Campina Verde,3111101,Minas Gerais,325,0.0037,0
+1550,Campo Belo,3111200,Minas Gerais,4248,0.04838,0
+1551,Campo do Meio,3111309,Minas Gerais,3,3e-05,0
+1552,Campo Florido,3111408,Minas Gerais,277,0.00315,0
+1553,Campos Altos,3111507,Minas Gerais,876,0.00998,0
+1554,Campos Gerais,3111606,Minas Gerais,75,0.00085,0
+1555,Canaã,3111705,Minas Gerais,726,0.00827,0
+1556,Canápolis,3111804,Minas Gerais,1,1e-05,0
+1557,Candeias,3112000,Minas Gerais,17,0.00019,0
+1558,Cantagalo,3112059,Minas Gerais,2,2e-05,0
+1559,Caparaó,3112109,Minas Gerais,4,5e-05,0
+1560,Capela Nova,3112208,Minas Gerais,196,0.00223,0
+1561,Capelinha,3112307,Minas Gerais,4123,0.04696,0
+1562,Capetinga,3112406,Minas Gerais,45,0.00051,0
+1563,Capim Branco,3112505,Minas Gerais,720,0.0082,0
+1564,Capinópolis,3112604,Minas Gerais,844,0.00961,0
+1565,Capitão Andrade,3112653,Minas Gerais,186,0.00212,0
+1566,Capitólio,3112802,Minas Gerais,686,0.00781,0
+1567,Caranaíba,3113107,Minas Gerais,244,0.00278,0
+1568,Carandaí,3113206,Minas Gerais,181,0.00206,0
+1569,Carangola,3113305,Minas Gerais,13718,0.15624,0
+1570,Caratinga,3113404,Minas Gerais,12550,0.14294,0
+1571,Carbonita,3113503,Minas Gerais,26,0.0003,0
+1572,Careaçu,3113602,Minas Gerais,4206,0.0479,0
+1573,Carlos Chagas,3113701,Minas Gerais,2,2e-05,0
+1574,Carmésia,3113800,Minas Gerais,227,0.00259,0
+1575,Carmo da Mata,3114006,Minas Gerais,1052,0.01198,0
+1576,Carmo de Minas,3114105,Minas Gerais,2054,0.02339,0
+1577,Carmo do Paranaíba,3114303,Minas Gerais,966,0.011,0
+1578,Carmo do Rio Claro,3114402,Minas Gerais,20,0.00023,0
+1579,Carmópolis de Minas,3114501,Minas Gerais,599,0.00682,0
+1580,Carneirinho,3114550,Minas Gerais,381,0.00434,0
+1581,Carrancas,3114600,Minas Gerais,1,1e-05,0
+1582,Carvalhópolis,3114709,Minas Gerais,11,0.00013,0
+1583,Casa Grande,3114907,Minas Gerais,78,0.00089,0
+1584,Cássia,3115102,Minas Gerais,3581,0.04079,0
+1585,Cataguases,3115300,Minas Gerais,6734,0.0767,0
+1586,Catas Altas da Noruega,3115409,Minas Gerais,3040,0.03462,0
+1587,Catuji,3115458,Minas Gerais,1025,0.01167,0
+1588,Caxambu,3115508,Minas Gerais,2196,0.02501,0
+1589,Central de Minas,3115706,Minas Gerais,509,0.0058,0
+1590,Centralina,3115805,Minas Gerais,150,0.00171,0
+1591,Chapada Gaúcha,3116159,Minas Gerais,18,0.00021,0
+1592,Cipotânea,3116308,Minas Gerais,53,0.0006,0
+1593,Cláudio,3116605,Minas Gerais,147,0.00167,0
+1594,Coimbra,3116704,Minas Gerais,983,0.0112,0
+1595,Coluna,3116803,Minas Gerais,992,0.0113,0
+1596,Comendador Gomes,3116902,Minas Gerais,1,1e-05,0
+1597,Conceição das Alagoas,3117306,Minas Gerais,64,0.00073,0
+1598,Conceição de Ipanema,3117405,Minas Gerais,35,0.0004,0
+1599,Conceição do Mato Dentro,3117504,Minas Gerais,3251,0.03703,0
+1600,Conceição do Pará,3117603,Minas Gerais,89,0.00101,0
+1601,Conceição dos Ouros,3117801,Minas Gerais,81,0.00092,0
+1602,Cônego Marinho,3117836,Minas Gerais,398,0.00453,0
+1603,Confins,3117876,Minas Gerais,2,2e-05,0
+1604,Congonhal,3117900,Minas Gerais,265,0.00302,0
+1605,Congonhas,3118007,Minas Gerais,1440,0.0164,1
+1606,Conselheiro Lafaiete,3118304,Minas Gerais,10365,0.11805,0
+1607,Conselheiro Pena,3118403,Minas Gerais,3385,0.03855,0
+1608,Contagem,3118601,Minas Gerais,254,0.00289,1
+1609,Coqueiral,3118700,Minas Gerais,1,1e-05,0
+1610,Coração de Jesus,3118809,Minas Gerais,1384,0.01576,0
+1611,Cordisburgo,3118908,Minas Gerais,234,0.00267,0
+1612,Cordislândia,3119005,Minas Gerais,6,7e-05,0
+1613,Corinto,3119104,Minas Gerais,2322,0.02645,0
+1614,Coroaci,3119203,Minas Gerais,1178,0.01342,0
+1615,Coromandel,3119302,Minas Gerais,734,0.00836,0
+1616,Coronel Fabriciano,3119401,Minas Gerais,11216,0.12774,1
+1617,Coronel Murta,3119500,Minas Gerais,5,6e-05,0
+1618,Coronel Pacheco,3119609,Minas Gerais,204,0.00232,0
+1619,Córrego Fundo,3119955,Minas Gerais,22,0.00025,0
+1620,Couto de Magalhães de Minas,3120102,Minas Gerais,1386,0.01579,0
+1621,Crisólita,3120151,Minas Gerais,280,0.00319,0
+1622,Cristais,3120201,Minas Gerais,7,8e-05,0
+1623,Cristiano Otoni,3120409,Minas Gerais,363,0.00413,0
+1624,Cristina,3120508,Minas Gerais,100,0.00114,0
+1625,Crucilândia,3120607,Minas Gerais,112,0.00128,0
+1626,Cruzília,3120805,Minas Gerais,441,0.00502,0
+1627,Cuparaque,3120839,Minas Gerais,37,0.00042,0
+1628,Curral de Dentro,3120870,Minas Gerais,363,0.00413,0
+1629,Curvelo,3120904,Minas Gerais,7654,0.08717,0
+1630,Datas,3121001,Minas Gerais,115,0.00131,0
+1631,Delfim Moreira,3121100,Minas Gerais,808,0.0092,0
+1632,Delfinópolis,3121209,Minas Gerais,256,0.00292,0
+1633,Delta,3121258,Minas Gerais,17,0.00019,0
+1634,Desterro de Entre Rios,3121407,Minas Gerais,1,1e-05,0
+1635,Desterro do Melo,3121506,Minas Gerais,18,0.00021,0
+1636,Diamantina,3121605,Minas Gerais,4225,0.04812,1
+1637,Dionísio,3121803,Minas Gerais,14,0.00016,0
+1638,Divinésia,3121902,Minas Gerais,119,0.00136,0
+1639,Divino,3122009,Minas Gerais,1523,0.01735,0
+1640,Divino das Laranjeiras,3122108,Minas Gerais,210,0.00239,0
+1641,Divinolândia de Minas,3122207,Minas Gerais,306,0.00349,0
+1642,Divinópolis,3122306,Minas Gerais,14124,0.16086,1
+1643,Divisa Alegre,3122355,Minas Gerais,656,0.00747,0
+1644,Dom Cavati,3122504,Minas Gerais,337,0.00384,0
+1645,Dom Joaquim,3122603,Minas Gerais,1207,0.01375,0
+1646,Dom Silvério,3122702,Minas Gerais,1858,0.02116,0
+1647,Dona Eusébia,3122900,Minas Gerais,4,5e-05,0
+1648,Dores de Campos,3123007,Minas Gerais,5,6e-05,0
+1649,Dores de Guanhães,3123106,Minas Gerais,238,0.00271,0
+1650,Dores do Indaiá,3123205,Minas Gerais,16,0.00018,0
+1651,Durandé,3123528,Minas Gerais,75,0.00085,0
+1652,Elói Mendes,3123601,Minas Gerais,55,0.00063,0
+1653,Engenheiro Caldas,3123700,Minas Gerais,291,0.00331,0
+1654,Entre Folhas,3123858,Minas Gerais,29,0.00033,0
+1655,Entre Rios de Minas,3123908,Minas Gerais,128,0.00146,0
+1656,Espera Feliz,3124203,Minas Gerais,1216,0.01385,0
+1657,Espinosa,3124302,Minas Gerais,734,0.00836,0
+1658,Estiva,3124500,Minas Gerais,7,8e-05,0
+1659,Estrela Dalva,3124609,Minas Gerais,15,0.00017,0
+1660,Estrela do Sul,3124807,Minas Gerais,228,0.0026,0
+1661,Eugenópolis,3124906,Minas Gerais,825,0.0094,0
+1662,Extrema,3125101,Minas Gerais,2154,0.02453,0
+1663,São Gonçalo do Rio Preto,3125507,Minas Gerais,173,0.00197,0
+1664,Felisburgo,3125606,Minas Gerais,24,0.00027,0
+1665,Felixlândia,3125705,Minas Gerais,66,0.00075,0
+1666,Ferros,3125903,Minas Gerais,111,0.00126,0
+1667,Fervedouro,3125952,Minas Gerais,744,0.00847,0
+1668,Florestal,3126000,Minas Gerais,14,0.00016,0
+1669,Formiga,3126109,Minas Gerais,3724,0.04241,0
+1670,Formoso,3126208,Minas Gerais,1457,0.01659,0
+1671,Fortuna de Minas,3126406,Minas Gerais,145,0.00165,0
+1672,Francisco Sá,3126703,Minas Gerais,2289,0.02607,0
+1673,Frei Gaspar,3126802,Minas Gerais,335,0.00382,0
+1674,Frei Inocêncio,3126901,Minas Gerais,1807,0.02058,0
+1675,Fronteira,3127008,Minas Gerais,189,0.00215,0
+1676,Fronteira dos Vales,3127057,Minas Gerais,2,2e-05,0
+1677,Frutal,3127107,Minas Gerais,6914,0.07875,0
+1678,Galiléia,3127305,Minas Gerais,90,0.00103,0
+1679,Glaucilândia,3127354,Minas Gerais,161,0.00183,0
+1680,Goiabeira,3127370,Minas Gerais,37,0.00042,0
+1681,Goianá,3127388,Minas Gerais,595,0.00678,0
+1682,Gonçalves,3127404,Minas Gerais,1392,0.01585,0
+1683,Gonzaga,3127503,Minas Gerais,48,0.00055,0
+1684,Gouveia,3127602,Minas Gerais,141,0.00161,0
+1685,Governador Valadares,3127701,Minas Gerais,47383,0.53967,1
+1686,Grão Mogol,3127800,Minas Gerais,385,0.00438,0
+1687,Guanhães,3128006,Minas Gerais,7051,0.08031,0
+1688,Guaranésia,3128303,Minas Gerais,1246,0.01419,0
+1689,Guarani,3128402,Minas Gerais,57,0.00065,0
+1690,Guarará,3128501,Minas Gerais,1,1e-05,0
+1691,Guarda-Mor,3128600,Minas Gerais,397,0.00452,0
+1692,Guaxupé,3128709,Minas Gerais,4856,0.05531,0
+1693,Guimarânia,3128907,Minas Gerais,941,0.01072,0
+1694,Heliodora,3129202,Minas Gerais,36,0.00041,0
+1695,Iapu,3129301,Minas Gerais,1652,0.01882,0
+1696,Ibertioga,3129400,Minas Gerais,626,0.00713,0
+1697,Ibiá,3129509,Minas Gerais,531,0.00605,0
+1698,Ibirité,3129806,Minas Gerais,85,0.00097,0
+1699,Iguatama,3130309,Minas Gerais,1096,0.01248,0
+1700,Ilicínea,3130507,Minas Gerais,5,6e-05,0
+1701,Inconfidentes,3130606,Minas Gerais,416,0.00474,0
+1702,Indaiabira,3130655,Minas Gerais,2,2e-05,0
+1703,Ingaí,3130804,Minas Gerais,109,0.00124,0
+1704,Inhapim,3130903,Minas Gerais,4401,0.05013,0
+1705,Inhaúma,3131000,Minas Gerais,3,3e-05,0
+1706,Ipanema,3131208,Minas Gerais,1701,0.01937,0
+1707,Ipatinga,3131307,Minas Gerais,15071,0.17165,1
+1708,Ipuiúna,3131505,Minas Gerais,3,3e-05,0
+1709,Iraí de Minas,3131604,Minas Gerais,5,6e-05,0
+1710,Itabira,3131703,Minas Gerais,5126,0.05838,0
+1711,Itabirinha,3131802,Minas Gerais,1134,0.01292,0
+1712,Itabirito,3131901,Minas Gerais,227,0.00259,0
+1713,Itacambira,3132008,Minas Gerais,24,0.00027,0
+1714,Itacarambi,3132107,Minas Gerais,1044,0.01189,0
+1715,Itaguara,3132206,Minas Gerais,2420,0.02756,0
+1716,Itaipé,3132305,Minas Gerais,6,7e-05,0
+1717,Itajubá,3132404,Minas Gerais,15148,0.17253,0
+1718,Itamarandiba,3132503,Minas Gerais,116,0.00132,0
+1719,Itambacuri,3132701,Minas Gerais,778,0.00886,0
+1720,Itambé do Mato Dentro,3132800,Minas Gerais,4,5e-05,0
+1721,Itamonte,3133006,Minas Gerais,168,0.00191,0
+1722,Itanhandu,3133105,Minas Gerais,4438,0.05055,0
+1723,Itanhomi,3133204,Minas Gerais,134,0.00153,0
+1724,Itaobim,3133303,Minas Gerais,3526,0.04016,0
+1725,Itapagipe,3133402,Minas Gerais,69,0.00079,0
+1726,Itapecerica,3133501,Minas Gerais,1453,0.01655,0
+1727,Itapeva,3133600,Minas Gerais,7,8e-05,0
+1728,Itatiaiuçu,3133709,Minas Gerais,5,6e-05,0
+1729,Itaú de Minas,3133758,Minas Gerais,3467,0.03949,0
+1730,Itaúna,3133808,Minas Gerais,190,0.00216,0
+1731,Itaverava,3133907,Minas Gerais,20,0.00023,0
+1732,Itueta,3134103,Minas Gerais,1379,0.01571,0
+1733,Ituiutaba,3134202,Minas Gerais,6654,0.07579,1
+1734,Itumirim,3134301,Minas Gerais,11,0.00013,0
+1735,Iturama,3134400,Minas Gerais,6920,0.07882,0
+1736,Itutinga,3134509,Minas Gerais,992,0.0113,0
+1737,Jacinto,3134707,Minas Gerais,650,0.0074,0
+1738,Jacutinga,3134905,Minas Gerais,29,0.00033,0
+1739,Jaguaraçu,3135001,Minas Gerais,39,0.00044,0
+1740,Jaíba,3135050,Minas Gerais,291,0.00331,0
+1741,Janaúba,3135100,Minas Gerais,2554,0.02909,0
+1742,Januária,3135209,Minas Gerais,6346,0.07228,0
+1743,Japaraíba,3135308,Minas Gerais,2,2e-05,0
+1744,Japonvar,3135357,Minas Gerais,1399,0.01593,0
+1745,Jequeri,3135506,Minas Gerais,19,0.00022,0
+1746,Jequitaí,3135605,Minas Gerais,474,0.0054,0
+1747,Jequitibá,3135704,Minas Gerais,5,6e-05,0
+1748,Jequitinhonha,3135803,Minas Gerais,1166,0.01328,0
+1749,Jesuânia,3135902,Minas Gerais,3,3e-05,0
+1750,Joaíma,3136009,Minas Gerais,467,0.00532,0
+1751,Joanésia,3136108,Minas Gerais,8,9e-05,0
+1752,João Monlevade,3136207,Minas Gerais,9557,0.10885,0
+1753,João Pinheiro,3136306,Minas Gerais,1541,0.01755,0
+1754,José Raydan,3136553,Minas Gerais,57,0.00065,0
+1755,Josenópolis,3136579,Minas Gerais,479,0.00546,0
+1756,Juatuba,3136652,Minas Gerais,262,0.00298,0
+1757,Juiz de Fora,3136702,Minas Gerais,41953,0.47782,0
+1758,Juramento,3136801,Minas Gerais,5,6e-05,0
+1759,Juruaia,3136900,Minas Gerais,207,0.00236,0
+1760,Ladainha,3137007,Minas Gerais,5,6e-05,0
+1761,Lagamar,3137106,Minas Gerais,42,0.00048,0
+1762,Lagoa da Prata,3137205,Minas Gerais,108,0.00123,0
+1763,Lagoa Dourada,3137403,Minas Gerais,16,0.00018,0
+1764,Lagoa Formosa,3137502,Minas Gerais,587,0.00669,0
+1765,Lagoa Santa,3137601,Minas Gerais,172,0.00196,0
+1766,Lajinha,3137700,Minas Gerais,1945,0.02215,0
+1767,Lambari,3137809,Minas Gerais,178,0.00203,0
+1768,Lamim,3137908,Minas Gerais,9,0.0001,0
+1769,Laranjal,3138005,Minas Gerais,56,0.00064,0
+1770,Lassance,3138104,Minas Gerais,62,0.00071,0
+1771,Lavras,3138203,Minas Gerais,9628,0.10966,0
+1772,Leme do Prado,3138351,Minas Gerais,370,0.00421,0
+1773,Leopoldina,3138401,Minas Gerais,5088,0.05795,0
+1774,Lima Duarte,3138609,Minas Gerais,120,0.00137,0
+1775,Lontra,3138658,Minas Gerais,2,2e-05,0
+1776,Luislândia,3138682,Minas Gerais,74,0.00084,0
+1777,Luminárias,3138708,Minas Gerais,96,0.00109,0
+1778,Luz,3138807,Minas Gerais,2347,0.02673,0
+1779,Machacalis,3138906,Minas Gerais,444,0.00506,0
+1780,Machado,3139003,Minas Gerais,1217,0.01386,0
+1781,Madre de Deus de Minas,3139102,Minas Gerais,39,0.00044,0
+1782,Malacacheta,3139201,Minas Gerais,451,0.00514,0
+1783,Manga,3139300,Minas Gerais,272,0.0031,0
+1784,Manhuaçu,3139409,Minas Gerais,11449,0.1304,1
+1785,Manhumirim,3139508,Minas Gerais,1342,0.01528,0
+1786,Mantena,3139607,Minas Gerais,4537,0.05167,0
+1787,Maravilhas,3139706,Minas Gerais,46,0.00052,0
+1788,Mar de Espanha,3139805,Minas Gerais,1898,0.02162,0
+1789,Mariana,3140001,Minas Gerais,549,0.00625,0
+1790,Marilac,3140100,Minas Gerais,383,0.00436,0
+1791,Mário Campos,3140159,Minas Gerais,9,0.0001,0
+1792,Maripá de Minas,3140209,Minas Gerais,2,2e-05,0
+1793,Marliéria,3140308,Minas Gerais,35,0.0004,0
+1794,Martinho Campos,3140506,Minas Gerais,725,0.00826,0
+1795,Martins Soares,3140530,Minas Gerais,151,0.00172,0
+1796,Mateus Leme,3140704,Minas Gerais,11,0.00013,0
+1797,Matias Barbosa,3140803,Minas Gerais,204,0.00232,0
+1798,Matias Cardoso,3140852,Minas Gerais,42,0.00048,0
+1799,Matipó,3140902,Minas Gerais,22,0.00025,0
+1800,Mato Verde,3141009,Minas Gerais,2264,0.02579,0
+1801,Matozinhos,3141108,Minas Gerais,135,0.00154,0
+1802,Matutina,3141207,Minas Gerais,109,0.00124,0
+1803,Medina,3141405,Minas Gerais,288,0.00328,0
+1804,Mendes Pimentel,3141504,Minas Gerais,365,0.00416,0
+1805,Mesquita,3141702,Minas Gerais,8,9e-05,0
+1806,Minas Novas,3141801,Minas Gerais,1494,0.01702,0
+1807,Minduri,3141900,Minas Gerais,3,3e-05,0
+1808,Mirabela,3142007,Minas Gerais,2450,0.0279,0
+1809,Miradouro,3142106,Minas Gerais,640,0.00729,0
+1810,Miraí,3142205,Minas Gerais,1539,0.01753,0
+1811,Miravânia,3142254,Minas Gerais,551,0.00628,0
+1812,Moema,3142403,Minas Gerais,48,0.00055,0
+1813,Montalvânia,3142700,Minas Gerais,398,0.00453,0
+1814,Monte Alegre de Minas,3142809,Minas Gerais,685,0.0078,0
+1815,Monte Azul,3142908,Minas Gerais,1479,0.01685,0
+1816,Monte Belo,3143005,Minas Gerais,76,0.00087,0
+1817,Monte Carmelo,3143104,Minas Gerais,1380,0.01572,0
+1818,Monte Santo de Minas,3143203,Minas Gerais,54,0.00062,0
+1819,Montes Claros,3143302,Minas Gerais,23144,0.2636,1
+1820,Monte Sião,3143401,Minas Gerais,878,0.01,0
+1821,Montezuma,3143450,Minas Gerais,25,0.00028,0
+1822,Morada Nova de Minas,3143500,Minas Gerais,6,7e-05,0
+1823,Morro do Pilar,3143708,Minas Gerais,56,0.00064,0
+1824,Munhoz,3143807,Minas Gerais,14,0.00016,0
+1825,Muriaé,3143906,Minas Gerais,12602,0.14353,1
+1826,Mutum,3144003,Minas Gerais,19,0.00022,0
+1827,Muzambinho,3144102,Minas Gerais,90,0.00103,0
+1828,Nacip Raydan,3144201,Minas Gerais,239,0.00272,0
+1829,Nanuque,3144300,Minas Gerais,4125,0.04698,0
+1830,Naque,3144359,Minas Gerais,308,0.00351,0
+1831,Natércia,3144409,Minas Gerais,29,0.00033,0
+1832,Nazareno,3144508,Minas Gerais,58,0.00066,0
+1833,Nepomuceno,3144607,Minas Gerais,11,0.00013,0
+1834,Nova Era,3144706,Minas Gerais,868,0.00989,0
+1835,Nova Lima,3144805,Minas Gerais,58,0.00066,0
+1836,Nova Módica,3144904,Minas Gerais,468,0.00533,0
+1837,Nova Ponte,3145000,Minas Gerais,18,0.00021,0
+1838,Nova Resende,3145109,Minas Gerais,81,0.00092,0
+1839,Nova Serrana,3145208,Minas Gerais,2407,0.02741,0
+1840,Novo Cruzeiro,3145307,Minas Gerais,1167,0.01329,0
+1841,Novo Oriente de Minas,3145356,Minas Gerais,78,0.00089,0
+1842,Olaria,3145406,Minas Gerais,84,0.00096,0
+1843,Olhos-d'Água,3145455,Minas Gerais,1,1e-05,0
+1844,Olímpio Noronha,3145505,Minas Gerais,3,3e-05,0
+1845,Oliveira,3145604,Minas Gerais,1132,0.01289,0
+1846,Oliveira Fortes,3145703,Minas Gerais,25,0.00028,0
+1847,Ouro Branco,3145901,Minas Gerais,1,1e-05,1
+1848,Ouro Fino,3146008,Minas Gerais,1713,0.01951,0
+1849,Ouro Preto,3146107,Minas Gerais,300,0.00342,0
+1850,Ouro Verde de Minas,3146206,Minas Gerais,335,0.00382,0
+1851,Padre Carvalho,3146255,Minas Gerais,479,0.00546,0
+1852,Padre Paraíso,3146305,Minas Gerais,2194,0.02499,0
+1853,Paineiras,3146404,Minas Gerais,2,2e-05,0
+1854,Pains,3146503,Minas Gerais,1,1e-05,0
+1855,Pai Pedro,3146552,Minas Gerais,1394,0.01588,0
+1856,Palma,3146701,Minas Gerais,2,2e-05,0
+1857,Palmópolis,3146750,Minas Gerais,3,3e-05,0
+1858,Papagaios,3146909,Minas Gerais,30,0.00034,0
+1859,Paracatu,3147006,Minas Gerais,1755,0.01999,1
+1860,Pará de Minas,3147105,Minas Gerais,1335,0.0152,0
+1861,Paraguaçu,3147204,Minas Gerais,12,0.00014,0
+1862,Paraisópolis,3147303,Minas Gerais,1652,0.01882,0
+1863,Paraopeba,3147402,Minas Gerais,353,0.00402,0
+1864,Passabém,3147501,Minas Gerais,4,5e-05,0
+1865,Passa Quatro,3147600,Minas Gerais,9,0.0001,0
+1866,Passa Tempo,3147709,Minas Gerais,1,1e-05,0
+1867,Passos,3147907,Minas Gerais,8344,0.09503,0
+1868,Patos de Minas,3148004,Minas Gerais,7621,0.0868,0
+1869,Patrocínio,3148103,Minas Gerais,5068,0.05772,0
+1870,Patrocínio do Muriaé,3148202,Minas Gerais,141,0.00161,0
+1871,Pavão,3148509,Minas Gerais,118,0.00134,0
+1872,Peçanha,3148608,Minas Gerais,33,0.00038,0
+1873,Pedra Azul,3148707,Minas Gerais,400,0.00456,0
+1874,Pedra do Indaiá,3148905,Minas Gerais,5,6e-05,0
+1875,Pedra Dourada,3149002,Minas Gerais,14,0.00016,0
+1876,Pedralva,3149101,Minas Gerais,30,0.00034,0
+1877,Pedras de Maria da Cruz,3149150,Minas Gerais,173,0.00197,0
+1878,Pedro Leopoldo,3149309,Minas Gerais,12,0.00014,0
+1879,Pequeri,3149507,Minas Gerais,28,0.00032,0
+1880,Pequi,3149606,Minas Gerais,1,1e-05,0
+1881,Perdigão,3149705,Minas Gerais,2,2e-05,0
+1882,Perdizes,3149804,Minas Gerais,26,0.0003,0
+1883,Perdões,3149903,Minas Gerais,2342,0.02667,0
+1884,Periquito,3149952,Minas Gerais,41,0.00047,0
+1885,Pescador,3150000,Minas Gerais,73,0.00083,0
+1886,Piedade dos Gerais,3150406,Minas Gerais,5,6e-05,0
+1887,Pimenta,3150505,Minas Gerais,3,3e-05,0
+1888,Pingo d'Água,3150539,Minas Gerais,108,0.00123,0
+1889,Pirajuba,3150703,Minas Gerais,6,7e-05,0
+1890,Piranga,3150802,Minas Gerais,1268,0.01444,0
+1891,Piranguinho,3151008,Minas Gerais,1288,0.01467,0
+1892,Pirapetinga,3151107,Minas Gerais,448,0.0051,0
+1893,Pirapora,3151206,Minas Gerais,3488,0.03973,0
+1894,Piraúba,3151305,Minas Gerais,177,0.00202,0
+1895,Pitangui,3151404,Minas Gerais,63,0.00072,0
+1896,Piumhi,3151503,Minas Gerais,3423,0.03899,0
+1897,Planura,3151602,Minas Gerais,112,0.00128,0
+1898,Poço Fundo,3151701,Minas Gerais,14,0.00016,0
+1899,Poços de Caldas,3151800,Minas Gerais,7670,0.08736,0
+1900,Pocrane,3151909,Minas Gerais,15,0.00017,0
+1901,Pompéu,3152006,Minas Gerais,100,0.00114,0
+1902,Ponte Nova,3152105,Minas Gerais,16369,0.18643,0
+1903,Porteirinha,3152204,Minas Gerais,4936,0.05622,0
+1904,Porto Firme,3152303,Minas Gerais,6,7e-05,0
+1905,Poté,3152402,Minas Gerais,6,7e-05,0
+1906,Pouso Alegre,3152501,Minas Gerais,9828,0.11194,1
+1907,Pouso Alto,3152600,Minas Gerais,74,0.00084,0
+1908,Prados,3152709,Minas Gerais,4,5e-05,0
+1909,Prata,3152808,Minas Gerais,901,0.01026,0
+1910,Pratápolis,3152907,Minas Gerais,2,2e-05,0
+1911,Presidente Juscelino,3153202,Minas Gerais,94,0.00107,0
+1912,Presidente Olegário,3153400,Minas Gerais,369,0.0042,0
+1913,Alto Jequitibá,3153509,Minas Gerais,46,0.00052,0
+1914,Prudente de Morais,3153608,Minas Gerais,184,0.0021,0
+1915,Queluzito,3153806,Minas Gerais,78,0.00089,0
+1916,Raposos,3153905,Minas Gerais,1420,0.01617,0
+1917,Raul Soares,3154002,Minas Gerais,261,0.00297,0
+1918,Reduto,3154150,Minas Gerais,7,8e-05,0
+1919,Resende Costa,3154200,Minas Gerais,512,0.00583,0
+1920,Resplendor,3154309,Minas Gerais,267,0.00304,1
+1921,Ressaquinha,3154408,Minas Gerais,112,0.00128,0
+1922,Riachinho,3154457,Minas Gerais,6,7e-05,0
+1923,Rio Acima,3154804,Minas Gerais,1,1e-05,0
+1924,Rio Casca,3154903,Minas Gerais,931,0.0106,0
+1925,Rio Doce,3155009,Minas Gerais,3,3e-05,0
+1926,Rio do Prado,3155108,Minas Gerais,111,0.00126,0
+1927,Rio Novo,3155405,Minas Gerais,3,3e-05,0
+1928,Rio Paranaíba,3155504,Minas Gerais,7,8e-05,0
+1929,Rio Pardo de Minas,3155603,Minas Gerais,119,0.00136,0
+1930,Rio Piracicaba,3155702,Minas Gerais,2,2e-05,0
+1931,Rio Pomba,3155801,Minas Gerais,1993,0.0227,0
+1932,Rio Preto,3155900,Minas Gerais,48,0.00055,0
+1933,Rio Vermelho,3156007,Minas Gerais,126,0.00144,0
+1934,Ritápolis,3156106,Minas Gerais,8,9e-05,0
+1935,Rochedo de Minas,3156205,Minas Gerais,5,6e-05,0
+1936,Rubelita,3156502,Minas Gerais,49,0.00056,0
+1937,Rubim,3156601,Minas Gerais,308,0.00351,0
+1938,Sabinópolis,3156809,Minas Gerais,35,0.0004,0
+1939,Sacramento,3156908,Minas Gerais,1085,0.01236,0
+1940,Salinas,3157005,Minas Gerais,11183,0.12737,0
+1941,Santa Bárbara,3157203,Minas Gerais,51,0.00058,0
+1942,Santa Bárbara do Leste,3157252,Minas Gerais,179,0.00204,0
+1943,Santa Bárbara do Monte Verde,3157278,Minas Gerais,235,0.00268,0
+1944,Santa Efigênia de Minas,3157500,Minas Gerais,22,0.00025,0
+1945,Santa Juliana,3157708,Minas Gerais,106,0.00121,0
+1946,Santa Margarida,3157906,Minas Gerais,234,0.00267,0
+1947,Santa Maria de Itabira,3158003,Minas Gerais,1966,0.02239,0
+1948,Santa Maria do Suaçuí,3158201,Minas Gerais,226,0.00257,0
+1949,Santana da Vargem,3158300,Minas Gerais,228,0.0026,0
+1950,Santana de Pirapama,3158508,Minas Gerais,5,6e-05,0
+1951,Santana do Deserto,3158607,Minas Gerais,3,3e-05,0
+1952,Santana do Manhuaçu,3158904,Minas Gerais,288,0.00328,0
+1953,Santana do Paraíso,3158953,Minas Gerais,80,0.00091,0
+1954,Santana do Riacho,3159001,Minas Gerais,202,0.0023,0
+1955,Santa Rita de Caldas,3159209,Minas Gerais,33,0.00038,0
+1956,Santa Rita de Minas,3159357,Minas Gerais,81,0.00092,0
+1957,Santa Rita do Sapucaí,3159605,Minas Gerais,128,0.00146,0
+1958,Santa Vitória,3159803,Minas Gerais,56,0.00064,0
+1959,Santo Antônio do Amparo,3159902,Minas Gerais,391,0.00445,0
+1960,Santo Antônio do Itambé,3160207,Minas Gerais,81,0.00092,0
+1961,Santo Antônio do Jacinto,3160306,Minas Gerais,37,0.00042,0
+1962,Santo Antônio do Rio Abaixo,3160504,Minas Gerais,4,5e-05,0
+1963,Santos Dumont,3160702,Minas Gerais,2942,0.03351,0
+1964,São Bento Abade,3160801,Minas Gerais,15,0.00017,0
+1965,São Brás do Suaçuí,3160900,Minas Gerais,162,0.00185,0
+1966,São Domingos das Dores,3160959,Minas Gerais,21,0.00024,0
+1967,São Domingos do Prata,3161007,Minas Gerais,128,0.00146,0
+1968,São Francisco,3161106,Minas Gerais,2868,0.03266,0
+1969,São Francisco de Sales,3161304,Minas Gerais,17,0.00019,0
+1970,São Francisco do Glória,3161403,Minas Gerais,1,1e-05,0
+1971,São Gonçalo do Rio Abaixo,3161908,Minas Gerais,23,0.00026,0
+1972,São Gonçalo do Sapucaí,3162005,Minas Gerais,256,0.00292,0
+1973,São Gotardo,3162104,Minas Gerais,3708,0.04223,0
+1974,São João Batista do Glória,3162203,Minas Gerais,6,7e-05,0
+1975,São João da Mata,3162302,Minas Gerais,4,5e-05,0
+1976,São João da Ponte,3162401,Minas Gerais,4,5e-05,0
+1977,São João das Missões,3162450,Minas Gerais,4,5e-05,0
+1978,São João del Rei,3162500,Minas Gerais,6771,0.07712,0
+1979,São João do Manhuaçu,3162559,Minas Gerais,20,0.00023,0
+1980,São João do Manteninha,3162575,Minas Gerais,131,0.00149,0
+1981,São João do Pacuí,3162658,Minas Gerais,217,0.00247,0
+1982,São João do Paraíso,3162708,Minas Gerais,821,0.00935,0
+1983,São João Evangelista,3162807,Minas Gerais,916,0.01043,0
+1984,São João Nepomuceno,3162906,Minas Gerais,16,0.00018,0
+1985,São Joaquim de Bicas,3162922,Minas Gerais,105,0.0012,0
+1986,São José da Barra,3162948,Minas Gerais,18,0.00021,0
+1987,São José da Safira,3163003,Minas Gerais,96,0.00109,0
+1988,São José do Alegre,3163201,Minas Gerais,23,0.00026,0
+1989,São José do Divino,3163300,Minas Gerais,41,0.00047,0
+1990,São José do Jacuri,3163508,Minas Gerais,5,6e-05,0
+1991,São Lourenço,3163706,Minas Gerais,3117,0.0355,0
+1992,São Miguel do Anta,3163805,Minas Gerais,9,0.0001,0
+1993,São Pedro da União,3163904,Minas Gerais,16,0.00018,0
+1994,São Pedro do Suaçuí,3164100,Minas Gerais,43,0.00049,0
+1995,São Roque de Minas,3164308,Minas Gerais,261,0.00297,0
+1996,São Sebastião do Anta,3164472,Minas Gerais,21,0.00024,0
+1997,São Sebastião do Paraíso,3164704,Minas Gerais,3756,0.04278,0
+1998,São Sebastião do Rio Preto,3164803,Minas Gerais,4,5e-05,0
+1999,São Sebastião do Rio Verde,3164902,Minas Gerais,2,2e-05,0
+2000,São Thomé das Letras,3165206,Minas Gerais,6,7e-05,0
+2001,São Vicente de Minas,3165305,Minas Gerais,55,0.00063,0
+2002,Sapucaí-Mirim,3165404,Minas Gerais,32,0.00036,0
+2003,Sardoá,3165503,Minas Gerais,13,0.00015,0
+2004,Sarzedo,3165537,Minas Gerais,8,9e-05,0
+2005,Setubinha,3165552,Minas Gerais,2,2e-05,0
+2006,Senador Firmino,3165701,Minas Gerais,399,0.00454,0
+2007,Senador Modestino Gonçalves,3165909,Minas Gerais,50,0.00057,0
+2008,Senhora de Oliveira,3166006,Minas Gerais,2,2e-05,0
+2009,Senhora do Porto,3166105,Minas Gerais,95,0.00108,0
+2010,Serra Azul de Minas,3166501,Minas Gerais,565,0.00644,0
+2011,Serra dos Aimorés,3166709,Minas Gerais,80,0.00091,0
+2012,Serro,3167103,Minas Gerais,229,0.00261,0
+2013,Sete Lagoas,3167202,Minas Gerais,8313,0.09468,0
+2014,Silvianópolis,3167400,Minas Gerais,1464,0.01667,0
+2015,Simonésia,3167608,Minas Gerais,17,0.00019,0
+2016,Sobrália,3167707,Minas Gerais,5,6e-05,0
+2017,Soledade de Minas,3167806,Minas Gerais,14,0.00016,0
+2018,Tabuleiro,3167905,Minas Gerais,3,3e-05,0
+2019,Taiobeiras,3168002,Minas Gerais,771,0.00878,0
+2020,Tapiraí,3168200,Minas Gerais,2,2e-05,0
+2021,Taquaraçu de Minas,3168309,Minas Gerais,1417,0.01614,0
+2022,Tarumirim,3168408,Minas Gerais,277,0.00315,0
+2023,Teixeiras,3168507,Minas Gerais,569,0.00648,0
+2024,Teófilo Otoni,3168606,Minas Gerais,20689,0.23564,1
+2025,Timóteo,3168705,Minas Gerais,1162,0.01323,0
+2026,Tiros,3168903,Minas Gerais,109,0.00124,0
+2027,Tocantins,3169000,Minas Gerais,8,9e-05,0
+2028,Toledo,3169109,Minas Gerais,105,0.0012,0
+2029,Tombos,3169208,Minas Gerais,46,0.00052,0
+2030,Três Corações,3169307,Minas Gerais,4342,0.04945,0
+2031,Três Marias,3169356,Minas Gerais,514,0.00585,0
+2032,Três Pontas,3169406,Minas Gerais,59,0.00067,0
+2033,Tupaciguara,3169604,Minas Gerais,932,0.01061,0
+2034,Turmalina,3169703,Minas Gerais,27,0.00031,0
+2035,Ubá,3169901,Minas Gerais,7128,0.08118,0
+2036,Ubaporanga,3170057,Minas Gerais,234,0.00267,0
+2037,Uberaba,3170107,Minas Gerais,25659,0.29224,1
+2038,Uberlândia,3170206,Minas Gerais,36981,0.42119,1
+2039,Unaí,3170404,Minas Gerais,2066,0.02353,0
+2040,Urucânia,3170503,Minas Gerais,5,6e-05,0
+2041,Urucuia,3170529,Minas Gerais,31,0.00035,0
+2042,Vargem Alegre,3170578,Minas Gerais,29,0.00033,0
+2043,Vargem Bonita,3170602,Minas Gerais,261,0.00297,0
+2044,Varginha,3170701,Minas Gerais,1639,0.01867,1
+2045,Varjão de Minas,3170750,Minas Gerais,162,0.00185,0
+2046,Varzelândia,3170909,Minas Gerais,1526,0.01738,0
+2047,Viçosa,3171303,Minas Gerais,9160,0.10433,0
+2048,Vieiras,3171402,Minas Gerais,3,3e-05,0
+2049,Virgem da Lapa,3171600,Minas Gerais,1,1e-05,0
+2050,Virgínia,3171709,Minas Gerais,9,0.0001,0
+2051,Virginópolis,3171808,Minas Gerais,21,0.00024,0
+2052,Virgolândia,3171907,Minas Gerais,63,0.00072,0
+2053,Visconde do Rio Branco,3172004,Minas Gerais,476,0.00542,0
+2054,Volta Grande,3172103,Minas Gerais,1,1e-05,0
+2055,Afonso Cláudio,3200102,Espírito Santo,2001,0.02279,0
+2056,Águia Branca,3200136,Espírito Santo,330,0.00376,0
+2057,Alegre,3200201,Espírito Santo,4081,0.04648,0
+2058,Alto Rio Novo,3200359,Espírito Santo,63,0.00072,0
+2059,Anchieta,3200409,Espírito Santo,307,0.0035,0
+2060,Apiacá,3200508,Espírito Santo,1,1e-05,0
+2061,Aracruz,3200607,Espírito Santo,718,0.00818,1
+2062,Baixo Guandu,3200805,Espírito Santo,746,0.0085,0
+2063,Barra de São Francisco,3200904,Espírito Santo,2846,0.03241,1
+2064,Boa Esperança,3201001,Espírito Santo,155,0.00177,0
+2065,Bom Jesus do Norte,3201100,Espírito Santo,339,0.00386,0
+2066,Cachoeiro de Itapemirim,3201209,Espírito Santo,7976,0.09084,0
+2067,Cariacica,3201308,Espírito Santo,16,0.00018,1
+2068,Castelo,3201407,Espírito Santo,7,8e-05,0
+2069,Colatina,3201506,Espírito Santo,4633,0.05277,1
+2070,Conceição da Barra,3201605,Espírito Santo,398,0.00453,0
+2071,Conceição do Castelo,3201704,Espírito Santo,4,5e-05,0
+2072,Domingos Martins,3201902,Espírito Santo,45,0.00051,0
+2073,Dores do Rio Preto,3202009,Espírito Santo,5,6e-05,0
+2074,Fundão,3202207,Espírito Santo,34,0.00039,0
+2075,Governador Lindenberg,3202256,Espírito Santo,15,0.00017,0
+2076,Guaçuí,3202306,Espírito Santo,2434,0.02772,0
+2077,Guarapari,3202405,Espírito Santo,1328,0.01513,0
+2078,Ibatiba,3202454,Espírito Santo,579,0.00659,0
+2079,Ibiraçu,3202504,Espírito Santo,17,0.00019,0
+2080,Ibitirama,3202553,Espírito Santo,5,6e-05,0
+2081,Iconha,3202603,Espírito Santo,424,0.00483,0
+2082,Irupi,3202652,Espírito Santo,3,3e-05,0
+2083,Itaguaçu,3202702,Espírito Santo,6,7e-05,0
+2084,Itapemirim,3202801,Espírito Santo,7,8e-05,0
+2085,Itarana,3202900,Espírito Santo,1,1e-05,0
+2086,Iúna,3203007,Espírito Santo,369,0.0042,0
+2087,Jaguaré,3203056,Espírito Santo,1,1e-05,0
+2088,Jerônimo Monteiro,3203106,Espírito Santo,10,0.00011,0
+2089,João Neiva,3203130,Espírito Santo,348,0.00396,0
+2090,Linhares,3203205,Espírito Santo,5034,0.05733,0
+2091,Mantenópolis,3203304,Espírito Santo,32,0.00036,0
+2092,Marataízes,3203320,Espírito Santo,123,0.0014,0
+2093,Marechal Floriano,3203346,Espírito Santo,90,0.00103,0
+2094,Mimoso do Sul,3203403,Espírito Santo,11,0.00013,0
+2095,Montanha,3203502,Espírito Santo,5,6e-05,0
+2096,Mucurici,3203601,Espírito Santo,1,1e-05,0
+2097,Muqui,3203809,Espírito Santo,4,5e-05,0
+2098,Nova Venécia,3203908,Espírito Santo,741,0.00844,0
+2099,Pancas,3204005,Espírito Santo,1,1e-05,0
+2100,Pedro Canário,3204054,Espírito Santo,3,3e-05,0
+2101,Pinheiros,3204104,Espírito Santo,27,0.00031,0
+2102,Piúma,3204203,Espírito Santo,14,0.00016,0
+2103,Presidente Kennedy,3204302,Espírito Santo,2,2e-05,0
+2104,Rio Bananal,3204351,Espírito Santo,10,0.00011,0
+2105,Rio Novo do Sul,3204401,Espírito Santo,2,2e-05,0
+2106,Santa Leopoldina,3204500,Espírito Santo,5,6e-05,0
+2107,Santa Teresa,3204609,Espírito Santo,6,7e-05,0
+2108,São Domingos do Norte,3204658,Espírito Santo,48,0.00055,0
+2109,São Gabriel da Palha,3204708,Espírito Santo,184,0.0021,0
+2110,São José do Calçado,3204807,Espírito Santo,77,0.00088,0
+2111,São Mateus,3204906,Espírito Santo,3942,0.0449,1
+2112,São Roque do Canaã,3204955,Espírito Santo,1,1e-05,0
+2113,Serra,3205002,Espírito Santo,738,0.00841,1
+2114,Sooretama,3205010,Espírito Santo,2,2e-05,0
+2115,Venda Nova do Imigrante,3205069,Espírito Santo,570,0.00649,1
+2116,Viana,3205101,Espírito Santo,31,0.00035,0
+2117,Vila Velha,3205200,Espírito Santo,466,0.00531,1
+2118,Vitória,3205309,Espírito Santo,40560,0.46196,1
+2119,Angra dos Reis,3300100,Rio de Janeiro,2525,0.02876,0
+2120,Aperibé,3300159,Rio de Janeiro,79,0.0009,0
+2121,Araruama,3300209,Rio de Janeiro,834,0.0095,0
+2122,Areal,3300225,Rio de Janeiro,400,0.00456,0
+2123,Arraial do Cabo,3300258,Rio de Janeiro,274,0.00312,0
+2124,Barra do Piraí,3300308,Rio de Janeiro,2651,0.03019,0
+2125,Barra Mansa,3300407,Rio de Janeiro,11386,0.12968,0
+2126,Bom Jardim,3300506,Rio de Janeiro,2941,0.0335,0
+2127,Bom Jesus do Itabapoana,3300605,Rio de Janeiro,28,0.00032,0
+2128,Cabo Frio,3300704,Rio de Janeiro,2705,0.03081,0
+2129,Cachoeiras de Macacu,3300803,Rio de Janeiro,1276,0.01453,0
+2130,Cambuci,3300902,Rio de Janeiro,15,0.00017,0
+2131,Carapebus,3300936,Rio de Janeiro,308,0.00351,0
+2132,Campos dos Goytacazes,3301009,Rio de Janeiro,8115,0.09243,0
+2133,Cantagalo,3301108,Rio de Janeiro,101,0.00115,0
+2134,Cardoso Moreira,3301157,Rio de Janeiro,2,2e-05,0
+2135,Carmo,3301207,Rio de Janeiro,22,0.00025,0
+2136,Casimiro de Abreu,3301306,Rio de Janeiro,821,0.00935,0
+2137,Conceição de Macabu,3301405,Rio de Janeiro,5,6e-05,0
+2138,Cordeiro,3301504,Rio de Janeiro,37,0.00042,0
+2139,Duque de Caxias,3301702,Rio de Janeiro,187,0.00213,0
+2140,Iguaba Grande,3301876,Rio de Janeiro,8,9e-05,0
+2141,Itaboraí,3301900,Rio de Janeiro,1,1e-05,0
+2142,Itaguaí,3302007,Rio de Janeiro,44,0.0005,0
+2143,Italva,3302056,Rio de Janeiro,9,0.0001,0
+2144,Itaocara,3302106,Rio de Janeiro,31,0.00035,0
+2145,Itaperuna,3302205,Rio de Janeiro,1904,0.02169,0
+2146,Itatiaia,3302254,Rio de Janeiro,258,0.00294,0
+2147,Japeri,3302270,Rio de Janeiro,20,0.00023,0
+2148,Macaé,3302403,Rio de Janeiro,4272,0.04866,0
+2149,Macuco,3302452,Rio de Janeiro,28,0.00032,0
+2150,Magé,3302502,Rio de Janeiro,1124,0.0128,0
+2151,Mendes,3302809,Rio de Janeiro,12,0.00014,0
+2152,Miguel Pereira,3302908,Rio de Janeiro,1395,0.01589,0
+2153,Miracema,3303005,Rio de Janeiro,119,0.00136,0
+2154,Natividade,3303104,Rio de Janeiro,104,0.00118,0
+2155,Niterói,3303302,Rio de Janeiro,2930,0.03337,1
+2156,Nova Friburgo,3303401,Rio de Janeiro,3179,0.03621,0
+2157,Nova Iguaçu,3303500,Rio de Janeiro,419,0.00477,0
+2158,Paracambi,3303609,Rio de Janeiro,176,0.002,0
+2159,Paraíba do Sul,3303708,Rio de Janeiro,3,3e-05,0
+2160,Paraty,3303807,Rio de Janeiro,77,0.00088,0
+2161,Paty do Alferes,3303856,Rio de Janeiro,1,1e-05,0
+2162,Petrópolis,3303906,Rio de Janeiro,2710,0.03087,0
+2163,Piraí,3304003,Rio de Janeiro,4,5e-05,0
+2164,Porciúncula,3304102,Rio de Janeiro,51,0.00058,0
+2165,Quatis,3304128,Rio de Janeiro,605,0.00689,0
+2166,Resende,3304201,Rio de Janeiro,3679,0.0419,0
+2167,Rio Bonito,3304300,Rio de Janeiro,889,0.01013,0
+2168,Rio das Ostras,3304524,Rio de Janeiro,81,0.00092,0
+2169,Rio de Janeiro,3304557,Rio de Janeiro,111774,1.27305,1
+2170,Santo Antônio de Pádua,3304706,Rio de Janeiro,59,0.00067,0
+2171,São Fidélis,3304805,Rio de Janeiro,2,2e-05,0
+2172,São José do Vale do Rio Preto,3305158,Rio de Janeiro,2,2e-05,0
+2173,São Pedro da Aldeia,3305208,Rio de Janeiro,1,1e-05,0
+2174,Seropédica,3305554,Rio de Janeiro,21,0.00024,0
+2175,Sumidouro,3305703,Rio de Janeiro,6,7e-05,0
+2176,Teresópolis,3305802,Rio de Janeiro,1130,0.01287,0
+2177,Três Rios,3306008,Rio de Janeiro,5727,0.06523,0
+2178,Valença,3306107,Rio de Janeiro,816,0.00929,0
+2179,Vassouras,3306206,Rio de Janeiro,56,0.00064,0
+2180,Volta Redonda,3306305,Rio de Janeiro,4735,0.05393,0
+2181,Adamantina,3500105,São Paulo,4489,0.05113,0
+2182,Adolfo,3500204,São Paulo,1437,0.01637,0
+2183,Aguaí,3500303,São Paulo,38,0.00043,0
+2184,Águas da Prata,3500402,São Paulo,78,0.00089,0
+2185,Águas de Lindóia,3500501,São Paulo,793,0.00903,0
+2186,Águas de Santa Bárbara,3500550,São Paulo,1340,0.01526,0
+2187,Águas de São Pedro,3500600,São Paulo,1399,0.01593,0
+2188,Agudos,3500709,São Paulo,1548,0.01763,0
+2189,Alfredo Marcondes,3500808,São Paulo,134,0.00153,0
+2190,Altair,3500907,São Paulo,120,0.00137,0
+2191,Altinópolis,3501004,São Paulo,355,0.00404,0
+2192,Alto Alegre,3501103,São Paulo,452,0.00515,0
+2193,Álvares Florence,3501202,São Paulo,612,0.00697,0
+2194,Álvares Machado,3501301,São Paulo,1357,0.01546,0
+2195,Álvaro de Carvalho,3501400,São Paulo,25,0.00028,0
+2196,Alvinlândia,3501509,São Paulo,34,0.00039,0
+2197,Americana,3501608,São Paulo,7271,0.08281,0
+2198,Américo de Campos,3501806,São Paulo,1176,0.01339,0
+2199,Amparo,3501905,São Paulo,309,0.00352,0
+2200,Andradina,3502101,São Paulo,8590,0.09784,0
+2201,Angatuba,3502200,São Paulo,1261,0.01436,0
+2202,Anhembi,3502309,São Paulo,1,1e-05,0
+2203,Anhumas,3502408,São Paulo,12,0.00014,0
+2204,Aparecida,3502507,São Paulo,4163,0.04741,0
+2205,Aparecida d'Oeste,3502606,São Paulo,89,0.00101,0
+2206,Apiaí,3502705,São Paulo,8070,0.09191,0
+2207,Araçariguama,3502754,São Paulo,1457,0.01659,0
+2208,Araçatuba,3502804,São Paulo,22608,0.25749,0
+2209,Araçoiaba da Serra,3502903,São Paulo,8,9e-05,0
+2210,Aramina,3503000,São Paulo,138,0.00157,0
+2211,Arapeí,3503158,São Paulo,783,0.00892,0
+2212,Araraquara,3503208,São Paulo,11753,0.13386,0
+2213,Araras,3503307,São Paulo,692,0.00788,0
+2214,Areias,3503505,São Paulo,1713,0.01951,0
+2215,Areiópolis,3503604,São Paulo,19,0.00022,0
+2216,Ariranha,3503703,São Paulo,191,0.00218,0
+2217,Artur Nogueira,3503802,São Paulo,823,0.00937,0
+2218,Arujá,3503901,São Paulo,664,0.00756,0
+2219,Assis,3504008,São Paulo,22523,0.25652,0
+2220,Atibaia,3504107,São Paulo,4555,0.05188,0
+2221,Auriflama,3504206,São Paulo,1222,0.01392,0
+2222,Avaí,3504305,São Paulo,55,0.00063,0
+2223,Avanhandava,3504404,São Paulo,339,0.00386,0
+2224,Avaré,3504503,São Paulo,5774,0.06576,0
+2225,Bady Bassitt,3504602,São Paulo,250,0.00285,0
+2226,Bálsamo,3504800,São Paulo,295,0.00336,0
+2227,Bananal,3504909,São Paulo,132,0.0015,0
+2228,Barão de Antonina,3505005,São Paulo,1226,0.01396,0
+2229,Barbosa,3505104,São Paulo,547,0.00623,0
+2230,Bariri,3505203,São Paulo,964,0.01098,0
+2231,Barra Bonita,3505302,São Paulo,214,0.00244,0
+2232,Barretos,3505500,São Paulo,6072,0.06916,0
+2233,Barrinha,3505609,São Paulo,684,0.00779,0
+2234,Bastos,3505807,São Paulo,2345,0.02671,0
+2235,Batatais,3505906,São Paulo,664,0.00756,0
+2236,Bauru,3506003,São Paulo,18334,0.20881,1
+2237,Bebedouro,3506102,São Paulo,1132,0.01289,0
+2238,Bento de Abreu,3506201,São Paulo,1,1e-05,0
+2239,Bernardino de Campos,3506300,São Paulo,1169,0.01331,0
+2240,Bertioga,3506359,São Paulo,1582,0.01802,0
+2241,Bilac,3506409,São Paulo,101,0.00115,0
+2242,Birigui,3506508,São Paulo,4156,0.04733,0
+2243,Biritiba Mirim,3506607,São Paulo,1,1e-05,0
+2244,Boa Esperança do Sul,3506706,São Paulo,56,0.00064,0
+2245,Bocaina,3506805,São Paulo,47,0.00054,0
+2246,Bofete,3506904,São Paulo,2744,0.03125,0
+2247,Boituva,3507001,São Paulo,2054,0.02339,0
+2248,Boracéia,3507308,São Paulo,85,0.00097,0
+2249,Borborema,3507407,São Paulo,1512,0.01722,0
+2250,Botucatu,3507506,São Paulo,3823,0.04354,0
+2251,Bragança Paulista,3507605,São Paulo,2542,0.02895,0
+2252,Braúna,3507704,São Paulo,14,0.00016,0
+2253,Brejo Alegre,3507753,São Paulo,1,1e-05,0
+2254,Brotas,3507902,São Paulo,82,0.00093,0
+2255,Buri,3508009,São Paulo,342,0.0039,0
+2256,Buritama,3508108,São Paulo,899,0.01024,0
+2257,Buritizal,3508207,São Paulo,3,3e-05,0
+2258,Cabrália Paulista,3508306,São Paulo,1193,0.01359,0
+2259,Cabreúva,3508405,São Paulo,3,3e-05,0
+2260,Caçapava,3508504,São Paulo,1155,0.01315,0
+2261,Cachoeira Paulista,3508603,São Paulo,2841,0.03236,0
+2262,Caconde,3508702,São Paulo,105,0.0012,0
+2263,Cafelândia,3508801,São Paulo,564,0.00642,0
+2264,Caiabu,3508900,São Paulo,14,0.00016,0
+2265,Caiuá,3509106,São Paulo,76,0.00087,0
+2266,Cajati,3509254,São Paulo,3174,0.03615,0
+2267,Cajobi,3509304,São Paulo,543,0.00618,0
+2268,Cajuru,3509403,São Paulo,518,0.0059,0
+2269,Campina do Monte Alegre,3509452,São Paulo,28,0.00032,0
+2270,Campinas,3509502,São Paulo,115203,1.3121,1
+2271,Campo Limpo Paulista,3509601,São Paulo,1450,0.01651,0
+2272,Campos do Jordão,3509700,São Paulo,177,0.00202,0
+2273,Campos Novos Paulista,3509809,São Paulo,87,0.00099,0
+2274,Cananéia,3509908,São Paulo,894,0.01018,0
+2275,Cândido Mota,3510005,São Paulo,68,0.00077,0
+2276,Canitar,3510153,São Paulo,92,0.00105,0
+2277,Capão Bonito,3510203,São Paulo,3112,0.03544,0
+2278,Capela do Alto,3510302,São Paulo,383,0.00436,0
+2279,Capivari,3510401,São Paulo,2923,0.03329,0
+2280,Caraguatatuba,3510500,São Paulo,2448,0.02788,0
+2281,Cardoso,3510708,São Paulo,186,0.00212,0
+2282,Casa Branca,3510807,São Paulo,459,0.00523,0
+2283,Castilho,3511003,São Paulo,57,0.00065,0
+2284,Catanduva,3511102,São Paulo,8254,0.09401,0
+2285,Cerqueira César,3511409,São Paulo,95,0.00108,0
+2286,Cerquilho,3511508,São Paulo,1288,0.01467,0
+2287,Cesário Lange,3511607,São Paulo,52,0.00059,0
+2288,Charqueada,3511706,São Paulo,95,0.00108,0
+2289,Clementina,3511904,São Paulo,29,0.00033,0
+2290,Colina,3512001,São Paulo,566,0.00645,0
+2291,Colômbia,3512100,São Paulo,9,0.0001,0
+2292,Conchal,3512209,São Paulo,12,0.00014,0
+2293,Conchas,3512308,São Paulo,175,0.00199,0
+2294,Cordeirópolis,3512407,São Paulo,76,0.00087,0
+2295,Coroados,3512506,São Paulo,20,0.00023,0
+2296,Coronel Macedo,3512605,São Paulo,396,0.00451,0
+2297,Cosmópolis,3512803,São Paulo,88,0.001,0
+2298,Cosmorama,3512902,São Paulo,889,0.01013,0
+2299,Cotia,3513009,São Paulo,49,0.00056,0
+2300,Cravinhos,3513108,São Paulo,6,7e-05,0
+2301,Cristais Paulista,3513207,São Paulo,614,0.00699,0
+2302,Cruzália,3513306,São Paulo,186,0.00212,0
+2303,Cruzeiro,3513405,São Paulo,900,0.01025,0
+2304,Cubatão,3513504,São Paulo,519,0.00591,0
+2305,Dobrada,3514007,São Paulo,6,7e-05,0
+2306,Dois Córregos,3514106,São Paulo,83,0.00095,0
+2307,Dolcinópolis,3514205,São Paulo,2321,0.02643,0
+2308,Dourado,3514304,São Paulo,8,9e-05,0
+2309,Dracena,3514403,São Paulo,6799,0.07744,0
+2310,Duartina,3514502,São Paulo,499,0.00568,0
+2311,Dumont,3514601,São Paulo,34,0.00039,0
+2312,Echaporã,3514700,São Paulo,38,0.00043,0
+2313,Eldorado,3514809,São Paulo,2,2e-05,0
+2314,Elias Fausto,3514908,São Paulo,1,1e-05,0
+2315,Embaúba,3514957,São Paulo,27,0.00031,0
+2316,Embu das Artes,3515004,São Paulo,286,0.00326,0
+2317,Engenheiro Coelho,3515152,São Paulo,1,1e-05,0
+2318,Espírito Santo do Pinhal,3515186,São Paulo,221,0.00252,0
+2319,Estrela d'Oeste,3515202,São Paulo,91,0.00104,0
+2320,Estrela do Norte,3515301,São Paulo,1190,0.01355,0
+2321,Euclides da Cunha Paulista,3515350,São Paulo,1261,0.01436,0
+2322,Fartura,3515400,São Paulo,286,0.00326,0
+2323,Fernandópolis,3515509,São Paulo,5535,0.06304,0
+2324,Fernão,3515657,São Paulo,1,1e-05,0
+2325,Flora Rica,3515806,São Paulo,8,9e-05,0
+2326,Floreal,3515905,São Paulo,4,5e-05,0
+2327,Flórida Paulista,3516002,São Paulo,7,8e-05,0
+2328,Florínea,3516101,São Paulo,291,0.00331,0
+2329,Franca,3516200,São Paulo,11198,0.12754,0
+2330,Francisco Morato,3516309,São Paulo,126,0.00144,0
+2331,Franco da Rocha,3516408,São Paulo,5,6e-05,0
+2332,Gabriel Monteiro,3516507,São Paulo,43,0.00049,0
+2333,Gália,3516606,São Paulo,1230,0.01401,0
+2334,Garça,3516705,São Paulo,3006,0.03424,0
+2335,Gastão Vidigal,3516804,São Paulo,426,0.00485,0
+2336,Gavião Peixoto,3516853,São Paulo,11,0.00013,0
+2337,General Salgado,3516903,São Paulo,735,0.00837,0
+2338,Getulina,3517000,São Paulo,799,0.0091,0
+2339,Glicério,3517109,São Paulo,2,2e-05,0
+2340,Guaimbê,3517307,São Paulo,8,9e-05,0
+2341,Guaíra,3517406,São Paulo,416,0.00474,0
+2342,Guapiara,3517604,São Paulo,73,0.00083,0
+2343,Guará,3517703,São Paulo,548,0.00624,0
+2344,Guaraçaí,3517802,São Paulo,7,8e-05,0
+2345,Guaraci,3517901,São Paulo,253,0.00288,0
+2346,Guarani d'Oeste,3518008,São Paulo,96,0.00109,0
+2347,Guarantã,3518107,São Paulo,413,0.0047,0
+2348,Guararapes,3518206,São Paulo,559,0.00637,0
+2349,Guaratinguetá,3518404,São Paulo,2091,0.02382,0
+2350,Guareí,3518503,São Paulo,339,0.00386,0
+2351,Guariba,3518602,São Paulo,466,0.00531,0
+2352,Guarujá,3518701,São Paulo,171,0.00195,0
+2353,Guarulhos,3518800,São Paulo,145,0.00165,1
+2354,Guatapará,3518859,São Paulo,2,2e-05,0
+2355,Guzolândia,3518909,São Paulo,9,0.0001,0
+2356,Herculândia,3519006,São Paulo,46,0.00052,0
+2357,Holambra,3519055,São Paulo,124,0.00141,0
+2358,Iacanga,3519105,São Paulo,353,0.00402,0
+2359,Iacri,3519204,São Paulo,383,0.00436,0
+2360,Iaras,3519253,São Paulo,90,0.00103,0
+2361,Ibirá,3519402,São Paulo,3393,0.03864,0
+2362,Ibirarema,3519501,São Paulo,13,0.00015,0
+2363,Ibitinga,3519600,São Paulo,681,0.00776,0
+2364,Ibiúna,3519709,São Paulo,1261,0.01436,0
+2365,Icém,3519808,São Paulo,220,0.00251,0
+2366,Iepê,3519907,São Paulo,548,0.00624,0
+2367,Igarapava,3520103,São Paulo,446,0.00508,0
+2368,Igaratá,3520202,São Paulo,9,0.0001,0
+2369,Iguape,3520301,São Paulo,256,0.00292,0
+2370,Ilha Comprida,3520426,São Paulo,56,0.00064,0
+2371,Ilha Solteira,3520442,São Paulo,1933,0.02202,0
+2372,Indaiatuba,3520509,São Paulo,860,0.00979,0
+2373,Indiana,3520608,São Paulo,7,8e-05,0
+2374,Indiaporã,3520707,São Paulo,47,0.00054,0
+2375,Inúbia Paulista,3520806,São Paulo,1111,0.01265,0
+2376,Ipaussu,3520905,São Paulo,842,0.00959,0
+2377,Iperó,3521002,São Paulo,5,6e-05,0
+2378,Ipeúna,3521101,São Paulo,3,3e-05,0
+2379,Ipiguá,3521150,São Paulo,85,0.00097,0
+2380,Irapuã,3521507,São Paulo,80,0.00091,0
+2381,Irapuru,3521606,São Paulo,118,0.00134,0
+2382,Itaberá,3521705,São Paulo,108,0.00123,0
+2383,Itaí,3521804,São Paulo,239,0.00272,0
+2384,Itajobi,3521903,São Paulo,435,0.00495,0
+2385,Itanhaém,3522109,São Paulo,1187,0.01352,0
+2386,Itapetininga,3522307,São Paulo,9424,0.10733,0
+2387,Itapeva,3522406,São Paulo,4391,0.05001,0
+2388,Itapira,3522604,São Paulo,25,0.00028,0
+2389,Itápolis,3522703,São Paulo,231,0.00263,0
+2390,Itaporanga,3522802,São Paulo,549,0.00625,0
+2391,Itapuí,3522901,São Paulo,218,0.00248,0
+2392,Itapura,3523008,São Paulo,1,1e-05,0
+2393,Itararé,3523206,São Paulo,2961,0.03372,0
+2394,Itariri,3523305,São Paulo,275,0.00313,0
+2395,Itatiba,3523404,São Paulo,692,0.00788,0
+2396,Itatinga,3523503,São Paulo,15,0.00017,0
+2397,Itirapina,3523602,São Paulo,4,5e-05,0
+2398,Itirapuã,3523701,São Paulo,2,2e-05,0
+2399,Itu,3523909,São Paulo,1022,0.01164,0
+2400,Ituverava,3524105,São Paulo,853,0.00972,0
+2401,Jaborandi,3524204,São Paulo,15,0.00017,0
+2402,Jaboticabal,3524303,São Paulo,4052,0.04615,0
+2403,Jacareí,3524402,São Paulo,1324,0.01508,0
+2404,Jaci,3524501,São Paulo,7,8e-05,0
+2405,Jacupiranga,3524600,São Paulo,1195,0.01361,0
+2406,Jaguariúna,3524709,São Paulo,116,0.00132,0
+2407,Jales,3524808,São Paulo,10469,0.11924,0
+2408,Jaú,3525300,São Paulo,3320,0.03781,0
+2409,Jeriquara,3525409,São Paulo,24,0.00027,0
+2410,Joanópolis,3525508,São Paulo,1,1e-05,0
+2411,João Ramalho,3525607,São Paulo,33,0.00038,0
+2412,José Bonifácio,3525706,São Paulo,1349,0.01536,0
+2413,Júlio Mesquita,3525805,São Paulo,49,0.00056,0
+2414,Jumirim,3525854,São Paulo,8,9e-05,0
+2415,Jundiaí,3525904,São Paulo,7840,0.08929,0
+2416,Junqueirópolis,3526001,São Paulo,168,0.00191,0
+2417,Juquiá,3526100,São Paulo,209,0.00238,0
+2418,Juquitiba,3526209,São Paulo,1594,0.01815,0
+2419,Lagoinha,3526308,São Paulo,19,0.00022,0
+2420,Laranjal Paulista,3526407,São Paulo,88,0.001,0
+2421,Lavínia,3526506,São Paulo,4,5e-05,0
+2422,Lavrinhas,3526605,São Paulo,4,5e-05,0
+2423,Leme,3526704,São Paulo,1686,0.0192,0
+2424,Lençóis Paulista,3526803,São Paulo,1517,0.01728,0
+2425,Limeira,3526902,São Paulo,1221,0.01391,0
+2426,Lindóia,3527009,São Paulo,45,0.00051,0
+2427,Lins,3527108,São Paulo,5879,0.06696,0
+2428,Lorena,3527207,São Paulo,340,0.00387,0
+2429,Lucélia,3527405,São Paulo,561,0.00639,0
+2430,Lucianópolis,3527504,São Paulo,8,9e-05,0
+2431,Luiziânia,3527702,São Paulo,105,0.0012,0
+2432,Lupércio,3527801,São Paulo,567,0.00646,0
+2433,Lutécia,3527900,São Paulo,88,0.001,0
+2434,Macaubal,3528106,São Paulo,37,0.00042,0
+2435,Magda,3528304,São Paulo,28,0.00032,0
+2436,Mairiporã,3528502,São Paulo,5,6e-05,0
+2437,Manduri,3528601,São Paulo,203,0.00231,0
+2438,Maracaí,3528809,São Paulo,35,0.0004,0
+2439,Mariápolis,3528908,São Paulo,2,2e-05,0
+2440,Marília,3529005,São Paulo,17653,0.20106,0
+2441,Martinópolis,3529203,São Paulo,145,0.00165,0
+2442,Matão,3529302,São Paulo,846,0.00964,0
+2443,Mauá,3529401,São Paulo,1,1e-05,1
+2444,Mendonça,3529500,São Paulo,14,0.00016,0
+2445,Mesópolis,3529658,São Paulo,117,0.00133,0
+2446,Miguelópolis,3529708,São Paulo,20,0.00023,0
+2447,Mineiros do Tietê,3529807,São Paulo,61,0.00069,0
+2448,Miracatu,3529906,São Paulo,470,0.00535,0
+2449,Mira Estrela,3530003,São Paulo,42,0.00048,0
+2450,Mirandópolis,3530102,São Paulo,308,0.00351,0
+2451,Mirante do Paranapanema,3530201,São Paulo,1446,0.01647,0
+2452,Mirassol,3530300,São Paulo,1327,0.01511,0
+2453,Mirassolândia,3530409,São Paulo,34,0.00039,0
+2454,Mococa,3530508,São Paulo,298,0.00339,0
+2455,Mogi das Cruzes,3530607,São Paulo,1849,0.02106,1
+2456,Mogi Guaçu,3530706,São Paulo,55,0.00063,0
+2457,Mogi Mirim,3530805,São Paulo,216,0.00246,0
+2458,Mombuca,3530904,São Paulo,40,0.00046,0
+2459,Mongaguá,3531100,São Paulo,107,0.00122,0
+2460,Monte Alto,3531308,São Paulo,1498,0.01706,0
+2461,Monte Aprazível,3531407,São Paulo,501,0.00571,0
+2462,Monte Azul Paulista,3531506,São Paulo,5,6e-05,0
+2463,Monte Castelo,3531605,São Paulo,12,0.00014,0
+2464,Monte Mor,3531803,São Paulo,1,1e-05,0
+2465,Morro Agudo,3531902,São Paulo,580,0.00661,0
+2466,Morungaba,3532009,São Paulo,2,2e-05,0
+2467,Murutinga do Sul,3532108,São Paulo,1,1e-05,0
+2468,Nantes,3532157,São Paulo,5,6e-05,0
+2469,Natividade da Serra,3532306,São Paulo,69,0.00079,0
+2470,Nazaré Paulista,3532405,São Paulo,2,2e-05,0
+2471,Neves Paulista,3532504,São Paulo,11,0.00013,0
+2472,Nhandeara,3532603,São Paulo,101,0.00115,0
+2473,Nova Aliança,3532801,São Paulo,21,0.00024,0
+2474,Nova Europa,3532900,São Paulo,96,0.00109,0
+2475,Nova Granada,3533007,São Paulo,713,0.00812,0
+2476,Nova Guataporanga,3533106,São Paulo,48,0.00055,0
+2477,Nova Independência,3533205,São Paulo,1,1e-05,0
+2478,Novais,3533254,São Paulo,7,8e-05,0
+2479,Nova Luzitânia,3533304,São Paulo,426,0.00485,0
+2480,Nova Odessa,3533403,São Paulo,2,2e-05,0
+2481,Novo Horizonte,3533502,São Paulo,327,0.00372,0
+2482,Olímpia,3533908,São Paulo,1027,0.0117,0
+2483,Oriente,3534104,São Paulo,5,6e-05,0
+2484,Orindiúva,3534203,São Paulo,549,0.00625,0
+2485,Orlândia,3534302,São Paulo,1367,0.01557,0
+2486,Osasco,3534401,São Paulo,5251,0.05981,1
+2487,Oscar Bressane,3534500,São Paulo,5,6e-05,0
+2488,Osvaldo Cruz,3534609,São Paulo,2589,0.02949,0
+2489,Ourinhos,3534708,São Paulo,11403,0.12987,0
+2490,Ouroeste,3534757,São Paulo,378,0.00431,0
+2491,Ouro Verde,3534807,São Paulo,1,1e-05,0
+2492,Pacaembu,3534906,São Paulo,22,0.00025,0
+2493,Palestina,3535002,São Paulo,105,0.0012,0
+2494,Palmares Paulista,3535101,São Paulo,62,0.00071,0
+2495,Palmeira d'Oeste,3535200,São Paulo,74,0.00084,0
+2496,Panorama,3535408,São Paulo,126,0.00144,0
+2497,Paraguaçu Paulista,3535507,São Paulo,1962,0.02235,0
+2498,Paraibuna,3535606,São Paulo,9,0.0001,0
+2499,Paraíso,3535705,São Paulo,1,1e-05,0
+2500,Paranapanema,3535804,São Paulo,1,1e-05,0
+2501,Paranapuã,3535903,São Paulo,294,0.00335,0
+2502,Parapuã,3536000,São Paulo,2093,0.02384,0
+2503,Pariquera-Açu,3536208,São Paulo,324,0.00369,0
+2504,Patrocínio Paulista,3536307,São Paulo,31,0.00035,0
+2505,Paulicéia,3536406,São Paulo,2,2e-05,0
+2506,Paulo de Faria,3536604,São Paulo,444,0.00506,0
+2507,Pederneiras,3536703,São Paulo,252,0.00287,0
+2508,Pedra Bela,3536802,São Paulo,13,0.00015,0
+2509,Pedregulho,3537008,São Paulo,56,0.00064,0
+2510,Pedreira,3537107,São Paulo,1,1e-05,0
+2511,Pedro de Toledo,3537206,São Paulo,7,8e-05,0
+2512,Penápolis,3537305,São Paulo,3522,0.04011,0
+2513,Pereira Barreto,3537404,São Paulo,1038,0.01182,0
+2514,Pereiras,3537503,São Paulo,20,0.00023,0
+2515,Peruíbe,3537602,São Paulo,718,0.00818,0
+2516,Piacatu,3537701,São Paulo,8,9e-05,0
+2517,Piedade,3537800,São Paulo,927,0.01056,0
+2518,Pilar do Sul,3537909,São Paulo,334,0.0038,0
+2519,Pindamonhangaba,3538006,São Paulo,290,0.0033,0
+2520,Pindorama,3538105,São Paulo,484,0.00551,0
+2521,Pinhalzinho,3538204,São Paulo,1431,0.0163,0
+2522,Piquerobi,3538303,São Paulo,10,0.00011,0
+2523,Piracaia,3538600,São Paulo,88,0.001,0
+2524,Piracicaba,3538709,São Paulo,11839,0.13484,0
+2525,Piraju,3538808,São Paulo,695,0.00792,0
+2526,Pirajuí,3538907,São Paulo,221,0.00252,0
+2527,Pirangi,3539004,São Paulo,18,0.00021,0
+2528,Pirapora do Bom Jesus,3539103,São Paulo,3037,0.03459,0
+2529,Pirapozinho,3539202,São Paulo,2225,0.02534,0
+2530,Pirassununga,3539301,São Paulo,552,0.00629,0
+2531,Piratininga,3539400,São Paulo,6,7e-05,0
+2532,Pitangueiras,3539509,São Paulo,35,0.0004,0
+2533,Planalto,3539608,São Paulo,14,0.00016,0
+2534,Poloni,3539905,São Paulo,7,8e-05,0
+2535,Pompéia,3540002,São Paulo,28,0.00032,0
+2536,Pontes Gestal,3540309,São Paulo,45,0.00051,0
+2537,Populina,3540408,São Paulo,39,0.00044,0
+2538,Porangaba,3540507,São Paulo,92,0.00105,0
+2539,Porto Feliz,3540606,São Paulo,262,0.00298,0
+2540,Porto Ferreira,3540705,São Paulo,130,0.00148,0
+2541,Potirendaba,3540804,São Paulo,1406,0.01601,0
+2542,Pradópolis,3540903,São Paulo,1,1e-05,0
+2543,Praia Grande,3541000,São Paulo,904,0.0103,0
+2544,Presidente Alves,3541109,São Paulo,1,1e-05,0
+2545,Presidente Bernardes,3541208,São Paulo,1160,0.01321,0
+2546,Presidente Epitácio,3541307,São Paulo,1465,0.01669,0
+2547,Presidente Prudente,3541406,São Paulo,49406,0.56271,0
+2548,Presidente Venceslau,3541505,São Paulo,1872,0.02132,0
+2549,Promissão,3541604,São Paulo,10,0.00011,0
+2550,Quadra,3541653,São Paulo,4,5e-05,0
+2551,Quatá,3541703,São Paulo,3,3e-05,0
+2552,Queluz,3541901,São Paulo,1042,0.01187,0
+2553,Rancharia,3542206,São Paulo,386,0.0044,0
+2554,Redenção da Serra,3542305,São Paulo,71,0.00081,0
+2555,Regente Feijó,3542404,São Paulo,5,6e-05,0
+2556,Registro,3542602,São Paulo,1080,0.0123,0
+2557,Ribeira,3542800,São Paulo,1438,0.01638,0
+2558,Ribeirão Bonito,3542909,São Paulo,10,0.00011,0
+2559,Ribeirão Pires,3543303,São Paulo,1,1e-05,0
+2560,Ribeirão Preto,3543402,São Paulo,38401,0.43737,1
+2561,Rifaina,3543600,São Paulo,23,0.00026,0
+2562,Rincão,3543709,São Paulo,1431,0.0163,0
+2563,Rinópolis,3543808,São Paulo,178,0.00203,0
+2564,Rio Claro,3543907,São Paulo,3430,0.03907,0
+2565,Rio das Pedras,3544004,São Paulo,3,3e-05,0
+2566,Riolândia,3544202,São Paulo,36,0.00041,0
+2567,Rosana,3544251,São Paulo,170,0.00194,0
+2568,Roseira,3544301,São Paulo,1,1e-05,0
+2569,Sagres,3544707,São Paulo,5,6e-05,0
+2570,Sales Oliveira,3544905,São Paulo,57,0.00065,0
+2571,Salto,3545209,São Paulo,54,0.00062,0
+2572,Salto de Pirapora,3545308,São Paulo,3,3e-05,0
+2573,Salto Grande,3545407,São Paulo,28,0.00032,0
+2574,Santa Adélia,3545605,São Paulo,19,0.00022,0
+2575,Santa Albertina,3545704,São Paulo,32,0.00036,0
+2576,Santa Bárbara d'Oeste,3545803,São Paulo,53,0.0006,0
+2577,Santa Cruz da Esperança,3546256,São Paulo,1,1e-05,0
+2578,Santa Cruz do Rio Pardo,3546405,São Paulo,556,0.00633,0
+2579,Santa Ernestina,3546504,São Paulo,5,6e-05,0
+2580,Santa Fé do Sul,3546603,São Paulo,3536,0.04027,0
+2581,Santa Isabel,3546801,São Paulo,3235,0.03684,0
+2582,Santa Rita d'Oeste,3547403,São Paulo,6,7e-05,0
+2583,Santa Rosa de Viterbo,3547601,São Paulo,34,0.00039,0
+2584,Santo Anastácio,3547700,São Paulo,1523,0.01735,0
+2585,Santo André,3547809,São Paulo,1137,0.01295,1
+2586,Santo Antônio do Aracanguá,3548054,São Paulo,62,0.00071,0
+2587,Santo Antônio do Jardim,3548104,São Paulo,1,1e-05,0
+2588,Santo Antônio do Pinhal,3548203,São Paulo,15,0.00017,0
+2589,Santo Expedito,3548302,São Paulo,15,0.00017,0
+2590,Santópolis do Aguapeí,3548401,São Paulo,16,0.00018,0
+2591,Santos,3548500,São Paulo,3957,0.04507,1
+2592,São Bento do Sapucaí,3548609,São Paulo,15,0.00017,0
+2593,São Bernardo do Campo,3548708,São Paulo,2121,0.02416,1
+2594,São Caetano do Sul,3548807,São Paulo,160,0.00182,0
+2595,São Carlos,3548906,São Paulo,1545,0.0176,0
+2596,São Francisco,3549003,São Paulo,27,0.00031,0
+2597,São João da Boa Vista,3549102,São Paulo,189,0.00215,0
+2598,São João do Pau d'Alho,3549300,São Paulo,4,5e-05,0
+2599,São Joaquim da Barra,3549409,São Paulo,1054,0.012,0
+2600,São José da Bela Vista,3549508,São Paulo,3,3e-05,0
+2601,São José do Barreiro,3549607,São Paulo,9,0.0001,0
+2602,São José do Rio Pardo,3549706,São Paulo,12,0.00014,0
+2603,São José do Rio Preto,3549805,São Paulo,57144,0.65084,1
+2604,São José dos Campos,3549904,São Paulo,13769,0.15682,0
+2605,São Luiz do Paraitinga,3550001,São Paulo,93,0.00106,0
+2606,São Manuel,3550100,São Paulo,471,0.00536,0
+2607,São Miguel Arcanjo,3550209,São Paulo,110,0.00125,0
+2608,São Paulo,3550308,São Paulo,474158,5.4004,1
+2609,São Pedro,3550407,São Paulo,186,0.00212,0
+2610,São Roque,3550605,São Paulo,1759,0.02003,0
+2611,São Sebastião,3550704,São Paulo,5,6e-05,0
+2612,São Simão,3550902,São Paulo,21,0.00024,0
+2613,São Vicente,3551009,São Paulo,252,0.00287,0
+2614,Sarutaiá,3551207,São Paulo,100,0.00114,0
+2615,Sebastianópolis do Sul,3551306,São Paulo,1,1e-05,0
+2616,Serra Negra,3551603,São Paulo,44,0.0005,0
+2617,Sertãozinho,3551702,São Paulo,149,0.0017,0
+2618,Severínia,3551900,São Paulo,110,0.00125,0
+2619,Silveiras,3552007,São Paulo,19,0.00022,0
+2620,Socorro,3552106,São Paulo,18,0.00021,0
+2621,Sorocaba,3552205,São Paulo,10883,0.12395,1
+2622,Sud Mennucci,3552304,São Paulo,3,3e-05,0
+2623,Sumaré,3552403,São Paulo,27,0.00031,0
+2624,Suzano,3552502,São Paulo,3,3e-05,0
+2625,Tabapuã,3552601,São Paulo,2,2e-05,0
+2626,Tabatinga,3552700,São Paulo,15,0.00017,0
+2627,Tanabi,3553401,São Paulo,1516,0.01727,0
+2628,Tapiratiba,3553609,São Paulo,8,9e-05,0
+2629,Taquaritinga,3553708,São Paulo,307,0.0035,0
+2630,Taquarituba,3553807,São Paulo,28,0.00032,0
+2631,Taquarivaí,3553856,São Paulo,54,0.00062,0
+2632,Tarabai,3553906,São Paulo,2,2e-05,0
+2633,Tarumã,3553955,São Paulo,34,0.00039,0
+2634,Tatuí,3554003,São Paulo,3010,0.03428,0
+2635,Taubaté,3554102,São Paulo,8757,0.09974,1
+2636,Teodoro Sampaio,3554300,São Paulo,731,0.00833,0
+2637,Terra Roxa,3554409,São Paulo,20,0.00023,0
+2638,Tietê,3554508,São Paulo,591,0.00673,0
+2639,Torrinha,3554706,São Paulo,115,0.00131,0
+2640,Tremembé,3554805,São Paulo,1,1e-05,0
+2641,Tupã,3555000,São Paulo,3052,0.03476,0
+2642,Tupi Paulista,3555109,São Paulo,1025,0.01167,0
+2643,Turiúba,3555208,São Paulo,43,0.00049,0
+2644,Turmalina,3555307,São Paulo,3,3e-05,0
+2645,Ubarana,3555356,São Paulo,3,3e-05,0
+2646,Ubatuba,3555406,São Paulo,123,0.0014,0
+2647,Ubirajara,3555505,São Paulo,7,8e-05,0
+2648,Uchoa,3555604,São Paulo,3,3e-05,0
+2649,Urânia,3555802,São Paulo,42,0.00048,0
+2650,Urupês,3556008,São Paulo,401,0.00457,0
+2651,Valparaíso,3556305,São Paulo,81,0.00092,0
+2652,Vargem,3556354,São Paulo,12,0.00014,0
+2653,Vargem Grande do Sul,3556404,São Paulo,4,5e-05,0
+2654,Vinhedo,3556701,São Paulo,334,0.0038,0
+2655,Viradouro,3556800,São Paulo,21,0.00024,0
+2656,Vista Alegre do Alto,3556909,São Paulo,2,2e-05,0
+2657,Vitória Brasil,3556958,São Paulo,9,0.0001,0
+2658,Votuporanga,3557105,São Paulo,2842,0.03237,0
+2659,Zacarias,3557154,São Paulo,23,0.00026,0
+2660,Chavantes,3557204,São Paulo,260,0.00296,0
+2661,Abatiá,4100103,Paraná,739,0.00842,0
+2662,Agudos do Sul,4100301,Paraná,492,0.0056,0
+2663,Altônia,4100509,Paraná,611,0.00696,0
+2664,Alto Paraná,4100608,Paraná,3692,0.04205,0
+2665,Alto Piquiri,4100707,Paraná,185,0.00211,0
+2666,Alvorada do Sul,4100806,Paraná,10,0.00011,0
+2667,Amaporã,4100905,Paraná,173,0.00197,0
+2668,Ampére,4101002,Paraná,4170,0.04749,0
+2669,Andirá,4101101,Paraná,1551,0.01767,0
+2670,Ângulo,4101150,Paraná,127,0.00145,0
+2671,Antonina,4101200,Paraná,650,0.0074,0
+2672,Antônio Olinto,4101309,Paraná,1,1e-05,0
+2673,Apucarana,4101408,Paraná,16239,0.18495,1
+2674,Arapongas,4101507,Paraná,3972,0.04524,0
+2675,Arapoti,4101606,Paraná,839,0.00956,0
+2676,Araucária,4101804,Paraná,197,0.00224,0
+2677,Assaí,4101903,Paraná,1923,0.0219,0
+2678,Assis Chateaubriand,4102000,Paraná,4862,0.05538,0
+2679,Astorga,4102109,Paraná,400,0.00456,0
+2680,Atalaia,4102208,Paraná,169,0.00192,0
+2681,Bandeirantes,4102406,Paraná,3950,0.04499,0
+2682,Barbosa Ferraz,4102505,Paraná,1774,0.0202,0
+2683,Barracão,4102604,Paraná,10958,0.12481,0
+2684,Barra do Jacaré,4102703,Paraná,1,1e-05,0
+2685,Bela Vista do Paraíso,4102802,Paraná,2003,0.02281,0
+2686,Bituruna,4102901,Paraná,172,0.00196,0
+2687,Bom Sucesso,4103206,Paraná,299,0.00341,0
+2688,Borrazópolis,4103305,Paraná,544,0.0062,0
+2689,Braganey,4103354,Paraná,165,0.00188,0
+2690,Brasilândia do Sul,4103370,Paraná,15,0.00017,0
+2691,Cafeara,4103404,Paraná,890,0.01014,0
+2692,Cafelândia,4103453,Paraná,212,0.00241,0
+2693,Cafezal do Sul,4103479,Paraná,580,0.00661,0
+2694,Califórnia,4103503,Paraná,239,0.00272,0
+2695,Cambará,4103602,Paraná,50,0.00057,0
+2696,Cambé,4103701,Paraná,39,0.00044,1
+2697,Cambira,4103800,Paraná,129,0.00147,0
+2698,Campina da Lagoa,4103909,Paraná,1351,0.01539,0
+2699,Campina Grande do Sul,4104006,Paraná,1413,0.01609,0
+2700,Campo Bonito,4104055,Paraná,3,3e-05,0
+2701,Campo do Tenente,4104105,Paraná,329,0.00375,0
+2702,Campo Largo,4104204,Paraná,1426,0.01624,1
+2703,Campo Mourão,4104303,Paraná,15061,0.17154,1
+2704,Cândido de Abreu,4104402,Paraná,1315,0.01498,0
+2705,Candói,4104428,Paraná,2609,0.02972,0
+2706,Cantagalo,4104451,Paraná,1273,0.0145,0
+2707,Capanema,4104501,Paraná,1175,0.01338,0
+2708,Capitão Leônidas Marques,4104600,Paraná,1149,0.01309,0
+2709,Carlópolis,4104709,Paraná,79,0.0009,0
+2710,Cascavel,4104808,Paraná,74390,0.84726,1
+2711,Castro,4104907,Paraná,1291,0.0147,1
+2712,Catanduvas,4105003,Paraná,166,0.00189,0
+2713,Centenário do Sul,4105102,Paraná,393,0.00448,0
+2714,Cerro Azul,4105201,Paraná,2270,0.02585,0
+2715,Céu Azul,4105300,Paraná,1315,0.01498,0
+2716,Chopinzinho,4105409,Paraná,1389,0.01582,0
+2717,Cianorte,4105508,Paraná,15357,0.17491,1
+2718,Cidade Gaúcha,4105607,Paraná,1153,0.01313,0
+2719,Clevelândia,4105706,Paraná,1636,0.01863,0
+2720,Colorado,4105904,Paraná,1214,0.01383,0
+2721,Congonhinhas,4106001,Paraná,139,0.00158,0
+2722,Conselheiro Mairinck,4106100,Paraná,20,0.00023,0
+2723,Corbélia,4106308,Paraná,2846,0.03241,0
+2724,Cornélio Procópio,4106407,Paraná,3929,0.04475,1
+2725,Coronel Vivida,4106506,Paraná,4123,0.04696,0
+2726,Corumbataí do Sul,4106555,Paraná,28,0.00032,0
+2727,Cruzeiro do Oeste,4106605,Paraná,546,0.00622,0
+2728,Cruzeiro do Sul,4106704,Paraná,984,0.01121,0
+2729,Cruz Machado,4106803,Paraná,190,0.00216,0
+2730,Cruzmaltina,4106852,Paraná,33,0.00038,0
+2731,Curitiba,4106902,Paraná,118677,1.35167,1
+2732,Curiúva,4107009,Paraná,1687,0.01921,0
+2733,Diamante do Norte,4107108,Paraná,404,0.0046,0
+2734,Diamante D'Oeste,4107157,Paraná,47,0.00054,0
+2735,Dois Vizinhos,4107207,Paraná,4700,0.05353,0
+2736,Douradina,4107256,Paraná,12,0.00014,0
+2737,Doutor Camargo,4107306,Paraná,118,0.00134,0
+2738,Enéas Marques,4107405,Paraná,596,0.00679,0
+2739,Engenheiro Beltrão,4107504,Paraná,2017,0.02297,0
+2740,Entre Rios do Oeste,4107538,Paraná,301,0.00343,0
+2741,Farol,4107553,Paraná,3,3e-05,0
+2742,Faxinal,4107603,Paraná,3686,0.04198,0
+2743,Fazenda Rio Grande,4107652,Paraná,628,0.00715,0
+2744,Fênix,4107702,Paraná,16,0.00018,0
+2745,Fernandes Pinheiro,4107736,Paraná,146,0.00166,0
+2746,Figueira,4107751,Paraná,22,0.00025,0
+2747,Floraí,4107801,Paraná,60,0.00068,0
+2748,Flor da Serra do Sul,4107850,Paraná,315,0.00359,0
+2749,Floresta,4107900,Paraná,353,0.00402,0
+2750,Florestópolis,4108007,Paraná,83,0.00095,0
+2751,Flórida,4108106,Paraná,11,0.00013,0
+2752,Formosa do Oeste,4108205,Paraná,319,0.00363,0
+2753,Foz do Iguaçu,4108304,Paraná,7936,0.09039,1
+2754,Francisco Alves,4108320,Paraná,9,0.0001,0
+2755,Francisco Beltrão,4108403,Paraná,21941,0.2499,1
+2756,Foz do Jordão,4108452,Paraná,15,0.00017,0
+2757,General Carneiro,4108502,Paraná,630,0.00718,0
+2758,Goioerê,4108601,Paraná,722,0.00822,0
+2759,Grandes Rios,4108700,Paraná,27,0.00031,0
+2760,Guaíra,4108809,Paraná,8650,0.09852,0
+2761,Guairaçá,4108908,Paraná,205,0.00233,0
+2762,Guamiranga,4108957,Paraná,67,0.00076,0
+2763,Guapirama,4109005,Paraná,7,8e-05,0
+2764,Guaraci,4109203,Paraná,59,0.00067,0
+2765,Guaraniaçu,4109302,Paraná,2011,0.0229,0
+2766,Guarapuava,4109401,Paraná,11951,0.13612,1
+2767,Guaraqueçaba,4109500,Paraná,5,6e-05,0
+2768,Guaratuba,4109609,Paraná,91,0.00104,0
+2769,Ibaiti,4109708,Paraná,2138,0.02435,0
+2770,Ibema,4109757,Paraná,198,0.00226,0
+2771,Ibiporã,4109807,Paraná,858,0.00977,0
+2772,Icaraíma,4109906,Paraná,158,0.0018,0
+2773,Iguaraçu,4110003,Paraná,7,8e-05,0
+2774,Iguatu,4110052,Paraná,57,0.00065,0
+2775,Imbaú,4110078,Paraná,353,0.00402,0
+2776,Imbituva,4110102,Paraná,1042,0.01187,0
+2777,Inácio Martins,4110201,Paraná,292,0.00333,0
+2778,Inajá,4110300,Paraná,74,0.00084,0
+2779,Indianópolis,4110409,Paraná,234,0.00267,0
+2780,Ipiranga,4110508,Paraná,57,0.00065,0
+2781,Iporã,4110607,Paraná,481,0.00548,0
+2782,Iracema do Oeste,4110656,Paraná,9,0.0001,0
+2783,Irati,4110706,Paraná,2201,0.02507,1
+2784,Iretama,4110805,Paraná,303,0.00345,0
+2785,Itaguajé,4110904,Paraná,70,0.0008,0
+2786,Itaipulândia,4110953,Paraná,499,0.00568,0
+2787,Itapejara d'Oeste,4111209,Paraná,265,0.00302,0
+2788,Ivaí,4111407,Paraná,198,0.00226,0
+2789,Ivaiporã,4111506,Paraná,5729,0.06525,1
+2790,Ivaté,4111555,Paraná,49,0.00056,0
+2791,Jaboti,4111704,Paraná,40,0.00046,0
+2792,Jacarezinho,4111803,Paraná,662,0.00754,1
+2793,Jaguapitã,4111902,Paraná,489,0.00557,0
+2794,Jaguariaíva,4112009,Paraná,289,0.00329,0
+2795,Jandaia do Sul,4112108,Paraná,5595,0.06372,0
+2796,Janiópolis,4112207,Paraná,6,7e-05,0
+2797,Japira,4112306,Paraná,100,0.00114,0
+2798,Japurá,4112405,Paraná,44,0.0005,0
+2799,Jardim Alegre,4112504,Paraná,409,0.00466,0
+2800,Jataizinho,4112702,Paraná,238,0.00271,0
+2801,Jesuítas,4112751,Paraná,262,0.00298,0
+2802,Joaquim Távora,4112801,Paraná,226,0.00257,0
+2803,Jussara,4113007,Paraná,123,0.0014,0
+2804,Kaloré,4113106,Paraná,26,0.0003,0
+2805,Lapa,4113205,Paraná,1207,0.01375,0
+2806,Laranjal,4113254,Paraná,1153,0.01313,0
+2807,Laranjeiras do Sul,4113304,Paraná,4189,0.04771,0
+2808,Lidianópolis,4113429,Paraná,54,0.00062,0
+2809,Lindoeste,4113452,Paraná,7,8e-05,0
+2810,Loanda,4113502,Paraná,7200,0.082,0
+2811,Lobato,4113601,Paraná,4,5e-05,0
+2812,Londrina,4113700,Paraná,38356,0.43685,1
+2813,Lunardelli,4113759,Paraná,1,1e-05,0
+2814,Lupionópolis,4113809,Paraná,76,0.00087,0
+2815,Mallet,4113908,Paraná,16,0.00018,0
+2816,Mamborê,4114005,Paraná,35,0.0004,0
+2817,Mandaguaçu,4114104,Paraná,3053,0.03477,0
+2818,Mandaguari,4114203,Paraná,1284,0.01462,0
+2819,Mandirituba,4114302,Paraná,210,0.00239,0
+2820,Manfrinópolis,4114351,Paraná,176,0.002,0
+2821,Manoel Ribas,4114500,Paraná,84,0.00096,0
+2822,Marechal Cândido Rondon,4114609,Paraná,5989,0.06821,0
+2823,Maria Helena,4114708,Paraná,289,0.00329,0
+2824,Marialva,4114807,Paraná,252,0.00287,0
+2825,Marilândia do Sul,4114906,Paraná,78,0.00089,0
+2826,Mariluz,4115101,Paraná,6,7e-05,0
+2827,Maringá,4115200,Paraná,44616,0.50815,1
+2828,Mariópolis,4115309,Paraná,223,0.00254,0
+2829,Maripá,4115358,Paraná,12,0.00014,0
+2830,Marmeleiro,4115408,Paraná,445,0.00507,0
+2831,Marumbi,4115507,Paraná,18,0.00021,0
+2832,Matelândia,4115606,Paraná,1109,0.01263,0
+2833,Matinhos,4115705,Paraná,35,0.0004,0
+2834,Mauá da Serra,4115754,Paraná,164,0.00187,0
+2835,Medianeira,4115804,Paraná,5361,0.06106,0
+2836,Mercedes,4115853,Paraná,78,0.00089,0
+2837,Miraselva,4116000,Paraná,60,0.00068,0
+2838,Missal,4116059,Paraná,46,0.00052,0
+2839,Moreira Sales,4116109,Paraná,7,8e-05,0
+2840,Morretes,4116208,Paraná,29,0.00033,0
+2841,Nossa Senhora das Graças,4116406,Paraná,17,0.00019,0
+2842,Nova Aurora,4116703,Paraná,135,0.00154,0
+2843,Nova Cantu,4116802,Paraná,66,0.00075,0
+2844,Nova Esperança,4116901,Paraná,3967,0.04518,0
+2845,Nova Esperança do Sudoeste,4116950,Paraná,300,0.00342,0
+2846,Nova Fátima,4117008,Paraná,109,0.00124,0
+2847,Nova Laranjeiras,4117057,Paraná,175,0.00199,0
+2848,Nova Londrina,4117107,Paraná,339,0.00386,0
+2849,Nova Olímpia,4117206,Paraná,109,0.00124,0
+2850,Nova Santa Bárbara,4117214,Paraná,18,0.00021,0
+2851,Nova Prata do Iguaçu,4117255,Paraná,122,0.00139,0
+2852,Novo Itacolomi,4117297,Paraná,1,1e-05,0
+2853,Ortigueira,4117305,Paraná,13,0.00015,0
+2854,Ourizona,4117404,Paraná,3,3e-05,0
+2855,Ouro Verde do Oeste,4117453,Paraná,196,0.00223,0
+2856,Paiçandu,4117503,Paraná,1,1e-05,0
+2857,Palmas,4117602,Paraná,2272,0.02588,0
+2858,Palmeira,4117701,Paraná,911,0.01038,0
+2859,Palmital,4117800,Paraná,707,0.00805,0
+2860,Palotina,4117909,Paraná,243,0.00277,0
+2861,Paraíso do Norte,4118006,Paraná,195,0.00222,0
+2862,Paranacity,4118105,Paraná,366,0.00417,0
+2863,Paranaguá,4118204,Paraná,349,0.00397,1
+2864,Paranapoema,4118303,Paraná,2,2e-05,0
+2865,Paranavaí,4118402,Paraná,3084,0.03513,1
+2866,Pato Bragado,4118451,Paraná,1,1e-05,0
+2867,Pato Branco,4118501,Paraná,11561,0.13167,1
+2868,Paulo Frontin,4118709,Paraná,35,0.0004,0
+2869,Peabiru,4118808,Paraná,225,0.00256,0
+2870,Perobal,4118857,Paraná,172,0.00196,0
+2871,Pérola,4118907,Paraná,599,0.00682,0
+2872,Pérola d'Oeste,4119004,Paraná,1668,0.019,0
+2873,Pinhalão,4119202,Paraná,60,0.00068,0
+2874,Pinhão,4119301,Paraná,96,0.00109,0
+2875,Piraí do Sul,4119400,Paraná,11,0.00013,0
+2876,Pitanga,4119608,Paraná,4237,0.04826,0
+2877,Planaltina do Paraná,4119707,Paraná,16,0.00018,0
+2878,Planalto,4119806,Paraná,89,0.00101,0
+2879,Ponta Grossa,4119905,Paraná,22676,0.25827,1
+2880,Porecatu,4120002,Paraná,1642,0.0187,0
+2881,Porto Rico,4120200,Paraná,24,0.00027,0
+2882,Prado Ferreira,4120333,Paraná,24,0.00027,0
+2883,Pranchita,4120358,Paraná,22,0.00025,0
+2884,Presidente Castelo Branco,4120408,Paraná,26,0.0003,0
+2885,Prudentópolis,4120606,Paraná,624,0.00711,0
+2886,Quarto Centenário,4120655,Paraná,148,0.00169,0
+2887,Quatro Pontes,4120853,Paraná,2,2e-05,0
+2888,Quedas do Iguaçu,4120903,Paraná,78,0.00089,0
+2889,Querência do Norte,4121000,Paraná,17,0.00019,0
+2890,Quitandinha,4121208,Paraná,15,0.00017,0
+2891,Realeza,4121406,Paraná,2356,0.02683,0
+2892,Rebouças,4121505,Paraná,24,0.00027,0
+2893,Renascença,4121604,Paraná,102,0.00116,0
+2894,Reserva,4121703,Paraná,66,0.00075,0
+2895,Reserva do Iguaçu,4121752,Paraná,8,9e-05,0
+2896,Ribeirão do Pinhal,4121901,Paraná,165,0.00188,0
+2897,Rio Azul,4122008,Paraná,3,3e-05,0
+2898,Rio Bonito do Iguaçu,4122156,Paraná,7,8e-05,0
+2899,Rio Negro,4122305,Paraná,639,0.00728,0
+2900,Rolândia,4122404,Paraná,6814,0.07761,0
+2901,Roncador,4122503,Paraná,25,0.00028,0
+2902,Rondon,4122602,Paraná,73,0.00083,0
+2903,Rosário do Ivaí,4122651,Paraná,165,0.00188,0
+2904,Salgado Filho,4122800,Paraná,176,0.002,0
+2905,Salto do Itararé,4122909,Paraná,170,0.00194,0
+2906,Salto do Lontra,4123006,Paraná,183,0.00208,0
+2907,Santa Amélia,4123105,Paraná,8,9e-05,0
+2908,Santa Cecília do Pavão,4123204,Paraná,7,8e-05,0
+2909,Santa Cruz de Monte Castelo,4123303,Paraná,10,0.00011,0
+2910,Santa Fé,4123402,Paraná,1,1e-05,0
+2911,Santa Helena,4123501,Paraná,462,0.00526,0
+2912,Santa Inês,4123600,Paraná,57,0.00065,0
+2913,Santa Isabel do Ivaí,4123709,Paraná,87,0.00099,0
+2914,Santa Izabel do Oeste,4123808,Paraná,151,0.00172,0
+2915,Santa Lúcia,4123824,Paraná,61,0.00069,0
+2916,Santa Maria do Oeste,4123857,Paraná,105,0.0012,0
+2917,Santa Mariana,4123907,Paraná,39,0.00044,0
+2918,Santana do Itararé,4124004,Paraná,2,2e-05,0
+2919,Santa Tereza do Oeste,4124020,Paraná,70,0.0008,0
+2920,Santa Terezinha de Itaipu,4124053,Paraná,172,0.00196,0
+2921,Santo Antônio da Platina,4124103,Paraná,2255,0.02568,0
+2922,Santo Antônio do Caiuá,4124202,Paraná,16,0.00018,0
+2923,Santo Antônio do Paraíso,4124301,Paraná,24,0.00027,0
+2924,Santo Antônio do Sudoeste,4124400,Paraná,938,0.01068,0
+2925,Santo Inácio,4124509,Paraná,94,0.00107,0
+2926,São Carlos do Ivaí,4124608,Paraná,7,8e-05,0
+2927,São Jerônimo da Serra,4124707,Paraná,10,0.00011,0
+2928,São João,4124806,Paraná,1032,0.01175,0
+2929,São João do Caiuá,4124905,Paraná,13,0.00015,0
+2930,São João do Ivaí,4125001,Paraná,1457,0.01659,0
+2931,São João do Triunfo,4125100,Paraná,6,7e-05,0
+2932,São Jorge d'Oeste,4125209,Paraná,12,0.00014,0
+2933,São Jorge do Ivaí,4125308,Paraná,3,3e-05,0
+2934,São Jorge do Patrocínio,4125357,Paraná,35,0.0004,0
+2935,São José das Palmeiras,4125456,Paraná,69,0.00079,0
+2936,São José dos Pinhais,4125506,Paraná,2549,0.02903,1
+2937,São Manoel do Paraná,4125555,Paraná,4,5e-05,0
+2938,São Mateus do Sul,4125605,Paraná,4570,0.05205,0
+2939,São Miguel do Iguaçu,4125704,Paraná,434,0.00494,0
+2940,São Pedro do Iguaçu,4125753,Paraná,6,7e-05,0
+2941,São Pedro do Ivaí,4125803,Paraná,9,0.0001,0
+2942,São Pedro do Paraná,4125902,Paraná,24,0.00027,0
+2943,São Sebastião da Amoreira,4126009,Paraná,273,0.00311,0
+2944,São Tomé,4126108,Paraná,44,0.0005,0
+2945,Sarandi,4126256,Paraná,1,1e-05,1
+2946,Saudade do Iguaçu,4126272,Paraná,5,6e-05,0
+2947,Sengés,4126306,Paraná,104,0.00118,0
+2948,Sertaneja,4126405,Paraná,78,0.00089,0
+2949,Sertanópolis,4126504,Paraná,554,0.00631,0
+2950,Siqueira Campos,4126603,Paraná,239,0.00272,0
+2951,Tamarana,4126678,Paraná,1,1e-05,0
+2952,Tamboara,4126702,Paraná,16,0.00018,0
+2953,Tapejara,4126801,Paraná,187,0.00213,0
+2954,Tapira,4126900,Paraná,7,8e-05,0
+2955,Teixeira Soares,4127007,Paraná,19,0.00022,0
+2956,Telêmaco Borba,4127106,Paraná,617,0.00703,1
+2957,Terra Boa,4127205,Paraná,4,5e-05,0
+2958,Terra Roxa,4127403,Paraná,8,9e-05,0
+2959,Toledo,4127700,Paraná,11739,0.1337,1
+2960,Tomazina,4127809,Paraná,76,0.00087,0
+2961,Três Barras do Paraná,4127858,Paraná,11,0.00013,0
+2962,Tunas do Paraná,4127882,Paraná,96,0.00109,0
+2963,Turvo,4127965,Paraná,93,0.00106,0
+2964,Ubiratã,4128005,Paraná,182,0.00207,0
+2965,Umuarama,4128104,Paraná,16840,0.1918,1
+2966,União da Vitória,4128203,Paraná,7305,0.0832,1
+2967,Uniflor,4128302,Paraná,48,0.00055,0
+2968,Uraí,4128401,Paraná,7,8e-05,0
+2969,Wenceslau Braz,4128500,Paraná,715,0.00814,0
+2970,Vera Cruz do Oeste,4128559,Paraná,210,0.00239,0
+2971,Verê,4128609,Paraná,12,0.00014,0
+2972,Alto Paraíso,4128625,Paraná,7,8e-05,0
+2973,Doutor Ulysses,4128633,Paraná,2,2e-05,0
+2974,Vitorino,4128708,Paraná,123,0.0014,0
+2975,Xambrê,4128807,Paraná,189,0.00215,0
+2976,Abdon Batista,4200051,Santa Catarina,19,0.00022,0
+2977,Abelardo Luz,4200101,Santa Catarina,1001,0.0114,0
+2978,Agrolândia,4200200,Santa Catarina,915,0.01042,0
+2979,Agronômica,4200309,Santa Catarina,190,0.00216,0
+2980,Água Doce,4200408,Santa Catarina,225,0.00256,0
+2981,Águas de Chapecó,4200507,Santa Catarina,418,0.00476,0
+2982,Águas Mornas,4200606,Santa Catarina,3,3e-05,0
+2983,Alfredo Wagner,4200705,Santa Catarina,756,0.00861,0
+2984,Anchieta,4200804,Santa Catarina,6,7e-05,0
+2985,Anita Garibaldi,4201000,Santa Catarina,1537,0.01751,0
+2986,Apiúna,4201257,Santa Catarina,992,0.0113,0
+2987,Arabutã,4201273,Santa Catarina,804,0.00916,0
+2988,Araquari,4201307,Santa Catarina,450,0.00513,0
+2989,Araranguá,4201406,Santa Catarina,14678,0.16717,0
+2990,Armazém,4201505,Santa Catarina,390,0.00444,0
+2991,Arroio Trinta,4201604,Santa Catarina,917,0.01044,0
+2992,Ascurra,4201703,Santa Catarina,176,0.002,0
+2993,Atalanta,4201802,Santa Catarina,19,0.00022,0
+2994,Aurora,4201901,Santa Catarina,792,0.00902,0
+2995,Balneário Camboriú,4202008,Santa Catarina,15964,0.18182,1
+2996,Balneário Barra do Sul,4202057,Santa Catarina,183,0.00208,0
+2997,Barra Velha,4202107,Santa Catarina,2535,0.02887,0
+2998,Belmonte,4202156,Santa Catarina,374,0.00426,0
+2999,Benedito Novo,4202206,Santa Catarina,668,0.00761,0
+3000,Biguaçu,4202305,Santa Catarina,282,0.00321,0
+3001,Blumenau,4202404,Santa Catarina,19615,0.2234,0
+3002,Bom Jardim da Serra,4202503,Santa Catarina,757,0.00862,0
+3003,Bom Jesus,4202537,Santa Catarina,1293,0.01473,0
+3004,Bom Jesus do Oeste,4202578,Santa Catarina,18,0.00021,0
+3005,Bom Retiro,4202602,Santa Catarina,1293,0.01473,0
+3006,Braço do Norte,4202800,Santa Catarina,5446,0.06203,0
+3007,Brunópolis,4202875,Santa Catarina,2,2e-05,0
+3008,Brusque,4202909,Santa Catarina,391,0.00445,0
+3009,Caçador,4203006,Santa Catarina,9341,0.10639,0
+3010,Caibi,4203105,Santa Catarina,1126,0.01282,0
+3011,Calmon,4203154,Santa Catarina,258,0.00294,0
+3012,Camboriú,4203204,Santa Catarina,35,0.0004,0
+3013,Capão Alto,4203253,Santa Catarina,5,6e-05,0
+3014,Campo Alegre,4203303,Santa Catarina,7,8e-05,0
+3015,Campo Belo do Sul,4203402,Santa Catarina,3,3e-05,0
+3016,Campo Erê,4203501,Santa Catarina,2948,0.03358,0
+3017,Campos Novos,4203600,Santa Catarina,14924,0.16998,0
+3018,Canelinha,4203709,Santa Catarina,601,0.00685,0
+3019,Canoinhas,4203808,Santa Catarina,5322,0.06061,0
+3020,Capinzal,4203907,Santa Catarina,535,0.00609,0
+3021,Capivari de Baixo,4203956,Santa Catarina,380,0.00433,0
+3022,Catanduvas,4204004,Santa Catarina,479,0.00546,0
+3023,Celso Ramos,4204152,Santa Catarina,1,1e-05,0
+3024,Cerro Negro,4204178,Santa Catarina,3,3e-05,0
+3025,Chapecó,4204202,Santa Catarina,38661,0.44033,1
+3026,Cocal do Sul,4204251,Santa Catarina,16,0.00018,0
+3027,Concórdia,4204301,Santa Catarina,12898,0.1469,1
+3028,Cordilheira Alta,4204350,Santa Catarina,28,0.00032,0
+3029,Coronel Freitas,4204400,Santa Catarina,89,0.00101,0
+3030,Correia Pinto,4204558,Santa Catarina,193,0.0022,0
+3031,Criciúma,4204608,Santa Catarina,13487,0.15361,1
+3032,Cunha Porã,4204707,Santa Catarina,117,0.00133,0
+3033,Curitibanos,4204806,Santa Catarina,5904,0.06724,0
+3034,Descanso,4204905,Santa Catarina,717,0.00817,0
+3035,Dionísio Cerqueira,4205001,Santa Catarina,3057,0.03482,1
+3036,Doutor Pedrinho,4205159,Santa Catarina,51,0.00058,0
+3037,Ermo,4205191,Santa Catarina,1791,0.0204,0
+3038,Erval Velho,4205209,Santa Catarina,804,0.00916,0
+3039,Faxinal dos Guedes,4205308,Santa Catarina,24,0.00027,0
+3040,Florianópolis,4205407,Santa Catarina,27631,0.3147,1
+3041,Formosa do Sul,4205431,Santa Catarina,29,0.00033,0
+3042,Fraiburgo,4205506,Santa Catarina,154,0.00175,0
+3043,Garopaba,4205704,Santa Catarina,563,0.00641,0
+3044,Garuva,4205803,Santa Catarina,750,0.00854,0
+3045,Gaspar,4205902,Santa Catarina,1626,0.01852,0
+3046,Grão Pará,4206108,Santa Catarina,76,0.00087,0
+3047,Gravatal,4206207,Santa Catarina,707,0.00805,0
+3048,Guaraciaba,4206405,Santa Catarina,1099,0.01252,0
+3049,Guaramirim,4206504,Santa Catarina,290,0.0033,0
+3050,Guarujá do Sul,4206603,Santa Catarina,271,0.00309,0
+3051,Ibicaré,4206801,Santa Catarina,313,0.00356,0
+3052,Ibirama,4206900,Santa Catarina,3057,0.03482,0
+3053,Ilhota,4207106,Santa Catarina,5,6e-05,0
+3054,Imaruí,4207205,Santa Catarina,1447,0.01648,0
+3055,Imbituba,4207304,Santa Catarina,1249,0.01423,0
+3056,Imbuia,4207403,Santa Catarina,2,2e-05,0
+3057,Indaial,4207502,Santa Catarina,1479,0.01685,0
+3058,Iomerê,4207577,Santa Catarina,45,0.00051,0
+3059,Ipira,4207601,Santa Catarina,156,0.00178,0
+3060,Iporã do Oeste,4207650,Santa Catarina,139,0.00158,0
+3061,Ipuaçu,4207684,Santa Catarina,11,0.00013,0
+3062,Ipumirim,4207700,Santa Catarina,553,0.0063,0
+3063,Irani,4207809,Santa Catarina,3,3e-05,0
+3064,Itá,4208005,Santa Catarina,621,0.00707,0
+3065,Itaiópolis,4208104,Santa Catarina,14,0.00016,0
+3066,Itajaí,4208203,Santa Catarina,4797,0.05464,0
+3067,Itapema,4208302,Santa Catarina,1252,0.01426,0
+3068,Itapiranga,4208401,Santa Catarina,651,0.00741,0
+3069,Ituporanga,4208500,Santa Catarina,1957,0.02229,0
+3070,Jaborá,4208609,Santa Catarina,11,0.00013,0
+3071,Jacinto Machado,4208708,Santa Catarina,24,0.00027,0
+3072,Jaguaruna,4208807,Santa Catarina,426,0.00485,0
+3073,Jaraguá do Sul,4208906,Santa Catarina,978,0.01114,0
+3074,Joaçaba,4209003,Santa Catarina,8583,0.09776,1
+3075,Joinville,4209102,Santa Catarina,9904,0.1128,1
+3076,José Boiteux,4209151,Santa Catarina,68,0.00077,0
+3077,Jupiá,4209177,Santa Catarina,9,0.0001,0
+3078,Lages,4209300,Santa Catarina,17845,0.20324,1
+3079,Laguna,4209409,Santa Catarina,2658,0.03027,0
+3080,Lajeado Grande,4209458,Santa Catarina,183,0.00208,0
+3081,Laurentino,4209508,Santa Catarina,54,0.00062,0
+3082,Lauro Müller,4209607,Santa Catarina,3424,0.039,0
+3083,Lebon Régis,4209706,Santa Catarina,9,0.0001,0
+3084,Lontras,4209904,Santa Catarina,467,0.00532,0
+3085,Luzerna,4210035,Santa Catarina,1,1e-05,0
+3086,Mafra,4210100,Santa Catarina,2252,0.02565,1
+3087,Maravilha,4210506,Santa Catarina,7785,0.08867,0
+3088,Marema,4210555,Santa Catarina,183,0.00208,0
+3089,Massaranduba,4210605,Santa Catarina,113,0.00129,0
+3090,Matos Costa,4210704,Santa Catarina,34,0.00039,0
+3091,Meleiro,4210803,Santa Catarina,164,0.00187,0
+3092,Modelo,4210902,Santa Catarina,447,0.00509,0
+3093,Mondaí,4211009,Santa Catarina,32,0.00036,0
+3094,Monte Carlo,4211058,Santa Catarina,16,0.00018,0
+3095,Monte Castelo,4211108,Santa Catarina,103,0.00117,0
+3096,Morro da Fumaça,4211207,Santa Catarina,155,0.00177,0
+3097,Morro Grande,4211256,Santa Catarina,11,0.00013,0
+3098,Navegantes,4211306,Santa Catarina,95,0.00108,0
+3099,Nova Erechim,4211405,Santa Catarina,1514,0.01724,0
+3100,Nova Trento,4211504,Santa Catarina,134,0.00153,0
+3101,Novo Horizonte,4211652,Santa Catarina,1,1e-05,0
+3102,Orleans,4211702,Santa Catarina,528,0.00601,0
+3103,Otacílio Costa,4211751,Santa Catarina,33,0.00038,0
+3104,Paial,4211876,Santa Catarina,1,1e-05,0
+3105,Painel,4211892,Santa Catarina,205,0.00233,0
+3106,Palma Sola,4212007,Santa Catarina,3,3e-05,0
+3107,Palmitos,4212106,Santa Catarina,2161,0.02461,0
+3108,Papanduva,4212205,Santa Catarina,1168,0.0133,0
+3109,Peritiba,4212601,Santa Catarina,8,9e-05,0
+3110,Balneário Piçarras,4212809,Santa Catarina,265,0.00302,0
+3111,Pinhalzinho,4212908,Santa Catarina,4585,0.05222,0
+3112,Pinheiro Preto,4213005,Santa Catarina,32,0.00036,0
+3113,Piratuba,4213104,Santa Catarina,249,0.00284,0
+3114,Pomerode,4213203,Santa Catarina,7,8e-05,0
+3115,Ponte Alta,4213302,Santa Catarina,256,0.00292,0
+3116,Ponte Alta do Norte,4213351,Santa Catarina,2,2e-05,0
+3117,Ponte Serrada,4213401,Santa Catarina,1444,0.01645,0
+3118,Porto União,4213609,Santa Catarina,4312,0.04911,0
+3119,Pouso Redondo,4213708,Santa Catarina,2042,0.02326,0
+3120,Praia Grande,4213807,Santa Catarina,160,0.00182,0
+3121,Presidente Getúlio,4214003,Santa Catarina,2798,0.03187,0
+3122,Quilombo,4214201,Santa Catarina,713,0.00812,0
+3123,Rancho Queimado,4214300,Santa Catarina,6,7e-05,0
+3124,Rio das Antas,4214409,Santa Catarina,134,0.00153,0
+3125,Rio do Campo,4214508,Santa Catarina,30,0.00034,0
+3126,Rio do Oeste,4214607,Santa Catarina,55,0.00063,0
+3127,Rio do Sul,4214805,Santa Catarina,14381,0.16379,0
+3128,Rio Negrinho,4215000,Santa Catarina,7,8e-05,0
+3129,Romelândia,4215208,Santa Catarina,329,0.00375,0
+3130,Saltinho,4215356,Santa Catarina,9,0.0001,0
+3131,Salto Veloso,4215406,Santa Catarina,52,0.00059,0
+3132,Sangão,4215455,Santa Catarina,5,6e-05,0
+3133,Santa Cecília,4215505,Santa Catarina,485,0.00552,0
+3134,Santa Helena,4215554,Santa Catarina,26,0.0003,0
+3135,Santa Rosa do Sul,4215653,Santa Catarina,276,0.00314,0
+3136,Santa Terezinha do Progresso,4215687,Santa Catarina,329,0.00375,0
+3137,São Bento do Sul,4215802,Santa Catarina,418,0.00476,0
+3138,São Carlos,4216008,Santa Catarina,1635,0.01862,0
+3139,São Cristóvão do Sul,4216057,Santa Catarina,145,0.00165,0
+3140,São Domingos,4216107,Santa Catarina,16,0.00018,0
+3141,São Francisco do Sul,4216206,Santa Catarina,69,0.00079,0
+3142,São João do Oeste,4216255,Santa Catarina,17,0.00019,0
+3143,São João Batista,4216305,Santa Catarina,84,0.00096,0
+3144,São João do Sul,4216404,Santa Catarina,18,0.00021,0
+3145,São Joaquim,4216503,Santa Catarina,323,0.00368,0
+3146,São José do Cedro,4216701,Santa Catarina,1599,0.01821,0
+3147,São José do Cerrito,4216800,Santa Catarina,251,0.00286,0
+3148,São Lourenço do Oeste,4216909,Santa Catarina,4280,0.04875,0
+3149,São Ludgero,4217006,Santa Catarina,62,0.00071,0
+3150,São Martinho,4217105,Santa Catarina,19,0.00022,0
+3151,São Miguel da Boa Vista,4217154,Santa Catarina,227,0.00259,0
+3152,São Miguel do Oeste,4217204,Santa Catarina,8160,0.09294,0
+3153,Seara,4217501,Santa Catarina,541,0.00616,0
+3154,Serra Alta,4217550,Santa Catarina,170,0.00194,0
+3155,Sombrio,4217709,Santa Catarina,2160,0.0246,0
+3156,Sul Brasil,4217758,Santa Catarina,22,0.00025,0
+3157,Taió,4217808,Santa Catarina,21,0.00024,0
+3158,Tangará,4217907,Santa Catarina,1011,0.01151,0
+3159,Tigrinhos,4217956,Santa Catarina,329,0.00375,0
+3160,Tijucas,4218004,Santa Catarina,1274,0.01451,0
+3161,Timbé do Sul,4218103,Santa Catarina,21,0.00024,0
+3162,Timbó,4218202,Santa Catarina,1913,0.02179,0
+3163,Três Barras,4218301,Santa Catarina,3,3e-05,0
+3164,Trombudo Central,4218608,Santa Catarina,248,0.00282,0
+3165,Tubarão,4218707,Santa Catarina,7132,0.08123,0
+3166,Turvo,4218806,Santa Catarina,78,0.00089,0
+3167,Urupema,4218954,Santa Catarina,4,5e-05,0
+3168,Urussanga,4219002,Santa Catarina,79,0.0009,0
+3169,Videira,4219309,Santa Catarina,4766,0.05428,0
+3170,Vitor Meireles,4219358,Santa Catarina,1,1e-05,0
+3171,Xanxerê,4219507,Santa Catarina,9976,0.11362,0
+3172,Xavantina,4219606,Santa Catarina,7,8e-05,0
+3173,Xaxim,4219705,Santa Catarina,5191,0.05912,0
+3174,Agudo,4300109,Rio Grande do Sul,1425,0.01623,0
+3175,Alecrim,4300307,Rio Grande do Sul,393,0.00448,0
+3176,Alegrete,4300406,Rio Grande do Sul,4668,0.05317,0
+3177,Alegria,4300455,Rio Grande do Sul,172,0.00196,0
+3178,Almirante Tamandaré do Sul,4300471,Rio Grande do Sul,109,0.00124,0
+3179,Alpestre,4300505,Rio Grande do Sul,3054,0.03478,0
+3180,Alto Alegre,4300554,Rio Grande do Sul,69,0.00079,0
+3181,Amaral Ferrador,4300638,Rio Grande do Sul,71,0.00081,0
+3182,Ametista do Sul,4300646,Rio Grande do Sul,290,0.0033,0
+3183,André da Rocha,4300661,Rio Grande do Sul,1,1e-05,0
+3184,Anta Gorda,4300703,Rio Grande do Sul,1531,0.01744,0
+3185,Antônio Prado,4300802,Rio Grande do Sul,614,0.00699,0
+3186,Arambaré,4300851,Rio Grande do Sul,7,8e-05,0
+3187,Araricá,4300877,Rio Grande do Sul,4,5e-05,0
+3188,Arroio do Meio,4301008,Rio Grande do Sul,5971,0.06801,0
+3189,Arroio do Sal,4301057,Rio Grande do Sul,143,0.00163,0
+3190,Arroio dos Ratos,4301107,Rio Grande do Sul,2560,0.02916,0
+3191,Arroio do Tigre,4301206,Rio Grande do Sul,1702,0.01938,0
+3192,Arroio Grande,4301305,Rio Grande do Sul,828,0.00943,0
+3193,Arvorezinha,4301404,Rio Grande do Sul,3438,0.03916,0
+3194,Augusto Pestana,4301503,Rio Grande do Sul,49,0.00056,0
+3195,Bagé,4301602,Rio Grande do Sul,4025,0.04584,0
+3196,Balneário Pinhal,4301636,Rio Grande do Sul,1243,0.01416,0
+3197,Barão,4301651,Rio Grande do Sul,1138,0.01296,0
+3198,Barão de Cotegipe,4301701,Rio Grande do Sul,838,0.00954,0
+3199,Barão do Triunfo,4301750,Rio Grande do Sul,27,0.00031,0
+3200,Barracão,4301800,Rio Grande do Sul,3308,0.03768,0
+3201,Barra do Guarita,4301859,Rio Grande do Sul,9,0.0001,0
+3202,Barra do Ribeiro,4301909,Rio Grande do Sul,317,0.00361,0
+3203,Barros Cassal,4302006,Rio Grande do Sul,4549,0.05181,0
+3204,Bento Gonçalves,4302105,Rio Grande do Sul,16980,0.19339,0
+3205,Boa Vista das Missões,4302154,Rio Grande do Sul,1637,0.01864,0
+3206,Boa Vista do Buricá,4302204,Rio Grande do Sul,145,0.00165,0
+3207,Boa Vista do Sul,4302253,Rio Grande do Sul,516,0.00588,0
+3208,Bom Jesus,4302303,Rio Grande do Sul,515,0.00587,0
+3209,Bom Princípio,4302352,Rio Grande do Sul,626,0.00713,0
+3210,Bom Progresso,4302378,Rio Grande do Sul,810,0.00923,0
+3211,Bom Retiro do Sul,4302402,Rio Grande do Sul,333,0.00379,0
+3212,Boqueirão do Leão,4302451,Rio Grande do Sul,3537,0.04028,0
+3213,Bossoroca,4302501,Rio Grande do Sul,26,0.0003,0
+3214,Bozano,4302584,Rio Grande do Sul,14,0.00016,0
+3215,Butiá,4302709,Rio Grande do Sul,9,0.0001,0
+3216,Caçapava do Sul,4302808,Rio Grande do Sul,421,0.00479,0
+3217,Cacequi,4302907,Rio Grande do Sul,149,0.0017,0
+3218,Cachoeira do Sul,4303004,Rio Grande do Sul,4307,0.04905,0
+3219,Cachoeirinha,4303103,Rio Grande do Sul,2,2e-05,0
+3220,Cacique Doble,4303202,Rio Grande do Sul,1098,0.01251,0
+3221,Caibaté,4303301,Rio Grande do Sul,737,0.00839,0
+3222,Caiçara,4303400,Rio Grande do Sul,101,0.00115,0
+3223,Camaquã,4303509,Rio Grande do Sul,11415,0.13001,0
+3224,Camargo,4303558,Rio Grande do Sul,64,0.00073,0
+3225,Cambará do Sul,4303608,Rio Grande do Sul,6,7e-05,0
+3226,Campestre da Serra,4303673,Rio Grande do Sul,268,0.00305,0
+3227,Campina das Missões,4303707,Rio Grande do Sul,610,0.00695,0
+3228,Campo Bom,4303905,Rio Grande do Sul,646,0.00736,0
+3229,Campo Novo,4304002,Rio Grande do Sul,31,0.00035,0
+3230,Campos Borges,4304101,Rio Grande do Sul,2172,0.02474,0
+3231,Candelária,4304200,Rio Grande do Sul,1616,0.01841,0
+3232,Cândido Godói,4304309,Rio Grande do Sul,24,0.00027,0
+3233,Candiota,4304358,Rio Grande do Sul,1,1e-05,0
+3234,Canela,4304408,Rio Grande do Sul,132,0.0015,0
+3235,Canguçu,4304507,Rio Grande do Sul,718,0.00818,0
+3236,Canoas,4304606,Rio Grande do Sul,203,0.00231,1
+3237,Capão Bonito do Sul,4304622,Rio Grande do Sul,1,1e-05,0
+3238,Capão da Canoa,4304630,Rio Grande do Sul,810,0.00923,0
+3239,Capivari do Sul,4304671,Rio Grande do Sul,614,0.00699,0
+3240,Capitão,4304697,Rio Grande do Sul,184,0.0021,0
+3241,Carazinho,4304705,Rio Grande do Sul,66370,0.75592,0
+3242,Carlos Barbosa,4304804,Rio Grande do Sul,546,0.00622,0
+3243,Casca,4304903,Rio Grande do Sul,132,0.0015,0
+3244,Caseiros,4304952,Rio Grande do Sul,1342,0.01528,0
+3245,Catuípe,4305009,Rio Grande do Sul,234,0.00267,0
+3246,Caxias do Sul,4305108,Rio Grande do Sul,22806,0.25975,1
+3247,Cerro Branco,4305132,Rio Grande do Sul,12,0.00014,0
+3248,Cerro Grande,4305157,Rio Grande do Sul,778,0.00886,0
+3249,Cerro Grande do Sul,4305173,Rio Grande do Sul,272,0.0031,0
+3250,Cerro Largo,4305207,Rio Grande do Sul,2771,0.03156,0
+3251,Chapada,4305306,Rio Grande do Sul,105,0.0012,0
+3252,Charqueadas,4305355,Rio Grande do Sul,216,0.00246,0
+3253,Chiapetta,4305405,Rio Grande do Sul,858,0.00977,0
+3254,Chuí,4305439,Rio Grande do Sul,62,0.00071,0
+3255,Chuvisca,4305447,Rio Grande do Sul,23,0.00026,0
+3256,Cidreira,4305454,Rio Grande do Sul,7,8e-05,0
+3257,Ciríaco,4305504,Rio Grande do Sul,1185,0.0135,0
+3258,Colinas,4305587,Rio Grande do Sul,131,0.00149,0
+3259,Condor,4305702,Rio Grande do Sul,135,0.00154,0
+3260,Constantina,4305801,Rio Grande do Sul,472,0.00538,0
+3261,Coqueiro Baixo,4305835,Rio Grande do Sul,87,0.00099,0
+3262,Coronel Barros,4305871,Rio Grande do Sul,10,0.00011,0
+3263,Coronel Bicaco,4305900,Rio Grande do Sul,371,0.00423,0
+3264,Coxilha,4305975,Rio Grande do Sul,1361,0.0155,0
+3265,Crissiumal,4306007,Rio Grande do Sul,278,0.00317,0
+3266,Cristal,4306056,Rio Grande do Sul,128,0.00146,0
+3267,Cristal do Sul,4306072,Rio Grande do Sul,55,0.00063,0
+3268,Cruz Alta,4306106,Rio Grande do Sul,19757,0.22502,0
+3269,Cruzeiro do Sul,4306205,Rio Grande do Sul,613,0.00698,0
+3270,David Canabarro,4306304,Rio Grande do Sul,60,0.00068,0
+3271,Dezesseis de Novembro,4306353,Rio Grande do Sul,406,0.00462,0
+3272,Dois Irmãos,4306403,Rio Grande do Sul,396,0.00451,0
+3273,Dois Irmãos das Missões,4306429,Rio Grande do Sul,5,6e-05,0
+3274,Dois Lajeados,4306452,Rio Grande do Sul,90,0.00103,0
+3275,Dom Feliciano,4306502,Rio Grande do Sul,32,0.00036,0
+3276,Dom Pedro de Alcântara,4306551,Rio Grande do Sul,4,5e-05,0
+3277,Dom Pedrito,4306601,Rio Grande do Sul,23,0.00026,0
+3278,Dona Francisca,4306700,Rio Grande do Sul,240,0.00273,0
+3279,Doutor Ricardo,4306759,Rio Grande do Sul,2,2e-05,0
+3280,Eldorado do Sul,4306767,Rio Grande do Sul,19,0.00022,0
+3281,Encantado,4306809,Rio Grande do Sul,1713,0.01951,0
+3282,Encruzilhada do Sul,4306908,Rio Grande do Sul,143,0.00163,0
+3283,Entre-Ijuís,4306932,Rio Grande do Sul,2553,0.02908,0
+3284,Erebango,4306973,Rio Grande do Sul,69,0.00079,0
+3285,Erechim,4307005,Rio Grande do Sul,13763,0.15675,0
+3286,Ernestina,4307054,Rio Grande do Sul,35,0.0004,0
+3287,Herval,4307104,Rio Grande do Sul,1245,0.01418,0
+3288,Erval Seco,4307302,Rio Grande do Sul,974,0.01109,0
+3289,Esmeralda,4307401,Rio Grande do Sul,960,0.01093,0
+3290,Espumoso,4307500,Rio Grande do Sul,3609,0.0411,0
+3291,Estação,4307559,Rio Grande do Sul,614,0.00699,0
+3292,Esteio,4307708,Rio Grande do Sul,95,0.00108,0
+3293,Estrela,4307807,Rio Grande do Sul,11834,0.13478,0
+3294,Estrela Velha,4307815,Rio Grande do Sul,29,0.00033,0
+3295,Eugênio de Castro,4307831,Rio Grande do Sul,1,1e-05,0
+3296,Farroupilha,4307906,Rio Grande do Sul,1134,0.01292,0
+3297,Faxinal do Soturno,4308003,Rio Grande do Sul,421,0.00479,0
+3298,Fazenda Vilanova,4308078,Rio Grande do Sul,198,0.00226,0
+3299,Feliz,4308102,Rio Grande do Sul,1723,0.01962,0
+3300,Flores da Cunha,4308201,Rio Grande do Sul,404,0.0046,0
+3301,Fontoura Xavier,4308300,Rio Grande do Sul,16,0.00018,0
+3302,Formigueiro,4308409,Rio Grande do Sul,1,1e-05,0
+3303,Forquetinha,4308433,Rio Grande do Sul,33,0.00038,0
+3304,Fortaleza dos Valos,4308458,Rio Grande do Sul,1058,0.01205,0
+3305,Frederico Westphalen,4308508,Rio Grande do Sul,16811,0.19147,0
+3306,Garibaldi,4308607,Rio Grande do Sul,2300,0.0262,0
+3307,General Câmara,4308805,Rio Grande do Sul,80,0.00091,0
+3308,Getúlio Vargas,4308904,Rio Grande do Sul,6428,0.07321,0
+3309,Giruá,4309001,Rio Grande do Sul,107,0.00122,0
+3310,Gramado,4309100,Rio Grande do Sul,54,0.00062,0
+3311,Gramado Xavier,4309159,Rio Grande do Sul,2,2e-05,0
+3312,Guabiju,4309258,Rio Grande do Sul,49,0.00056,0
+3313,Guaíba,4309308,Rio Grande do Sul,162,0.00185,0
+3314,Guaporé,4309407,Rio Grande do Sul,1551,0.01767,0
+3315,Guarani das Missões,4309506,Rio Grande do Sul,515,0.00587,0
+3316,Herveiras,4309571,Rio Grande do Sul,8,9e-05,0
+3317,Horizontina,4309605,Rio Grande do Sul,88,0.001,0
+3318,Hulha Negra,4309654,Rio Grande do Sul,10,0.00011,0
+3319,Ibarama,4309753,Rio Grande do Sul,4,5e-05,0
+3320,Ibiaçá,4309803,Rio Grande do Sul,104,0.00118,0
+3321,Ibirapuitã,4309951,Rio Grande do Sul,1246,0.01419,0
+3322,Ibirubá,4310009,Rio Grande do Sul,813,0.00926,0
+3323,Igrejinha,4310108,Rio Grande do Sul,16,0.00018,0
+3324,Ijuí,4310207,Rio Grande do Sul,22066,0.25132,0
+3325,Ilópolis,4310306,Rio Grande do Sul,22,0.00025,0
+3326,Imbé,4310330,Rio Grande do Sul,10,0.00011,0
+3327,Imigrante,4310363,Rio Grande do Sul,4,5e-05,0
+3328,Inhacorá,4310413,Rio Grande do Sul,85,0.00097,0
+3329,Ipiranga do Sul,4310462,Rio Grande do Sul,52,0.00059,0
+3330,Iraí,4310504,Rio Grande do Sul,1738,0.01979,0
+3331,Itapuca,4310579,Rio Grande do Sul,2,2e-05,0
+3332,Itaqui,4310603,Rio Grande do Sul,2283,0.026,0
+3333,Jaboticaba,4310850,Rio Grande do Sul,40,0.00046,0
+3334,Jacuizinho,4310876,Rio Grande do Sul,8,9e-05,0
+3335,Jaguarão,4311007,Rio Grande do Sul,319,0.00363,0
+3336,Jaguari,4311106,Rio Grande do Sul,264,0.00301,0
+3337,Jari,4311130,Rio Grande do Sul,39,0.00044,0
+3338,Jóia,4311155,Rio Grande do Sul,64,0.00073,0
+3339,Júlio de Castilhos,4311205,Rio Grande do Sul,3181,0.03623,0
+3340,Lagoa Bonita do Sul,4311239,Rio Grande do Sul,1,1e-05,0
+3341,Lagoão,4311254,Rio Grande do Sul,18,0.00021,0
+3342,Lagoa dos Três Cantos,4311270,Rio Grande do Sul,1,1e-05,0
+3343,Lagoa Vermelha,4311304,Rio Grande do Sul,3008,0.03426,0
+3344,Lajeado,4311403,Rio Grande do Sul,16475,0.18764,0
+3345,Lajeado do Bugre,4311429,Rio Grande do Sul,10,0.00011,0
+3346,Liberato Salzano,4311601,Rio Grande do Sul,22,0.00025,0
+3347,Machadinho,4311700,Rio Grande do Sul,28,0.00032,0
+3348,Mampituba,4311734,Rio Grande do Sul,244,0.00278,0
+3349,Manoel Viana,4311759,Rio Grande do Sul,6,7e-05,0
+3350,Maquiné,4311775,Rio Grande do Sul,650,0.0074,0
+3351,Marau,4311809,Rio Grande do Sul,1023,0.01165,0
+3352,Marcelino Ramos,4311908,Rio Grande do Sul,1,1e-05,0
+3353,Mariana Pimentel,4311981,Rio Grande do Sul,5,6e-05,0
+3354,Marques de Souza,4312054,Rio Grande do Sul,142,0.00162,0
+3355,Mato Castelhano,4312138,Rio Grande do Sul,458,0.00522,0
+3356,Mato Leitão,4312153,Rio Grande do Sul,1832,0.02087,0
+3357,Maximiliano de Almeida,4312203,Rio Grande do Sul,2408,0.02743,0
+3358,Minas do Leão,4312252,Rio Grande do Sul,7,8e-05,0
+3359,Miraguaí,4312302,Rio Grande do Sul,4,5e-05,0
+3360,Montenegro,4312401,Rio Grande do Sul,7889,0.08985,0
+3361,Mostardas,4312500,Rio Grande do Sul,18,0.00021,0
+3362,Muçum,4312609,Rio Grande do Sul,65,0.00074,0
+3363,Muitos Capões,4312617,Rio Grande do Sul,12,0.00014,0
+3364,Não-Me-Toque,4312658,Rio Grande do Sul,64,0.00073,0
+3365,Nonoai,4312708,Rio Grande do Sul,31,0.00035,0
+3366,Nova Araçá,4312807,Rio Grande do Sul,553,0.0063,0
+3367,Nova Bassano,4312906,Rio Grande do Sul,280,0.00319,0
+3368,Nova Bréscia,4313003,Rio Grande do Sul,55,0.00063,0
+3369,Nova Hartz,4313060,Rio Grande do Sul,11,0.00013,0
+3370,Nova Palma,4313102,Rio Grande do Sul,120,0.00137,0
+3371,Nova Petrópolis,4313201,Rio Grande do Sul,4,5e-05,0
+3372,Nova Prata,4313300,Rio Grande do Sul,2748,0.0313,0
+3373,Novo Cabrais,4313391,Rio Grande do Sul,285,0.00325,0
+3374,Novo Hamburgo,4313409,Rio Grande do Sul,8364,0.09526,0
+3375,Novo Tiradentes,4313441,Rio Grande do Sul,95,0.00108,0
+3376,Novo Barreiro,4313490,Rio Grande do Sul,2,2e-05,0
+3377,Osório,4313508,Rio Grande do Sul,6055,0.06896,0
+3378,Paim Filho,4313607,Rio Grande do Sul,883,0.01006,0
+3379,Palmares do Sul,4313656,Rio Grande do Sul,16,0.00018,0
+3380,Palmeira das Missões,4313706,Rio Grande do Sul,11915,0.13571,0
+3381,Palmitinho,4313805,Rio Grande do Sul,269,0.00306,0
+3382,Panambi,4313904,Rio Grande do Sul,3262,0.03715,0
+3383,Pantano Grande,4313953,Rio Grande do Sul,124,0.00141,0
+3384,Paraí,4314001,Rio Grande do Sul,53,0.0006,0
+3385,Paraíso do Sul,4314027,Rio Grande do Sul,151,0.00172,0
+3386,Parobé,4314050,Rio Grande do Sul,77,0.00088,0
+3387,Passa Sete,4314068,Rio Grande do Sul,51,0.00058,0
+3388,Passo do Sobrado,4314076,Rio Grande do Sul,3,3e-05,0
+3389,Passo Fundo,4314100,Rio Grande do Sul,20251,0.23065,1
+3390,Pelotas,4314407,Rio Grande do Sul,11521,0.13122,1
+3391,Pinhal,4314456,Rio Grande do Sul,10,0.00011,0
+3392,Pinheirinho do Vale,4314498,Rio Grande do Sul,46,0.00052,0
+3393,Pinheiro Machado,4314506,Rio Grande do Sul,89,0.00101,0
+3394,Planalto,4314704,Rio Grande do Sul,1845,0.02101,0
+3395,Pontão,4314779,Rio Grande do Sul,3,3e-05,0
+3396,Portão,4314803,Rio Grande do Sul,15,0.00017,0
+3397,Porto Alegre,4314902,Rio Grande do Sul,164893,1.87804,1
+3398,Porto Lucena,4315008,Rio Grande do Sul,4,5e-05,0
+3399,Porto Vera Cruz,4315073,Rio Grande do Sul,4,5e-05,0
+3400,Porto Xavier,4315107,Rio Grande do Sul,121,0.00138,0
+3401,Pouso Novo,4315131,Rio Grande do Sul,35,0.0004,0
+3402,Putinga,4315206,Rio Grande do Sul,96,0.00109,0
+3403,Quinze de Novembro,4315354,Rio Grande do Sul,57,0.00065,0
+3404,Redentora,4315404,Rio Grande do Sul,73,0.00083,0
+3405,Relvado,4315453,Rio Grande do Sul,26,0.0003,0
+3406,Rio Grande,4315602,Rio Grande do Sul,1351,0.01539,0
+3407,Rio Pardo,4315701,Rio Grande do Sul,10,0.00011,0
+3408,Riozinho,4315750,Rio Grande do Sul,1,1e-05,0
+3409,Roca Sales,4315800,Rio Grande do Sul,10,0.00011,0
+3410,Rodeio Bonito,4315909,Rio Grande do Sul,396,0.00451,0
+3411,Rolador,4315958,Rio Grande do Sul,2,2e-05,0
+3412,Rolante,4316006,Rio Grande do Sul,10,0.00011,0
+3413,Ronda Alta,4316105,Rio Grande do Sul,1901,0.02165,0
+3414,Rondinha,4316204,Rio Grande do Sul,221,0.00252,0
+3415,Roque Gonzales,4316303,Rio Grande do Sul,2,2e-05,0
+3416,Rosário do Sul,4316402,Rio Grande do Sul,18,0.00021,0
+3417,Sagrada Família,4316428,Rio Grande do Sul,26,0.0003,0
+3418,Saldanha Marinho,4316436,Rio Grande do Sul,39,0.00044,0
+3419,Salto do Jacuí,4316451,Rio Grande do Sul,90,0.00103,0
+3420,Salvador do Sul,4316501,Rio Grande do Sul,7,8e-05,0
+3421,Sananduva,4316600,Rio Grande do Sul,1061,0.01208,0
+3422,Santa Bárbara do Sul,4316709,Rio Grande do Sul,1161,0.01322,0
+3423,Santa Cruz do Sul,4316808,Rio Grande do Sul,7866,0.08959,0
+3424,Santa Maria,4316907,Rio Grande do Sul,32403,0.36905,1
+3425,Santana da Boa Vista,4317004,Rio Grande do Sul,11,0.00013,0
+3426,Sant'Ana do Livramento,4317103,Rio Grande do Sul,401,0.00457,0
+3427,Santa Rosa,4317202,Rio Grande do Sul,10282,0.11711,0
+3428,Santa Vitória do Palmar,4317301,Rio Grande do Sul,50,0.00057,0
+3429,Santiago,4317400,Rio Grande do Sul,3218,0.03665,0
+3430,Santo Ângelo,4317509,Rio Grande do Sul,7407,0.08436,0
+3431,Santo Antônio da Patrulha,4317608,Rio Grande do Sul,1457,0.01659,0
+3432,Santo Antônio das Missões,4317707,Rio Grande do Sul,1408,0.01604,0
+3433,Santo Antônio do Planalto,4317756,Rio Grande do Sul,3,3e-05,0
+3434,Santo Augusto,4317806,Rio Grande do Sul,152,0.00173,0
+3435,São Borja,4318002,Rio Grande do Sul,128,0.00146,0
+3436,São Domingos do Sul,4318051,Rio Grande do Sul,153,0.00174,0
+3437,São Francisco de Assis,4318101,Rio Grande do Sul,13,0.00015,0
+3438,São Francisco de Paula,4318200,Rio Grande do Sul,149,0.0017,0
+3439,São Gabriel,4318309,Rio Grande do Sul,29,0.00033,0
+3440,São Jerônimo,4318408,Rio Grande do Sul,4,5e-05,0
+3441,São João da Urtiga,4318424,Rio Grande do Sul,210,0.00239,0
+3442,São João do Polêsine,4318432,Rio Grande do Sul,68,0.00077,0
+3443,São Jorge,4318440,Rio Grande do Sul,12,0.00014,0
+3444,São José do Herval,4318465,Rio Grande do Sul,2,2e-05,0
+3445,São José do Norte,4318507,Rio Grande do Sul,7,8e-05,0
+3446,São José do Ouro,4318606,Rio Grande do Sul,492,0.0056,0
+3447,São José dos Ausentes,4318622,Rio Grande do Sul,82,0.00093,0
+3448,São Leopoldo,4318705,Rio Grande do Sul,25994,0.29606,0
+3449,São Lourenço do Sul,4318804,Rio Grande do Sul,41,0.00047,0
+3450,São Luiz Gonzaga,4318903,Rio Grande do Sul,2954,0.03364,0
+3451,São Martinho,4319109,Rio Grande do Sul,1,1e-05,0
+3452,São Miguel das Missões,4319158,Rio Grande do Sul,140,0.00159,0
+3453,São Nicolau,4319208,Rio Grande do Sul,2,2e-05,0
+3454,São Paulo das Missões,4319307,Rio Grande do Sul,28,0.00032,0
+3455,São Pedro do Butiá,4319372,Rio Grande do Sul,1,1e-05,0
+3456,São Pedro do Sul,4319406,Rio Grande do Sul,4751,0.05411,0
+3457,São Sebastião do Caí,4319505,Rio Grande do Sul,1596,0.01818,0
+3458,São Sepé,4319604,Rio Grande do Sul,199,0.00227,0
+3459,São Valentim,4319703,Rio Grande do Sul,4,5e-05,0
+3460,São Vicente do Sul,4319802,Rio Grande do Sul,69,0.00079,0
+3461,Sapiranga,4319901,Rio Grande do Sul,76,0.00087,0
+3462,Sarandi,4320107,Rio Grande do Sul,2795,0.03183,0
+3463,Seberi,4320206,Rio Grande do Sul,712,0.00811,0
+3464,Segredo,4320263,Rio Grande do Sul,7,8e-05,0
+3465,Selbach,4320305,Rio Grande do Sul,1,1e-05,0
+3466,Serafina Corrêa,4320404,Rio Grande do Sul,1430,0.01629,0
+3467,Sertão,4320503,Rio Grande do Sul,8,9e-05,0
+3468,Sobradinho,4320701,Rio Grande do Sul,876,0.00998,0
+3469,Soledade,4320800,Rio Grande do Sul,9555,0.10883,0
+3470,Tabaí,4320859,Rio Grande do Sul,131,0.00149,0
+3471,Tapejara,4320909,Rio Grande do Sul,1286,0.01465,0
+3472,Tapera,4321006,Rio Grande do Sul,1041,0.01186,0
+3473,Tapes,4321105,Rio Grande do Sul,73,0.00083,0
+3474,Taquara,4321204,Rio Grande do Sul,286,0.00326,0
+3475,Taquari,4321303,Rio Grande do Sul,76,0.00087,0
+3476,Tavares,4321352,Rio Grande do Sul,3,3e-05,0
+3477,Tenente Portela,4321402,Rio Grande do Sul,1573,0.01792,0
+3478,Terra de Areia,4321436,Rio Grande do Sul,219,0.00249,0
+3479,Teutônia,4321451,Rio Grande do Sul,648,0.00738,0
+3480,Tio Hugo,4321469,Rio Grande do Sul,23,0.00026,0
+3481,Toropi,4321493,Rio Grande do Sul,101,0.00115,0
+3482,Torres,4321501,Rio Grande do Sul,984,0.01121,0
+3483,Tramandaí,4321600,Rio Grande do Sul,141,0.00161,0
+3484,Três Cachoeiras,4321667,Rio Grande do Sul,81,0.00092,0
+3485,Três Coroas,4321709,Rio Grande do Sul,1,1e-05,0
+3486,Três de Maio,4321808,Rio Grande do Sul,8,9e-05,0
+3487,Três Palmeiras,4321857,Rio Grande do Sul,3562,0.04057,0
+3488,Três Passos,4321907,Rio Grande do Sul,2275,0.02591,0
+3489,Trindade do Sul,4321956,Rio Grande do Sul,68,0.00077,0
+3490,Tucunduva,4322103,Rio Grande do Sul,1654,0.01884,0
+3491,Tupanciretã,4322202,Rio Grande do Sul,6,7e-05,0
+3492,Tuparendi,4322301,Rio Grande do Sul,40,0.00046,0
+3493,Unistalda,4322376,Rio Grande do Sul,138,0.00157,0
+3494,Uruguaiana,4322400,Rio Grande do Sul,1563,0.0178,1
+3495,Vacaria,4322509,Rio Grande do Sul,2363,0.02691,0
+3496,Vale Verde,4322525,Rio Grande do Sul,1,1e-05,0
+3497,Vale do Sol,4322533,Rio Grande do Sul,1,1e-05,0
+3498,Vanini,4322558,Rio Grande do Sul,7,8e-05,0
+3499,Venâncio Aires,4322608,Rio Grande do Sul,1300,0.01481,0
+3500,Vera Cruz,4322707,Rio Grande do Sul,238,0.00271,0
+3501,Veranópolis,4322806,Rio Grande do Sul,600,0.00683,0
+3502,Vespasiano Corrêa,4322855,Rio Grande do Sul,6,7e-05,0
+3503,Viadutos,4322905,Rio Grande do Sul,46,0.00052,0
+3504,Viamão,4323002,Rio Grande do Sul,2,2e-05,0
+3505,Victor Graeff,4323200,Rio Grande do Sul,1,1e-05,0
+3506,Vila Flores,4323309,Rio Grande do Sul,459,0.00523,0
+3507,Vila Maria,4323408,Rio Grande do Sul,375,0.00427,0
+3508,Vila Nova do Sul,4323457,Rio Grande do Sul,25,0.00028,0
+3509,Vista Alegre,4323507,Rio Grande do Sul,16,0.00018,0
+3510,Vista Gaúcha,4323705,Rio Grande do Sul,2,2e-05,0
+3511,Vitória das Missões,4323754,Rio Grande do Sul,3,3e-05,0
+3512,Westfália,4323770,Rio Grande do Sul,6,7e-05,0
+3513,Água Clara,5000203,Mato Grosso do Sul,405,0.00461,0
+3514,Alcinópolis,5000252,Mato Grosso do Sul,588,0.0067,0
+3515,Amambai,5000609,Mato Grosso do Sul,1034,0.01178,0
+3516,Anastácio,5000708,Mato Grosso do Sul,1369,0.01559,0
+3517,Anaurilândia,5000807,Mato Grosso do Sul,242,0.00276,0
+3518,Antônio João,5000906,Mato Grosso do Sul,7,8e-05,0
+3519,Aparecida do Taboado,5001003,Mato Grosso do Sul,1238,0.0141,0
+3520,Aquidauana,5001102,Mato Grosso do Sul,93,0.00106,0
+3521,Bandeirantes,5001508,Mato Grosso do Sul,2631,0.02997,0
+3522,Bataguassu,5001904,Mato Grosso do Sul,4636,0.0528,0
+3523,Batayporã,5002001,Mato Grosso do Sul,141,0.00161,0
+3524,Bela Vista,5002100,Mato Grosso do Sul,807,0.00919,0
+3525,Bodoquena,5002159,Mato Grosso do Sul,27,0.00031,0
+3526,Bonito,5002209,Mato Grosso do Sul,115,0.00131,0
+3527,Caarapó,5002407,Mato Grosso do Sul,601,0.00685,0
+3528,Camapuã,5002605,Mato Grosso do Sul,569,0.00648,0
+3529,Campo Grande,5002704,Mato Grosso do Sul,52955,0.60313,1
+3530,Cassilândia,5002902,Mato Grosso do Sul,361,0.00411,0
+3531,Chapadão do Sul,5002951,Mato Grosso do Sul,363,0.00413,0
+3532,Corguinho,5003108,Mato Grosso do Sul,313,0.00356,0
+3533,Coronel Sapucaia,5003157,Mato Grosso do Sul,1,1e-05,0
+3534,Corumbá,5003207,Mato Grosso do Sul,196,0.00223,1
+3535,Costa Rica,5003256,Mato Grosso do Sul,389,0.00443,0
+3536,Coxim,5003306,Mato Grosso do Sul,1254,0.01428,1
+3537,Deodápolis,5003454,Mato Grosso do Sul,970,0.01105,0
+3538,Dourados,5003702,Mato Grosso do Sul,11265,0.1283,1
+3539,Eldorado,5003751,Mato Grosso do Sul,1975,0.02249,0
+3540,Fátima do Sul,5003801,Mato Grosso do Sul,183,0.00208,0
+3541,Figueirão,5003900,Mato Grosso do Sul,43,0.00049,0
+3542,Glória de Dourados,5004007,Mato Grosso do Sul,24,0.00027,0
+3543,Guia Lopes da Laguna,5004106,Mato Grosso do Sul,112,0.00128,0
+3544,Iguatemi,5004304,Mato Grosso do Sul,312,0.00355,0
+3545,Itaquiraí,5004601,Mato Grosso do Sul,915,0.01042,0
+3546,Ivinhema,5004700,Mato Grosso do Sul,1973,0.02247,0
+3547,Jaraguari,5004908,Mato Grosso do Sul,137,0.00156,0
+3548,Jardim,5005004,Mato Grosso do Sul,25,0.00028,0
+3549,Juti,5005152,Mato Grosso do Sul,90,0.00103,0
+3550,Maracaju,5005400,Mato Grosso do Sul,594,0.00677,0
+3551,Miranda,5005608,Mato Grosso do Sul,61,0.00069,0
+3552,Mundo Novo,5005681,Mato Grosso do Sul,3026,0.03446,0
+3553,Naviraí,5005707,Mato Grosso do Sul,1972,0.02246,1
+3554,Nioaque,5005806,Mato Grosso do Sul,8,9e-05,0
+3555,Nova Alvorada do Sul,5006002,Mato Grosso do Sul,1664,0.01895,0
+3556,Nova Andradina,5006200,Mato Grosso do Sul,1947,0.02218,0
+3557,Paranaíba,5006309,Mato Grosso do Sul,1442,0.01642,0
+3558,Pedro Gomes,5006408,Mato Grosso do Sul,3,3e-05,0
+3559,Ponta Porã,5006606,Mato Grosso do Sul,3832,0.04364,1
+3560,Ribas do Rio Pardo,5007109,Mato Grosso do Sul,168,0.00191,0
+3561,Rio Brilhante,5007208,Mato Grosso do Sul,304,0.00346,0
+3562,Rio Negro,5007307,Mato Grosso do Sul,201,0.00229,0
+3563,Rio Verde de Mato Grosso,5007406,Mato Grosso do Sul,69,0.00079,0
+3564,São Gabriel do Oeste,5007695,Mato Grosso do Sul,957,0.0109,0
+3565,Sidrolândia,5007901,Mato Grosso do Sul,874,0.00995,0
+3566,Sonora,5007935,Mato Grosso do Sul,61,0.00069,0
+3567,Tacuru,5007950,Mato Grosso do Sul,29,0.00033,0
+3568,Três Lagoas,5008305,Mato Grosso do Sul,2543,0.02896,1
+3569,Vicentina,5008404,Mato Grosso do Sul,9,0.0001,0
+3570,Água Boa,5100201,Mato Grosso,1944,0.02214,0
+3571,Alta Floresta,5100250,Mato Grosso,6718,0.07651,0
+3572,Alto Araguaia,5100300,Mato Grosso,3001,0.03418,0
+3573,Alto Boa Vista,5100359,Mato Grosso,635,0.00723,0
+3574,Alto Garças,5100409,Mato Grosso,456,0.00519,0
+3575,Alto Paraguai,5100508,Mato Grosso,794,0.00904,0
+3576,Apiacás,5100805,Mato Grosso,317,0.00361,0
+3577,Araguainha,5101209,Mato Grosso,977,0.01113,0
+3578,Araputanga,5101258,Mato Grosso,702,0.008,0
+3579,Arenápolis,5101308,Mato Grosso,497,0.00566,0
+3580,Aripuanã,5101407,Mato Grosso,1076,0.01226,0
+3581,Barra do Bugres,5101704,Mato Grosso,1352,0.0154,0
+3582,Barra do Garças,5101803,Mato Grosso,15102,0.172,0
+3583,Bom Jesus do Araguaia,5101852,Mato Grosso,1406,0.01601,0
+3584,Brasnorte,5101902,Mato Grosso,9,0.0001,0
+3585,Cáceres,5102504,Mato Grosso,12268,0.13973,0
+3586,Campinápolis,5102603,Mato Grosso,7,8e-05,0
+3587,Campo Novo do Parecis,5102637,Mato Grosso,521,0.00593,0
+3588,Campo Verde,5102678,Mato Grosso,5274,0.06007,0
+3589,Campos de Júlio,5102686,Mato Grosso,666,0.00759,0
+3590,Canabrava do Norte,5102694,Mato Grosso,1,1e-05,0
+3591,Canarana,5102702,Mato Grosso,917,0.01044,0
+3592,Carlinda,5102793,Mato Grosso,40,0.00046,0
+3593,Castanheira,5102850,Mato Grosso,1164,0.01326,0
+3594,Chapada dos Guimarães,5103007,Mato Grosso,143,0.00163,0
+3595,Cláudia,5103056,Mato Grosso,1032,0.01175,0
+3596,Cocalinho,5103106,Mato Grosso,444,0.00506,0
+3597,Colíder,5103205,Mato Grosso,373,0.00425,0
+3598,Colniza,5103254,Mato Grosso,4,5e-05,0
+3599,Comodoro,5103304,Mato Grosso,1363,0.01552,0
+3600,Confresa,5103353,Mato Grosso,2967,0.03379,0
+3601,Conquista D'Oeste,5103361,Mato Grosso,21,0.00024,0
+3602,Cuiabá,5103403,Mato Grosso,58105,0.66178,1
+3603,Curvelândia,5103437,Mato Grosso,590,0.00672,0
+3604,Denise,5103452,Mato Grosso,10,0.00011,0
+3605,Diamantino,5103502,Mato Grosso,450,0.00513,0
+3606,Dom Aquino,5103601,Mato Grosso,112,0.00128,0
+3607,Feliz Natal,5103700,Mato Grosso,255,0.0029,0
+3608,Figueirópolis D'Oeste,5103809,Mato Grosso,5,6e-05,0
+3609,General Carneiro,5103908,Mato Grosso,805,0.00917,0
+3610,Guarantã do Norte,5104104,Mato Grosso,1871,0.02131,0
+3611,Guiratinga,5104203,Mato Grosso,1403,0.01598,0
+3612,Indiavaí,5104500,Mato Grosso,7,8e-05,0
+3613,Itanhangá,5104542,Mato Grosso,447,0.00509,0
+3614,Itaúba,5104559,Mato Grosso,224,0.00255,0
+3615,Jaciara,5104807,Mato Grosso,2053,0.02338,0
+3616,Jangada,5104906,Mato Grosso,1205,0.01372,0
+3617,Jauru,5105002,Mato Grosso,534,0.00608,0
+3618,Juara,5105101,Mato Grosso,426,0.00485,0
+3619,Juína,5105150,Mato Grosso,877,0.00999,0
+3620,Juruena,5105176,Mato Grosso,192,0.00219,0
+3621,Juscimeira,5105200,Mato Grosso,448,0.0051,0
+3622,Lambari D'Oeste,5105234,Mato Grosso,108,0.00123,0
+3623,Lucas do Rio Verde,5105259,Mato Grosso,1624,0.0185,0
+3624,Marcelândia,5105580,Mato Grosso,17,0.00019,0
+3625,Matupá,5105606,Mato Grosso,759,0.00864,0
+3626,Mirassol d'Oeste,5105622,Mato Grosso,1109,0.01263,0
+3627,Nobres,5105903,Mato Grosso,1547,0.01762,0
+3628,Nortelândia,5106000,Mato Grosso,91,0.00104,0
+3629,Nossa Senhora do Livramento,5106109,Mato Grosso,67,0.00076,0
+3630,Nova Bandeirantes,5106158,Mato Grosso,42,0.00048,0
+3631,Nova Nazaré,5106174,Mato Grosso,18,0.00021,0
+3632,Nova Lacerda,5106182,Mato Grosso,44,0.0005,0
+3633,Nova Santa Helena,5106190,Mato Grosso,1127,0.01284,0
+3634,Nova Brasilândia,5106208,Mato Grosso,114,0.0013,0
+3635,Nova Canaã do Norte,5106216,Mato Grosso,11,0.00013,0
+3636,Nova Mutum,5106224,Mato Grosso,2662,0.03032,0
+3637,Nova Olímpia,5106232,Mato Grosso,321,0.00366,0
+3638,Nova Xavantina,5106257,Mato Grosso,782,0.00891,0
+3639,Novo Horizonte do Norte,5106273,Mato Grosso,37,0.00042,0
+3640,Novo São Joaquim,5106281,Mato Grosso,462,0.00526,0
+3641,Paranatinga,5106307,Mato Grosso,89,0.00101,0
+3642,Peixoto de Azevedo,5106422,Mato Grosso,484,0.00551,0
+3643,Planalto da Serra,5106455,Mato Grosso,114,0.0013,0
+3644,Poconé,5106505,Mato Grosso,67,0.00076,0
+3645,Ponte Branca,5106703,Mato Grosso,311,0.00354,0
+3646,Pontes e Lacerda,5106752,Mato Grosso,6295,0.0717,0
+3647,Porto Alegre do Norte,5106778,Mato Grosso,80,0.00091,0
+3648,Porto dos Gaúchos,5106802,Mato Grosso,14,0.00016,0
+3649,Poxoréu,5107008,Mato Grosso,6,7e-05,0
+3650,Primavera do Leste,5107040,Mato Grosso,2624,0.02989,0
+3651,Querência,5107065,Mato Grosso,18,0.00021,0
+3652,São José dos Quatro Marcos,5107107,Mato Grosso,29,0.00033,0
+3653,Ribeirão Cascalheira,5107180,Mato Grosso,1352,0.0154,0
+3654,Ribeirãozinho,5107198,Mato Grosso,77,0.00088,0
+3655,Rio Branco,5107206,Mato Grosso,50,0.00057,0
+3656,Santo Afonso,5107263,Mato Grosso,2,2e-05,0
+3657,São José do Rio Claro,5107305,Mato Grosso,57,0.00065,0
+3658,Rondonópolis,5107602,Mato Grosso,15766,0.17957,0
+3659,Rosário Oeste,5107701,Mato Grosso,1442,0.01642,0
+3660,Salto do Céu,5107750,Mato Grosso,42,0.00048,0
+3661,São Félix do Araguaia,5107859,Mato Grosso,1408,0.01604,0
+3662,Sapezal,5107875,Mato Grosso,315,0.00359,0
+3663,Serra Nova Dourada,5107883,Mato Grosso,603,0.00687,0
+3664,Sinop,5107909,Mato Grosso,16379,0.18655,0
+3665,Sorriso,5107925,Mato Grosso,4286,0.04882,0
+3666,Tangará da Serra,5107958,Mato Grosso,1214,0.01383,0
+3667,Tapurah,5108006,Mato Grosso,6,7e-05,0
+3668,Terra Nova do Norte,5108055,Mato Grosso,16,0.00018,0
+3669,Torixoréu,5108204,Mato Grosso,745,0.00849,0
+3670,União do Sul,5108303,Mato Grosso,1,1e-05,0
+3671,Várzea Grande,5108402,Mato Grosso,9627,0.10965,0
+3672,Vera,5108501,Mato Grosso,29,0.00033,0
+3673,Vila Rica,5108600,Mato Grosso,1199,0.01366,0
+3674,Nova Marilândia,5108857,Mato Grosso,60,0.00068,0
+3675,Nova Monte Verde,5108956,Mato Grosso,5,6e-05,0
+3676,Abadia de Goiás,5200050,Goiás,2,2e-05,0
+3677,Abadiânia,5200100,Goiás,2,2e-05,0
+3678,Acreúna,5200134,Goiás,901,0.01026,0
+3679,Adelândia,5200159,Goiás,8,9e-05,0
+3680,Água Fria de Goiás,5200175,Goiás,8,9e-05,0
+3681,Água Limpa,5200209,Goiás,5,6e-05,0
+3682,Alexânia,5200308,Goiás,347,0.00395,0
+3683,Alto Horizonte,5200555,Goiás,215,0.00245,0
+3684,Alto Paraíso de Goiás,5200605,Goiás,216,0.00246,0
+3685,Alvorada do Norte,5200803,Goiás,2474,0.02818,0
+3686,Amorinópolis,5200902,Goiás,526,0.00599,0
+3687,Anápolis,5201108,Goiás,37090,0.42244,1
+3688,Anhanguera,5201207,Goiás,160,0.00182,0
+3689,Anicuns,5201306,Goiás,1920,0.02187,0
+3690,Aparecida de Goiânia,5201405,Goiás,2843,0.03238,1
+3691,Aparecida do Rio Doce,5201454,Goiás,16,0.00018,0
+3692,Araçu,5201603,Goiás,203,0.00231,0
+3693,Aragarças,5201702,Goiás,3343,0.03807,0
+3694,Araguapaz,5202155,Goiás,214,0.00244,0
+3695,Arenópolis,5202353,Goiás,88,0.001,0
+3696,Aruanã,5202502,Goiás,32,0.00036,0
+3697,Aurilândia,5202601,Goiás,1104,0.01257,0
+3698,Barro Alto,5203203,Goiás,161,0.00183,0
+3699,Bela Vista de Goiás,5203302,Goiás,655,0.00746,0
+3700,Bom Jardim de Goiás,5203401,Goiás,1458,0.01661,0
+3701,Bom Jesus de Goiás,5203500,Goiás,1003,0.01142,0
+3702,Bonfinópolis,5203559,Goiás,399,0.00454,0
+3703,Britânia,5203807,Goiás,79,0.0009,0
+3704,Buriti de Goiás,5203939,Goiás,71,0.00081,0
+3705,Cabeceiras,5204003,Goiás,3,3e-05,0
+3706,Cachoeira Alta,5204102,Goiás,204,0.00232,0
+3707,Cachoeira de Goiás,5204201,Goiás,634,0.00722,0
+3708,Cachoeira Dourada,5204250,Goiás,15,0.00017,0
+3709,Caçu,5204300,Goiás,691,0.00787,0
+3710,Caiapônia,5204409,Goiás,560,0.00638,0
+3711,Caldas Novas,5204508,Goiás,4754,0.05415,1
+3712,Campestre de Goiás,5204607,Goiás,96,0.00109,0
+3713,Campinaçu,5204656,Goiás,20,0.00023,0
+3714,Campinorte,5204706,Goiás,1591,0.01812,0
+3715,Campo Limpo de Goiás,5204854,Goiás,179,0.00204,0
+3716,Campos Belos,5204904,Goiás,69,0.00079,1
+3717,Campos Verdes,5204953,Goiás,8,9e-05,0
+3718,Carmo do Rio Verde,5205000,Goiás,32,0.00036,0
+3719,Castelândia,5205059,Goiás,9,0.0001,0
+3720,Catalão,5205109,Goiás,12191,0.13885,0
+3721,Caturaí,5205208,Goiás,165,0.00188,0
+3722,Ceres,5205406,Goiás,3990,0.04544,0
+3723,Cezarina,5205455,Goiás,1260,0.01435,0
+3724,Chapadão do Céu,5205471,Goiás,75,0.00085,0
+3725,Cocalzinho de Goiás,5205513,Goiás,490,0.00558,0
+3726,Corumbaíba,5205901,Goiás,293,0.00334,0
+3727,Cristalina,5206206,Goiás,856,0.00975,0
+3728,Cristianópolis,5206305,Goiás,4,5e-05,0
+3729,Crixás,5206404,Goiás,1607,0.0183,0
+3730,Cromínia,5206503,Goiás,1066,0.01214,0
+3731,Cumari,5206602,Goiás,86,0.00098,0
+3732,Damianópolis,5206701,Goiás,212,0.00241,0
+3733,Doverlândia,5207253,Goiás,63,0.00072,0
+3734,Edealina,5207352,Goiás,2211,0.02518,0
+3735,Edéia,5207402,Goiás,304,0.00346,0
+3736,Estrela do Norte,5207501,Goiás,174,0.00198,0
+3737,Faina,5207535,Goiás,60,0.00068,0
+3738,Fazenda Nova,5207600,Goiás,11,0.00013,0
+3739,Firminópolis,5207808,Goiás,846,0.00964,0
+3740,Flores de Goiás,5207907,Goiás,89,0.00101,0
+3741,Formosa,5208004,Goiás,14804,0.16861,0
+3742,Formoso,5208103,Goiás,42,0.00048,0
+3743,Divinópolis de Goiás,5208301,Goiás,85,0.00097,0
+3744,Goiandira,5208509,Goiás,136,0.00155,0
+3745,Goianésia,5208608,Goiás,1101,0.01254,1
+3746,Goiânia,5208707,Goiás,204193,2.32565,1
+3747,Goianira,5208806,Goiás,1401,0.01596,0
+3748,Goiás,5208905,Goiás,666,0.00759,1
+3749,Goiatuba,5209101,Goiás,2735,0.03115,0
+3750,Gouvelândia,5209150,Goiás,21,0.00024,0
+3751,Guapó,5209200,Goiás,284,0.00323,0
+3752,Heitoraí,5209606,Goiás,41,0.00047,0
+3753,Iaciara,5209903,Goiás,217,0.00247,0
+3754,Inaciolândia,5209937,Goiás,3,3e-05,0
+3755,Indiara,5209952,Goiás,264,0.00301,0
+3756,Inhumas,5210000,Goiás,3735,0.04254,0
+3757,Ipameri,5210109,Goiás,117,0.00133,0
+3758,Ipiranga de Goiás,5210158,Goiás,25,0.00028,0
+3759,Iporá,5210208,Goiás,3993,0.04548,1
+3760,Israelândia,5210307,Goiás,208,0.00237,0
+3761,Itaberaí,5210406,Goiás,255,0.0029,0
+3762,Itaguari,5210562,Goiás,46,0.00052,0
+3763,Itajá,5210802,Goiás,1003,0.01142,0
+3764,Itapaci,5210901,Goiás,573,0.00653,0
+3765,Itapirapuã,5211008,Goiás,95,0.00108,0
+3766,Itapuranga,5211206,Goiás,237,0.0027,0
+3767,Itarumã,5211305,Goiás,36,0.00041,0
+3768,Itauçu,5211404,Goiás,161,0.00183,0
+3769,Itumbiara,5211503,Goiás,11157,0.12707,1
+3770,Ivolândia,5211602,Goiás,974,0.01109,0
+3771,Jandaia,5211701,Goiás,1,1e-05,0
+3772,Jaraguá,5211800,Goiás,1013,0.01154,0
+3773,Jataí,5211909,Goiás,3755,0.04277,0
+3774,Joviânia,5212105,Goiás,12,0.00014,0
+3775,Jussara,5212204,Goiás,155,0.00177,0
+3776,Leopoldo de Bulhões,5212303,Goiás,14,0.00016,0
+3777,Luziânia,5212501,Goiás,80,0.00091,1
+3778,Mairipotaba,5212600,Goiás,1066,0.01214,0
+3779,Mambaí,5212709,Goiás,81,0.00092,0
+3780,Mara Rosa,5212808,Goiás,35,0.0004,0
+3781,Marzagão,5212907,Goiás,262,0.00298,0
+3782,Maurilândia,5213004,Goiás,292,0.00333,0
+3783,Minaçu,5213087,Goiás,1349,0.01536,0
+3784,Mineiros,5213103,Goiás,1895,0.02158,1
+3785,Moiporá,5213400,Goiás,14,0.00016,0
+3786,Monte Alegre de Goiás,5213509,Goiás,59,0.00067,0
+3787,Montes Claros de Goiás,5213707,Goiás,580,0.00661,0
+3788,Montividiu,5213756,Goiás,31,0.00035,0
+3789,Montividiu do Norte,5213772,Goiás,50,0.00057,0
+3790,Morrinhos,5213806,Goiás,207,0.00236,0
+3791,Mozarlândia,5214002,Goiás,7,8e-05,0
+3792,Nazário,5214408,Goiás,252,0.00287,0
+3793,Nerópolis,5214507,Goiás,91,0.00104,0
+3794,Niquelândia,5214606,Goiás,222,0.00253,0
+3795,Nova Crixás,5214838,Goiás,11,0.00013,0
+3796,Nova Glória,5214861,Goiás,88,0.001,0
+3797,Nova Iguaçu de Goiás,5214879,Goiás,11,0.00013,0
+3798,Nova Veneza,5215009,Goiás,72,0.00082,0
+3799,Novo Brasil,5215207,Goiás,31,0.00035,0
+3800,Orizona,5215306,Goiás,162,0.00185,0
+3801,Ouro Verde de Goiás,5215405,Goiás,11,0.00013,0
+3802,Ouvidor,5215504,Goiás,97,0.0011,0
+3803,Padre Bernardo,5215603,Goiás,657,0.00748,0
+3804,Palestina de Goiás,5215652,Goiás,26,0.0003,0
+3805,Palmeiras de Goiás,5215702,Goiás,226,0.00257,0
+3806,Paranaiguara,5216304,Goiás,430,0.0049,0
+3807,Paraúna,5216403,Goiás,597,0.0068,0
+3808,Petrolina de Goiás,5216809,Goiás,169,0.00192,0
+3809,Pilar de Goiás,5216908,Goiás,19,0.00022,0
+3810,Piracanjuba,5217104,Goiás,96,0.00109,0
+3811,Piranhas,5217203,Goiás,944,0.01075,0
+3812,Pires do Rio,5217401,Goiás,293,0.00334,0
+3813,Planaltina,5217609,Goiás,497,0.00566,1
+3814,Pontalina,5217708,Goiás,127,0.00145,0
+3815,Porangatu,5218003,Goiás,9943,0.11325,1
+3816,Posse,5218300,Goiás,2842,0.03237,1
+3817,Professor Jamil,5218391,Goiás,84,0.00096,0
+3818,Quirinópolis,5218508,Goiás,432,0.00492,0
+3819,Rialma,5218607,Goiás,1213,0.01382,1
+3820,Rianápolis,5218706,Goiás,297,0.00338,0
+3821,Rio Quente,5218789,Goiás,951,0.01083,0
+3822,Rio Verde,5218805,Goiás,8351,0.09511,1
+3823,Rubiataba,5218904,Goiás,41,0.00047,0
+3824,Sanclerlândia,5219001,Goiás,66,0.00075,0
+3825,Santa Bárbara de Goiás,5219100,Goiás,257,0.00293,0
+3826,Santa Fé de Goiás,5219258,Goiás,19,0.00022,0
+3827,Santa Helena de Goiás,5219308,Goiás,1629,0.01855,0
+3828,Santa Rita do Araguaia,5219407,Goiás,584,0.00665,0
+3829,Santa Rosa de Goiás,5219506,Goiás,57,0.00065,0
+3830,Santa Tereza de Goiás,5219605,Goiás,22,0.00025,0
+3831,Santa Terezinha de Goiás,5219704,Goiás,497,0.00566,0
+3832,Santo Antônio da Barra,5219712,Goiás,186,0.00212,0
+3833,São Domingos,5219803,Goiás,21,0.00024,0
+3834,São Francisco de Goiás,5219902,Goiás,247,0.00281,0
+3835,São João d'Aliança,5220009,Goiás,303,0.00345,0
+3836,São Luís de Montes Belos,5220108,Goiás,4519,0.05147,0
+3837,São Luiz do Norte,5220157,Goiás,41,0.00047,0
+3838,São Miguel do Araguaia,5220207,Goiás,115,0.00131,0
+3839,São Simão,5220405,Goiás,736,0.00838,0
+3840,Serranópolis,5220504,Goiás,70,0.0008,0
+3841,Silvânia,5220603,Goiás,991,0.01129,0
+3842,Sítio d'Abadia,5220702,Goiás,23,0.00026,0
+3843,Taquaral de Goiás,5221007,Goiás,3,3e-05,0
+3844,Teresina de Goiás,5221080,Goiás,282,0.00321,0
+3845,Três Ranchos,5221304,Goiás,57,0.00065,0
+3846,Trindade,5221403,Goiás,7571,0.08623,0
+3847,Turvânia,5221502,Goiás,139,0.00158,0
+3848,Turvelândia,5221551,Goiás,353,0.00402,0
+3849,Uruaçu,5221601,Goiás,4970,0.05661,0
+3850,Uruana,5221700,Goiás,159,0.00181,0
+3851,Urutaí,5221809,Goiás,10,0.00011,0
+3852,Valparaíso de Goiás,5221858,Goiás,12,0.00014,0
+3853,Vianópolis,5222005,Goiás,39,0.00044,0
+3854,Vicentinópolis,5222054,Goiás,100,0.00114,0
+3855,Vila Boa,5222203,Goiás,367,0.00418,0
+3856,Brasília,5300108,Distrito Federal,124588,1.41899,1
