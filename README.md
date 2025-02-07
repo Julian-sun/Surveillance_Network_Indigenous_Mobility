@@ -22,6 +22,5 @@ Citation:
 
 If you use or adapt this work, we kindly ask that you cite our publication:
 
-Minding the Gap in Sentinel Surveillance Networks: An Analysis of Brazilian Indigenous Areas
 
 1 - Oliveira, J. F., Vasconcelos, A. O., Alencar, A. L., Cunha, M. C. L. S., Marcilio, I., Barral-Netto, M., & Ramos, P. I. P. (Year). Minding the Gap in Sentinel Surveillance Networks: An Analysis of Brazilian Indigenous Areas. Journal Name, Volume(Issue), Page Numbers.
