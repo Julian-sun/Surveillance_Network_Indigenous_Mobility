@@ -1,6 +1,6 @@
 # Surveillance_Network_Indigenous_Mobility
 
-This directory contains the optimized sentinel network model for early pathogen detection in Brazil, integrating human mobility and coverage Indigenous health areas. It proposes a more efficient arrangement of 199 cities, improving mobility coverage and ensuring surveillance in underserved regions, such as Indigenous areas.
+This directory contains the optimized sentinel network model for early pathogen detection in Brazil, integrating human mobility and Indigenous population coverage. It proposes a more efficient arrangement of 199 cities, improving mobility coverage and ensuring surveillance in underserved regions, including Indigenous areas.
 
 # Guidelines for Reproducing the Analysis
 
@@ -15,13 +15,12 @@ This directory contains all the necessary resources to reproduce the analysis co
 To reproduce the analysis, follow these steps:
 1. Clone this directory to your local machine using the following command:
    ```bash
-   git clone https://github.com/Julian-sun/Surveillance_Network_Indigenous_Mobility.git
+   git clone https://github.com/your-repository-name.git
 
-2. Use the optimisation_code.ipynb to obtain the list of optimised cities.
 
 Citation:
 
 If you use or adapt this work, we kindly ask that you cite our publication:
 
 
-1 - Oliveira JF, Vasconcelos AO, Alencar AL, Cunha MC, Marcilio I, Barral-Netto M, Ramos PI. Balancing human mobility and health care coverage in sentinel surveillance of Brazilian Indigenous areas: Mathematical optimization approach. JMIR Public Health and Surveillance. 2025 Apr 1;11(1):e69048.
+1 - Oliveira, J. F., Vasconcelos, A. O., Alencar, A. L., Cunha, M. C. L. S., Marcilio, I., Barral-Netto, M., & Ramos, P. I. P. (Year). Minding the Gap in Sentinel Surveillance Networks: An Analysis of Brazilian Indigenous Areas. Journal Name, Volume(Issue), Page Numbers.
